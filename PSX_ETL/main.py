@@ -1,256 +1,189 @@
 #!/usr/bin/env python3
 """
-PSX Historical Data Scraper
-============================
-Scrapes all-symbol daily data from https://dps.psx.com.pk/historical
-for every trading date from 2021-04-30 to today.
+PSX Historical Data Scraper — Playwright Edition (JS-rendered fallback)
+========================================================================
+Use this if psx_scraper.py returns 0 rows on trading days
+(i.e. the site loads table data via JavaScript).
 
-Output: psx_historical.csv
-Columns: date, symbol, ldcp, open, high, low, close, volume
+Prerequisites:
+    pip install playwright pandas
+    playwright install chromium
 
 Usage:
-    pip install requests beautifulsoup4 pandas tqdm
-    python psx_scraper.py
-
-Notes:
-  - The PSX site returns one page of results per date (all symbols).
-  - The page uses a POST form: POST /historical  with body: date=DD-MM-YYYY
-  - Results span multiple HTML table pages — handled via ?page=N param.
-  - Rate-limiting: 1 second delay between date requests (configurable).
-  - Progress is saved to psx_historical_partial.csv after each date,
-    so you can safely resume if interrupted.
-  - Already-scraped dates are skipped on resume.
+    python psx_scraper_playwright.py
+    python psx_scraper_playwright.py --start-date 2023-01-01 --headless false
 """
 
-import requests
+import asyncio
 import pandas as pd
-import time
-import os
-import sys
-from bs4 import BeautifulSoup
+from playwright.async_api import async_playwright, Page
 from datetime import date, timedelta
-from tqdm import tqdm
+from pathlib import Path
+import argparse
+import logging
+import time
 
-# ── Configuration ────────────────────────────────────────────────────────────
-START_DATE   = date(2021, 4, 30)
-END_DATE     = date.today()
-OUTPUT_FILE  = "outputs/psx_historical.csv"
-PARTIAL_FILE = "outputs/psx_historical_partial.csv"
-DELAY_SECS   = 1.0          # polite delay between date requests
-MAX_RETRIES  = 3             # retries per request on failure
-BASE_URL     = "https://dps.psx.com.pk/historical"
+logging.basicConfig(level=logging.INFO, format="%(asctime)s  %(levelname)-7s  %(message)s", datefmt="%H:%M:%S")
+log = logging.getLogger(__name__)
 
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/120.0.0.0 Safari/537.36"
-    ),
-    "Accept":          "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Accept-Language": "en-US,en;q=0.5",
-    "Referer":         "https://dps.psx.com.pk/",
-}
-# ─────────────────────────────────────────────────────────────────────────────
+BASE_URL      = "https://dps.psx.com.pk/historical"
+OUTPUT_FILE   = "outputs/psx_historical_data.csv"
+PROGRESS_FILE = "psx_scraper_progress.txt"
 
 
-def make_session() -> requests.Session:
-    s = requests.Session()
-    s.headers.update(HEADERS)
-    return s
+def date_range(start: date, end: date):
+    d = start
+    while d <= end:
+        yield d
+        d += timedelta(days=1)
 
 
-def fetch_page(session: requests.Session, date_str: str, page: int = 1) -> str | None:
-    """POST to PSX historical endpoint for a given date and page number."""
-    payload = {"date": date_str}
-    url = f"{BASE_URL}?page={page}" if page > 1 else BASE_URL
-
-    for attempt in range(1, MAX_RETRIES + 1):
+def load_progress() -> date | None:
+    if Path(PROGRESS_FILE).exists():
         try:
-            resp = session.post(url, data=payload, timeout=30)
-            resp.raise_for_status()
-            return resp.text
-        except requests.RequestException as e:
-            if attempt == MAX_RETRIES:
-                print(f"\n  ⚠  Failed {date_str} page {page} after {MAX_RETRIES} attempts: {e}")
-                return None
-            time.sleep(2 ** attempt)  # exponential backoff
-
-
-def parse_table(html: str) -> list[dict]:
-    """Parse the equities table from one page of HTML."""
-    soup = BeautifulSoup(html, "html.parser")
-    rows = []
-
-    table = soup.find("table")
-    if not table:
-        return rows
-
-    headers = [th.get_text(strip=True).lower() for th in table.find_all("th")]
-    if not headers:
-        return rows
-
-    for tr in table.find("tbody").find_all("tr") if table.find("tbody") else table.find_all("tr")[1:]:
-        cols = [td.get_text(strip=True) for td in tr.find_all("td")]
-        if len(cols) < len(headers):
-            continue
-        row = dict(zip(headers, cols))
-        rows.append(row)
-
-    return rows
-
-
-def get_last_page(html: str) -> int:
-    """Find the last pagination page number from the HTML."""
-    soup = BeautifulSoup(html, "html.parser")
-
-    # Look for pagination links — PSX uses Bootstrap pagination
-    pagination = soup.find("ul", class_="pagination")
-    if not pagination:
-        return 1
-
-    page_nums = []
-    for a in pagination.find_all("a", href=True):
-        href = a["href"]
-        if "page=" in href:
-            try:
-                p = int(href.split("page=")[-1].split("&")[0])
-                page_nums.append(p)
-            except ValueError:
-                pass
-        # also try text content
-        try:
-            page_nums.append(int(a.get_text(strip=True)))
-        except ValueError:
+            return date.fromisoformat(Path(PROGRESS_FILE).read_text().strip())
+        except Exception:
             pass
+    return None
 
-    return max(page_nums) if page_nums else 1
+
+def save_progress(d: date):
+    Path(PROGRESS_FILE).write_text(d.isoformat())
 
 
-def scrape_date(session: requests.Session, d: date) -> list[dict]:
-    """Scrape all pages for a single trading date. Returns list of row dicts."""
-    date_str = d.strftime("%d-%m-%Y")
+def clean(s: str) -> str:
+    return s.replace(",", "").strip() or None
+
+
+async def scrape_date_playwright(page: Page, target_date: date) -> list[dict]:
+    date_str = target_date.strftime("%d %b %Y")   # "30 Apr 2021"
+    url = f"{BASE_URL}?date={date_str.replace(' ', '+')}&page=1"
+
     all_rows = []
+    current_page = 1
 
-    # Fetch page 1 to discover total pages
-    html = fetch_page(session, date_str, page=1)
-    if not html:
-        return all_rows
+    while True:
+        nav_url = f"{BASE_URL}?date={date_str.replace(' ', '+')}&page={current_page}"
+        await page.goto(nav_url, wait_until="networkidle", timeout=30000)
 
-    first_rows = parse_table(html)
-    if not first_rows:
-        return all_rows  # non-trading day / no data
+        # Wait for table or "no data" message
+        try:
+            await page.wait_for_selector("table, .no-data, .empty", timeout=10000)
+        except Exception:
+            break
 
-    all_rows.extend(first_rows)
+        # Parse rows via JS evaluation (fast, no HTML download needed)
+        rows = await page.evaluate("""() => {
+            const table = document.querySelector('table');
+            if (!table) return [];
+            const rows = [];
+            table.querySelectorAll('tbody tr').forEach(tr => {
+                const cells = [...tr.querySelectorAll('td')].map(td => td.innerText.trim());
+                if (cells.length >= 7) {
+                    // skip leading index cell if not alphabetic
+                    let c = cells;
+                    if (!/^[A-Za-z]/.test(c[0])) c = c.slice(1);
+                    if (c.length >= 7) {
+                        rows.push({
+                            symbol: c[0],
+                            ldcp:   c[1].replace(/,/g,''),
+                            open:   c[2].replace(/,/g,''),
+                            high:   c[3].replace(/,/g,''),
+                            low:    c[4].replace(/,/g,''),
+                            close:  c[5].replace(/,/g,''),
+                            volume: c[6].replace(/,/g,''),
+                        });
+                    }
+                }
+            });
+            return rows;
+        }""")
 
-    last_page = get_last_page(html)
+        if not rows:
+            break
 
-    for page in range(2, last_page + 1):
-        html = fetch_page(session, date_str, page=page)
-        if html:
-            all_rows.extend(parse_table(html))
+        all_rows.extend(rows)
 
-    # Tag each row with the date
+        # Check for next page
+        has_next = await page.evaluate("""() => {
+            const links = [...document.querySelectorAll('a[href*="page="]')];
+            const currentPage = new URL(window.location.href).searchParams.get('page') || '1';
+            return links.some(a => {
+                const p = new URL(a.href).searchParams.get('page');
+                return p && parseInt(p) > parseInt(currentPage);
+            });
+        }""")
+
+        if not has_next:
+            break
+
+        current_page += 1
+        await asyncio.sleep(0.4)
+
     for row in all_rows:
-        row["date"] = d.isoformat()
+        row["date"] = target_date.strftime("%Y-%m-%d")
 
     return all_rows
 
 
-def normalise_columns(df: pd.DataFrame) -> pd.DataFrame:
-    """
-    Rename raw PSX column names to the canonical output schema.
-    PSX table headers (as of 2024): SYMBOL, LDCP, OPEN, HIGH, LOW, CLOSE, VOLUME
-    (sometimes also: CHANGE, CHANGE(%), TURNOVER)
-    """
-    rename_map = {}
-    for col in df.columns:
-        c = col.strip().lower()
-        if c in ("symbol", "code"):          rename_map[col] = "symbol"
-        elif c in ("ldcp", "prev. close"):   rename_map[col] = "ldcp"
-        elif c == "open":                     rename_map[col] = "open"
-        elif c == "high":                     rename_map[col] = "high"
-        elif c == "low":                      rename_map[col] = "low"
-        elif c in ("close", "current"):       rename_map[col] = "close"
-        elif c in ("volume", "turnover"):     rename_map[col] = "volume"
+async def main_async(args):
+    start = date.fromisoformat(args.start_date)
+    end   = date.fromisoformat(args.end_date)
 
-    df = df.rename(columns=rename_map)
+    resume_from = None if args.no_resume else load_progress()
+    effective_start = (resume_from + timedelta(days=1)) if (resume_from and resume_from >= start) else start
 
-    target_cols = ["date", "symbol", "ldcp", "open", "high", "low", "close", "volume"]
-    present = [c for c in target_cols if c in df.columns]
-    return df[present]
+    write_header = not Path(args.output).exists() or args.no_resume or (resume_from is None)
 
+    log.info(f"Date range : {effective_start}  →  {end}")
 
-def trading_dates(start: date, end: date) -> list[date]:
-    """Generate weekdays between start and end (inclusive)."""
-    dates = []
-    current = start
-    while current <= end:
-        if current.weekday() < 5:  # Mon–Fri
-            dates.append(current)
-        current += timedelta(days=1)
-    return dates
+    total_dates = (end - effective_start).days + 1
+    done = 0
+    total_rows = 0
 
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(headless=(args.headless.lower() != "false"))
+        page    = await browser.new_page()
+        await page.set_extra_http_headers({"Accept-Language": "en-US,en;q=0.9"})
 
-def load_done_dates() -> set[str]:
-    """Load already-scraped dates from the partial CSV."""
-    if not os.path.exists(PARTIAL_FILE):
-        return set()
-    try:
-        df = pd.read_csv(PARTIAL_FILE, usecols=["date"])
-        return set(df["date"].unique())
-    except Exception:
-        return set()
+        for d in date_range(effective_start, end):
+            done += 1
+            pct = done / total_dates * 100
+            log.info(f"[{pct:5.1f}%] Scraping {d} …")
 
+            try:
+                rows = await scrape_date_playwright(page, d)
+            except Exception as exc:
+                log.warning(f"Error on {d}: {exc}. Skipping.")
+                rows = []
 
-def append_to_csv(rows: list[dict], file: str, write_header: bool):
-    """Append a list of row dicts to the CSV file."""
-    if not rows:
-        return
-    df = pd.DataFrame(rows)
-    df = normalise_columns(df)
-    df.to_csv(file, mode="a", header=write_header, index=False)
+            if rows:
+                df = pd.DataFrame(rows, columns=["date", "symbol", "ldcp", "open", "high", "low", "close", "volume"])
+                df.to_csv(args.output, mode="a", index=False, header=write_header)
+                write_header = False
+                total_rows += len(rows)
+                log.info(f"          ✓ {len(rows):4d} records  (total: {total_rows:,})")
+            else:
+                log.info("          – No data")
+
+            save_progress(d)
+            await asyncio.sleep(args.delay)
+
+        await browser.close()
+
+    log.info(f"Done!  {total_rows:,} rows  →  {args.output}")
 
 
 def main():
-    print(f"PSX Historical Scraper")
-    print(f"Date range : {START_DATE} → {END_DATE}")
-    print(f"Output     : {OUTPUT_FILE}")
-    print()
-
-    all_dates    = trading_dates(START_DATE, END_DATE)
-    done_dates   = load_done_dates()
-    todo_dates   = [d for d in all_dates if d.isoformat() not in done_dates]
-
-    if not todo_dates:
-        print("All dates already scraped. Finalising output…")
-    else:
-        print(f"Dates to scrape : {len(todo_dates)}  (skipping {len(done_dates)} already done)")
-        print()
-
-        session       = make_session()
-        write_header  = not os.path.exists(PARTIAL_FILE)
-
-        for d in tqdm(todo_dates, desc="Scraping dates", unit="day"):
-            rows = scrape_date(session, d)
-            if rows:
-                append_to_csv(rows, PARTIAL_FILE, write_header)
-                write_header = False
-            time.sleep(DELAY_SECS)
-
-        print(f"\nPartial data saved to {PARTIAL_FILE}")
-
-    # Merge partial → final
-    if os.path.exists(PARTIAL_FILE):
-        df = pd.read_csv(PARTIAL_FILE)
-        df = df.drop_duplicates()
-        df = df.sort_values(["date", "symbol"])
-        df.to_csv(OUTPUT_FILE, index=False)
-        print(f"Final CSV saved to  : {OUTPUT_FILE}")
-        print(f"Total rows          : {len(df):,}")
-        print(f"Unique dates        : {df['date'].nunique():,}")
-        print(f"Unique symbols      : {df['symbol'].nunique():,}")
-    else:
-        print("No data was collected.")
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--start-date", default="2021-04-30")
+    parser.add_argument("--end-date",   default=date.today().isoformat())
+    parser.add_argument("--output",     default=OUTPUT_FILE)
+    parser.add_argument("--delay",      type=float, default=1.0)
+    parser.add_argument("--no-resume",  action="store_true")
+    parser.add_argument("--headless",   default="true", help="'false' to see browser")
+    args = parser.parse_args()
+    asyncio.run(main_async(args))
 
 
 if __name__ == "__main__":
