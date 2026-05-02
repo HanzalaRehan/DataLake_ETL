@@ -1,0 +1,3209 @@
+Crop,Province,District,Year,Area_000_Hectares,Area_Percent_Share,Production_000_Tons,Production_Percent_Share
+Wheat,Punjab,Attock,2021-22,182.92,2.8,310.34,1.5
+Wheat,Punjab,Attock,2022-23,190.2,2.9,348.21,1.6
+Wheat,Punjab,Rawalpindi,2021-22,159.85,2.4,311.16,1.6
+Wheat,Punjab,Rawalpindi,2022-23,162.68,2.5,340.57,1.6
+Wheat,Punjab,Muree,2021-22,0.00,0.0,0.00,0.0
+Wheat,Punjab,Muree,2022-23,5.66,0.1,8.46,0.0
+Wheat,Punjab,Islamabad,2021-22,32.78,0.5,59.68,0.3
+Wheat,Punjab,Islamabad,2022-23,33.18,0.5,64.19,0.3
+Wheat,Punjab,Jhelum,2021-22,77.29,1.2,152.22,0.8
+Wheat,Punjab,Jhelum,2022-23,85.39,1.3,193.87,0.9
+Wheat,Punjab,Chakwal,2021-22,150.53,2.3,252.02,1.3
+Wheat,Punjab,Chakwal,2022-23,100.76,1.6,178.49,0.8
+Wheat,Punjab,Talagang,2021-22,0.00,0.0,0.00,0.0
+Wheat,Punjab,Talagang,2022-23,53.42,0.8,94.2,0.4
+Wheat,Punjab,Sargodha,2021-22,195.05,3.0,545.62,2.7
+Wheat,Punjab,Sargodha,2022-23,200.72,3.1,630.12,3.0
+Wheat,Punjab,Khushab,2021-22,139.21,2.1,287.97,1.4
+Wheat,Punjab,Khushab,2022-23,123.02,1.9,290.75,1.4
+Wheat,Punjab,Mianwali,2021-22,200.32,3.1,539.96,2.7
+Wheat,Punjab,Mianwali,2022-23,190.2,2.9,588.45,2.8
+Wheat,Punjab,Bhakkar,2021-22,180.08,2.7,475.43,2.4
+Wheat,Punjab,Bhakkar,2022-23,163.09,2.5,471.66,2.2
+Wheat,Punjab,Faisalabad,2021-22,240.78,3.7,788.73,3.9
+Wheat,Punjab,Faisalabad,2022-23,233.09,3.6,852.94,4.0
+Wheat,Punjab,Toba Tek Singh,2021-22,135.16,2.1,451.30,2.3
+Wheat,Punjab,Toba Tek Singh,2022-23,130.31,2.0,470.51,2.2
+Wheat,Punjab,Jhang,2021-22,255.76,3.9,810.73,4.0
+Wheat,Punjab,Jhang,2022-23,263.44,4.1,934.32,4.4
+Wheat,Punjab,Chiniot,2021-22,96.72,1.5,331.92,1.7
+Wheat,Punjab,Chiniot,2022-23,98.34,1.5,368,1.7
+Wheat,Punjab,Gujrat,2021-22,157.02,2.4,321.88,1.6
+Wheat,Punjab,Gujrat,2022-23,159.44,2.5,363.43,1.7
+Wheat,Punjab,M.B. Din,2021-22,127.07,1.9,355.70,1.8
+Wheat,Punjab,M.B. Din,2022-23,133.54,2.1,432.43,2.0
+Wheat,Punjab,Sialkot,2021-22,185.34,2.8,462.40,2.3
+Wheat,Punjab,Sialkot,2022-23,190.2,2.9,565.13,2.7
+Wheat,Punjab,Narowal,2021-22,123.43,1.9,279.72,1.4
+Wheat,Punjab,Narowal,2022-23,126.25,1.9,364.83,1.7
+Wheat,Punjab,Gujranwala,2021-22,230.67,3.5,685.14,3.4
+Wheat,Punjab,Gujranwala,2022-23,162.28,2.5,544.56,2.6
+Wheat,Punjab,Hafizabad,2021-22,146.90,2.2,483.81,2.4
+Wheat,Punjab,Hafizabad,2022-23,150.94,2.3,595.46,2.8
+Wheat,Punjab,Wazirabad,2021-22,0.00,0.0,0.00,0.0
+Wheat,Punjab,Wazirabad,2022-23,73.65,1.1,235,1.1
+Wheat,Punjab,Sheikhupura,2021-22,220.95,3.4,669.18,3.3
+Wheat,Punjab,Sheikhupura,2022-23,228.24,3.5,755.53,3.6
+Wheat,Punjab,Nankana Sahib,2021-22,125.45,1.9,427.18,2.1
+Wheat,Punjab,Nankana Sahib,2022-23,128.69,2.0,456.01,2.1
+Wheat,Punjab,Lahore,2021-22,43.71,0.7,150.12,0.7
+Wheat,Punjab,Lahore,2022-23,45.73,0.7,159.6,0.8
+Wheat,Punjab,Kasur,2021-22,129.90,2.0,406.26,2.0
+Wheat,Punjab,Kasur,2022-23,127.47,2.0,434.32,2.0
+Wheat,Punjab,Okara,2021-22,133.14,2.0,502.58,2.5
+Wheat,Punjab,Okara,2022-23,129.09,2.0,506.44,2.4
+Wheat,Punjab,Sahiwal,2021-22,112.91,1.7,384.91,1.9
+Wheat,Punjab,Sahiwal,2022-23,111.29,1.7,407.77,1.9
+Wheat,Punjab,Pakpattan,2021-22,93.89,1.4,323.50,1.6
+Wheat,Punjab,Pakpattan,2022-23,85.39,1.3,324.77,1.5
+Wheat,Punjab,Multan,2021-22,176.84,2.7,642.04,3.2
+Wheat,Punjab,Multan,2022-23,173.2,2.7,641.49,3.0
+Wheat,Punjab,Lodhran,2021-22,165.51,2.5,622.83,3.1
+Wheat,Punjab,Lodhran,2022-23,155.4,2.4,594.74,2.8
+Wheat,Punjab,Khanewal,2021-22,214.88,3.3,792.89,4.0
+Wheat,Punjab,Khanewal,2022-23,194.25,3.0,726.91,3.4
+Wheat,Punjab,Vehari,2021-22,180.49,2.8,629.04,3.1
+Wheat,Punjab,Vehari,2022-23,159.85,2.5,594.24,2.8
+Wheat,Punjab,M. Garh,2021-22,242.40,3.7,736.05,3.7
+Wheat,Punjab,M. Garh,2022-23,141.23,2.2,460.96,2.2
+Wheat,Punjab,Kot Addu,2021-22,0.00,0.0,0.00,0.0
+Wheat,Punjab,Kot Addu,2022-23,93.08,1.4,269.84,1.3
+Wheat,Punjab,Layyah,2021-22,273.16,4.2,817.83,4.1
+Wheat,Punjab,Layyah,2022-23,271.54,4.2,837.94,3.9
+Wheat,Punjab,D.G. Khan,2021-22,237.95,3.6,755.46,3.8
+Wheat,Punjab,D.G. Khan,2022-23,220.55,3.4,739.46,3.5
+Wheat,Punjab,Rajanpur,2021-22,193.84,3.0,672.21,3.4
+Wheat,Punjab,Rajanpur,2022-23,185.34,2.9,649.12,3.1
+Wheat,Punjab,Bahawalpur,2021-22,295.82,4.5,1052.06,5.3
+Wheat,Punjab,Bahawalpur,2022-23,287.73,4.4,1073.61,5.1
+Wheat,Punjab,Rahimyar Khan,2021-22,277.20,4.2,1028.05,5.1
+Wheat,Punjab,Rahimyar Khan,2022-23,289.34,4.5,1093.66,5.2
+Wheat,Punjab,Bahawalnagar,2021-22,424.91,6.5,1513.89,7.6
+Wheat,Punjab,Bahawalnagar,2022-23,423.29,6.5,1563.04,7.4
+Wheat,Punjab,Total,2021-22,6559.83,,20031.81,
+Wheat,Punjab,Total,2022-23,6480.50,,21225.03,
+Wheat,Sindh,Khairpur,2021-22,107.88,9.1,362.56,10.2
+Wheat,Sindh,Khairpur,2022-23,115.52,9.3,336.29,8.5
+Wheat,Sindh,Ghotki,2021-22,108.83,9.2,288.13,8.1
+Wheat,Sindh,Ghotki,2022-23,107.86,8.7,289.65,7.4
+Wheat,Sindh,Sukkur,2021-22,52.10,4.4,154.49,4.3
+Wheat,Sindh,Sukkur,2022-23,49.66,4.0,171.77,4.4
+Wheat,Sindh,N. Feroze,2021-22,109.41,9.3,380.09,10.7
+Wheat,Sindh,N. Feroze,2022-23,95.12,7.7,339.50,8.6
+Wheat,Sindh,Shaheed Benazir Abad,2021-22,90.30,7.6,319.68,9.0
+Wheat,Sindh,Shaheed Benazir Abad,2022-23,84.98,6.9,356.66,9.1
+Wheat,Sindh,Jacobabad,2021-22,32.17,2.7,88.66,2.5
+Wheat,Sindh,Jacobabad,2022-23,27.33,2.2,86.52,2.2
+Wheat,Sindh,Kashmore,2021-22,34.91,3.0,103.63,2.9
+Wheat,Sindh,Kashmore,2022-23,41.96,3.4,121.12,3.1
+Wheat,Sindh,Shikarpur,2021-22,38.11,3.2,120.55,3.4
+Wheat,Sindh,Shikarpur,2022-23,45.32,3.7,127.85,3.2
+Wheat,Sindh,Larkana,2021-22,54.02,4.6,187.07,5.3
+Wheat,Sindh,Larkana,2022-23,56.89,4.6,241.70,6.1
+Wheat,Sindh,Kambar Shahdat Kot,2021-22,56.14,4.8,122.36,3.4
+Wheat,Sindh,Kambar Shahdat Kot,2022-23,78.38,6.3,234.16,5.9
+Wheat,Sindh,Sanghar,2021-22,112.71,9.5,317.50,8.9
+Wheat,Sindh,Sanghar,2022-23,123.79,10.0,348.10,8.8
+Wheat,Sindh,Tharparkar,2021-22,2.48,0.2,6.83,0.2
+Wheat,Sindh,Tharparkar,2022-23,2.38,0.2,5.97,0.2
+Wheat,Sindh,Mirpurkhas,2021-22,64.50,5.5,177.81,5.0
+Wheat,Sindh,Mirpurkhas,2022-23,73.89,6.0,223.34,5.7
+Wheat,Sindh,Umarkot,2021-22,40.16,3.4,77.64,2.2
+Wheat,Sindh,Umarkot,2022-23,48.88,3.9,143.05,3.6
+Wheat,Sindh,Dadu,2021-22,79.09,6.7,250.08,7.0
+Wheat,Sindh,Dadu,2022-23,79.88,6.5,284.23,7.2
+Wheat,Sindh,Jamshoro,2021-22,39.05,3.3,105.46,3.0
+Wheat,Sindh,Jamshoro,2022-23,42.59,3.4,110.37,2.8
+Wheat,Sindh,Hyderabad,2021-22,16.26,1.4,61.06,1.7
+Wheat,Sindh,Hyderabad,2022-23,15.24,1.2,63.27,1.6
+Wheat,Sindh,Matiari,2021-22,41.65,3.5,175.76,4.9
+Wheat,Sindh,Matiari,2022-23,47.60,3.8,188.23,4.8
+Wheat,Sindh,Tando Allahyar,2021-22,31.08,2.6,112.12,3.2
+Wheat,Sindh,Tando Allahyar,2022-23,36.00,2.9,112.36,2.9
+Wheat,Sindh,T.M.Khan,2021-22,15.62,1.3,43.41,1.2
+Wheat,Sindh,T.M.Khan,2022-23,8.22,0.7,26.01,0.7
+Wheat,Sindh,Badin,2021-22,35.15,3.0,52.12,1.5
+Wheat,Sindh,Badin,2022-23,39.63,3.2,90.03,2.3
+Wheat,Sindh,Thatta,2021-22,18.55,1.6,45.26,1.3
+Wheat,Sindh,Thatta,2022-23,15.54,1.3,35.49,0.9
+Wheat,Sindh,Karachi,2021-22,1.55,0.1,4.48,0.1
+Wheat,Sindh,Karachi,2022-23,1.58,0.1,4.52,0.1
+Wheat,Sindh,Total,2021-22,1181.71,,3556.74,
+Wheat,Sindh,Total,2022-23,1238.23,,3940.17,
+Wheat,Kpk,Bannu,2021-22,13.12,1.7,28.47,2.1
+Wheat,Kpk,Bannu,2022-23,13.89,1.8,30.35,2.1
+Wheat,Kpk,Lakki Marwat,2021-22,17.81,2.3,19.67,1.4
+Wheat,Kpk,Lakki Marwat,2022-23,18.32,2.4,20.85,1.4
+Wheat,Kpk,D.Ikhan,2021-22,63.98,8.4,148.30,10.9
+Wheat,Kpk,D.Ikhan,2022-23,52.45,6.8,104.26,7.0
+Wheat,Kpk,Tank,2021-22,13.50,1.8,34.25,2.5
+Wheat,Kpk,Tank,2022-23,14.91,1.9,31.35,2.1
+Wheat,Kpk,Abbottabad,2021-22,14.11,1.9,20.12,1.5
+Wheat,Kpk,Abbottabad,2022-23,14.44,1.9,21.86,1.5
+Wheat,Kpk,Battagram,2021-22,8.09,1.1,12.78,0.9
+Wheat,Kpk,Battagram,2022-23,7.99,1.0,12.44,0.8
+Wheat,Kpk,Haripur,2021-22,35.24,4.6,48.17,3.5
+Wheat,Kpk,Haripur,2022-23,35.26,4.6,55.10,3.7
+Wheat,Kpk,Kohistan,2021-22,2.05,0.3,3.12,0.2
+Wheat,Kpk,Kohistan,2022-23,2.07,0.3,3.14,0.2
+Wheat,Kpk,Torgar,2021-22,6.12,0.8,8.77,0.6
+Wheat,Kpk,Torgar,2022-23,6.18,0.8,8.86,0.6
+Wheat,Kpk,Mansehra,2021-22,36.63,4.8,60.02,4.4
+Wheat,Kpk,Mansehra,2022-23,34.40,4.5,56.36,3.8
+Wheat,Kpk,Kohat,2021-22,24.44,3.2,39.63,2.9
+Wheat,Kpk,Kohat,2022-23,25.39,3.3,40.61,2.7
+Wheat,Kpk,Karak,2021-22,6.07,0.8,2.70,0.2
+Wheat,Kpk,Karak,2022-23,5.90,0.8,3.42,0.2
+Wheat,Kpk,Hangu,2021-22,8.56,1.1,11.00,0.8
+Wheat,Kpk,Hangu,2022-23,8.18,1.1,11.43,0.8
+Wheat,Kpk,Mardan,2021-22,43.44,5.7,92.75,6.8
+Wheat,Kpk,Mardan,2022-23,44.45,5.8,115.97,7.8
+Wheat,Kpk,Sawabi,2021-22,37.22,4.9,89.02,6.5
+Wheat,Kpk,Sawabi,2022-23,39.00,5.1,97.40,6.6
+Wheat,Kpk,Bunir,2021-22,48.10,6.3,59.15,4.3
+Wheat,Kpk,Bunir,2022-23,49.26,6.4,70.26,4.8
+Wheat,Kpk,Chitral,2021-22,8.35,1.1,14.94,1.1
+Wheat,Kpk,Chitral,2022-23,8.35,1.1,16.12,1.1
+Wheat,Kpk,Malakand,2021-22,25.45,3.3,30.00,2.2
+Wheat,Kpk,Malakand,2022-23,26.50,3.4,46.41,3.1
+Wheat,Kpk,Dir Lower,2021-22,29.03,3.8,53.95,4.0
+Wheat,Kpk,Dir Lower,2022-23,28.86,3.7,55.86,3.8
+Wheat,Unknown,Dir Upper,2021-22,24.88,3.3,44.78,3.3
+Wheat,Unknown,Dir Upper,2022-23,25.67,3.3,46.71,3.2
+Wheat,Unknown,Shangla,2021-22,24.90,3.3,35.06,2.6
+Wheat,Unknown,Shangla,2022-23,25.58,3.3,33.84,2.3
+Wheat,Unknown,Swat,2021-22,58.90,7.7,115.30,8.5
+Wheat,Unknown,Swat,2022-23,58.75,7.6,113.52,7.7
+Wheat,Unknown,Peshawar,2021-22,35.45,4.7,77.92,5.7
+Wheat,Unknown,Peshawar,2022-23,34.67,4.5,84.93,5.7
+Wheat,Unknown,Charsada,2021-22,35.10,4.6,95.48,7.0
+Wheat,Unknown,Charsada,2022-23,35.78,4.6,101.33,6.9
+Wheat,Unknown,Nowshera,2021-22,27.34,3.6,65.80,4.8
+Wheat,Unknown,Nowshera,2022-23,28.00,3.6,68.10,4.6
+Wheat,Unknown,Bajour,2021-22,36.25,4.8,35.37,2.6
+Wheat,Unknown,Bajour,2022-23,39.84,5.2,69.94,4.7
+Wheat,Unknown,Khyber,2021-22,11.15,1.5,17.92,1.3
+Wheat,Unknown,Khyber,2022-23,12.63,1.6,25.29,1.7
+Wheat,Unknown,Kurram,2021-22,24.29,3.2,43.13,3.2
+Wheat,Unknown,Kurram,2022-23,27.13,3.5,54.32,3.7
+Wheat,Unknown,Muhmand,2021-22,7.42,1.0,9.68,0.7
+Wheat,Unknown,Muhmand,2022-23,8.32,1.1,13.10,0.9
+Wheat,Unknown,N. Waziristan,2021-22,5.09,0.7,8.40,0.6
+Wheat,Unknown,N. Waziristan,2022-23,5.81,0.8,13.12,0.9
+Wheat,Unknown,S. Waziristan,2021-22,8.66,1.1,11.90,0.9
+Wheat,Unknown,S. Waziristan,2022-23,9.88,1.3,13.13,0.9
+Wheat,Unknown,Oriakzai,2021-22,4.13,0.5,5.40,0.4
+Wheat,Unknown,Oriakzai,2022-23,4.77,0.6,8.69,0.6
+Wheat,Unknown,SD Bannu,2021-22,4.57,0.6,6.08,0.4
+Wheat,Unknown,SD Bannu,2022-23,5.15,0.7,9.56,0.6
+Wheat,Unknown,SD D.I. Khan,2021-22,4.90,0.6,5.27,0.4
+Wheat,Unknown,SD D.I. Khan,2022-23,5.50,0.7,8.19,0.6
+Wheat,Unknown,SD Hassan Khel,2021-22,1.70,0.2,1.98,0.1
+Wheat,Unknown,SD Hassan Khel,2022-23,5.15,0.7,10.13,0.7
+Wheat,Unknown,SD Kohat,2021-22,4.59,0.6,6.57,0.5
+Wheat,Unknown,SD Kohat,2022-23,1.86,0.2,3.19,0.2
+Wheat,Unknown,Total,2021-22,760.62,,1362.84,
+Wheat,Unknown,Total,2022-23,770.27,,1479.13,
+Wheat,Balochistan,Quetta,2021-22,2.44,0.5,5.94,0.5
+Wheat,Balochistan,Quetta,2022-23,2.39,0.4,5.59,0.4
+Wheat,Balochistan,Pishin,2021-22,3.81,0.8,9.20,0.7
+Wheat,Balochistan,Pishin,2022-23,4.97,0.9,13.23,0.9
+Wheat,Balochistan,K. Abdullah,2021-22,1.57,0.3,3.39,0.3
+Wheat,Balochistan,K. Abdullah,2022-23,1.79,0.3,4.28,0.3
+Wheat,Balochistan,Chagai,2021-22,7.00,1.5,14.90,1.2
+Wheat,Balochistan,Chagai,2022-23,6.03,1.1,15.37,1.0
+Wheat,Balochistan,Nushki,2021-22,7.93,1.7,18.78,1.5
+Wheat,Balochistan,Nushki,2022-23,8.42,1.5,21.01,1.4
+Wheat,Balochistan,Loralai,2021-22,10.03,2.1,24.57,2.0
+Wheat,Balochistan,Loralai,2022-23,12.07,2.2,27.62,1.8
+Wheat,Balochistan,Musa Khail,2021-22,2.55,0.5,4.64,0.4
+Wheat,Balochistan,Musa Khail,2022-23,3.53,0.6,6.73,0.4
+Wheat,Balochistan,Barkhan,2021-22,15.89,3.3,41.00,3.3
+Wheat,Balochistan,Barkhan,2022-23,16.75,3.1,42.21,2.8
+Wheat,Balochistan,Zhob,2021-22,6.50,1.4,12.47,1.0
+Wheat,Balochistan,Zhob,2022-23,6.21,1.1,14.34,0.9
+Wheat,Balochistan,Sherani,2021-22,1.20,0.3,2.20,0.2
+Wheat,Balochistan,Sherani,2022-23,1.15,0.2,2.44,0.2
+Wheat,Balochistan,Killa Saifullah,2021-22,8.21,1.7,20.06,1.6
+Wheat,Balochistan,Killa Saifullah,2022-23,8.37,1.5,21.37,1.4
+Wheat,Balochistan,Sibi,2021-22,16.54,3.5,40.47,3.2
+Wheat,Balochistan,Sibi,2022-23,17.32,3.2,44.08,2.9
+Wheat,Balochistan,Harnai,2021-22,1.40,0.3,3.40,0.3
+Wheat,Balochistan,Harnai,2022-23,1.54,0.3,3.93,0.3
+Wheat,Balochistan,Ziarat,2021-22,0.46,0.1,0.95,0.1
+Wheat,Balochistan,Ziarat,2022-23,0.53,0.1,1.33,0.1
+Wheat,Balochistan,Kohlu,2021-22,8.43,1.8,19.76,1.6
+Wheat,Balochistan,Kohlu,2022-23,10.30,1.9,26.03,1.7
+Wheat,Balochistan,Dera Bughti,2021-22,25.65,5.4,61.48,4.9
+Wheat,Balochistan,Dera Bughti,2022-23,27.40,5.0,48.80,3.2
+Wheat,Balochistan,Nasirabad,2021-22,86.26,18.2,262.68,20.9
+Wheat,Balochistan,Nasirabad,2022-23,93.25,17.2,325.62,21.5
+Wheat,Balochistan,Jaffarabad,2021-22,79.99,16.8,236.20,18.8
+Wheat,Balochistan,Jaffarabad,2022-23,73.98,13.6,214.54,14.1
+Wheat,Balochistan,Kachhi,2021-22,8.65,1.8,22.89,1.8
+Wheat,Balochistan,Kachhi,2022-23,30.99,5.7,86.61,5.7
+Wheat,Balochistan,Bolan,2021-22,0.00,0.0,0.00,0.0
+Wheat,Balochistan,Bolan,2022-23,0.00,0.0,0.00,0.0
+Wheat,Balochistan,Jhal Magsi,2021-22,55.74,11.7,145.06,11.5
+Wheat,Balochistan,Jhal Magsi,2022-23,58.53,10.8,174.68,11.5
+Wheat,Balochistan,Kalat,2021-22,4.10,0.9,10.50,0.8
+Wheat,Balochistan,Kalat,2022-23,7.58,1.4,19.76,1.3
+Wheat,Balochistan,Mastung,2021-22,3.32,0.7,8.64,0.7
+Wheat,Balochistan,Mastung,2022-23,4.90,0.9,13.18,0.9
+Wheat,Balochistan,Khuzdar,2021-22,52.42,11.0,130.33,10.4
+Wheat,Balochistan,Khuzdar,2022-23,67.00,12.3,182.51,12.0
+Wheat,Balochistan,Awaran,2021-22,17.22,3.6,41.30,3.3
+Wheat,Balochistan,Awaran,2022-23,21.00,3.9,55.66,3.7
+Wheat,Balochistan,Kharan,2021-22,11.68,2.5,27.12,2.2
+Wheat,Balochistan,Kharan,2022-23,9.73,1.8,25.75,1.7
+Wheat,Balochistan,Washuk,2021-22,8.90,1.9,20.30,1.6
+Wheat,Balochistan,Washuk,2022-23,10.30,1.9,19.98,1.3
+Wheat,Balochistan,Lasbela,2021-22,17.67,3.7,46.94,3.7
+Wheat,Balochistan,Lasbela,2022-23,25.52,4.7,71.47,4.7
+Wheat,Balochistan,Turbat,2021-22,3.24,0.7,8.20,0.7
+Wheat,Balochistan,Turbat,2022-23,5.21,1.0,13.57,0.9
+Wheat,Balochistan,Panjgoor,2021-22,5.80,1.2,13.67,1.1
+Wheat,Balochistan,Panjgoor,2022-23,6.49,1.2,13.64,0.9
+Wheat,Balochistan,Gwadar,2021-22,0.20,0.0,0.06,0.0
+Wheat,Balochistan,Gwadar,2022-23,0.42,0.1,0.92,0.1
+Wheat,Balochistan,Total,2021-22,474.74,,1257.09,
+Wheat,Balochistan,Total,2022-23,543.67,,1516.23,
+Rice,Punjab,Attock,2021-22,0.00,0.00,0.00,0.00
+Rice,Punjab,Attock,2022-23,0.00,0.00,0.00,0.00
+Rice,Punjab,Rawalpindi,2021-22,0.00,0.00,0.00,0.00
+Rice,Punjab,Rawalpindi,2022-23,0.00,0.00,0.00,0.00
+Rice,Punjab,Islamabad,2021-22,0.00,0.00,0.00,0.00
+Rice,Punjab,Islamabad,2022-23,0.00,0.00,0.00,0.00
+Rice,Punjab,Jhelum,2021-22,0.00,0.00,0.00,0.00
+Rice,Punjab,Jhelum,2022-23,2.43,0.11,4.83,0.10
+Rice,Punjab,Chakwal,2021-22,0.40,0.02,0.97,0.02
+Rice,Punjab,Chakwal,2022-23,0.00,0.00,0.00,0.00
+Rice,Punjab,Sargodha,2021-22,0.00,0.00,0.00,0.00
+Rice,Punjab,Sargodha,2022-23,43.71,2.00,83.25,1.64
+Rice,Punjab,Khushab,2021-22,0.00,0.00,,0.00
+Rice,Punjab,Khushab,2022-23,24.68,1.13,44.41,0.88
+Rice,Punjab,Mianwali,2021-22,55.85,2.42,113.48,2.18
+Rice,Punjab,Mianwali,2022-23,3.24,0.15,8.47,0.17
+Rice,Punjab,Bhakkar,2021-22,25.50,1.10,50.86,0.98
+Rice,Punjab,Bhakkar,2022-23,1.00,0.05,1.86,0.04
+Rice,Punjab,Faisalabad,2021-22,5.26,0.23,13.14,0.25
+Rice,Punjab,Faisalabad,2022-23,32.37,1.48,72.60,1.43
+Rice,Punjab,Toba Tek Singh,2021-22,1.62,0.07,3.34,0.06
+Rice,Punjab,Toba Tek Singh,2022-23,46.13,2.11,119.58,2.36
+Rice,Punjab,Jhang,2021-22,44.92,1.94,96.97,1.87
+Rice,Punjab,Jhang,2022-23,146.50,6.69,340.17,6.71
+Rice,Punjab,Chiniot,2021-22,48.96,2.12,121.56,2.34
+Rice,Punjab,Chiniot,2022-23,42.00,1.92,106.75,2.11
+Rice,Punjab,Gujrat,2021-22,161.07,6.97,385.57,7.42
+Rice,Punjab,Gujrat,2022-23,34.81,1.59,64.80,1.28
+Rice,Punjab,M.B. Din,2021-22,52.21,2.26,132.84,2.56
+Rice,Punjab,M.B. Din,2022-23,83.77,3.83,178.69,3.52
+Rice,Punjab,Sialkot,2021-22,38.44,1.66,70.49,1.36
+Rice,Punjab,Sialkot,2022-23,187.00,8.54,364.35,7.19
+Rice,Punjab,Narowal,2021-22,94.30,4.08,206.00,3.96
+Rice,Punjab,Narowal,2022-23,76.00,3.47,584.89,11.54
+Rice,Punjab,Gujranwala,2021-22,167.94,7.27,251.76,4.85
+Rice,Punjab,Gujranwala,2022-23,258.00,11.79,377.04,7.44
+Rice,Punjab,Hafizabad,2021-22,72.03,3.12,115.55,2.22
+Rice,Punjab,Hafizabad,2022-23,149.00,6.81,138.43,2.73
+Rice,Punjab,Sheikhupura,2021-22,260.21,11.26,564.17,10.86
+Rice,Punjab,Sheikhupura,2022-23,235.92,10.78,538.25,10.62
+Rice,Punjab,Nankana Sahib,2021-22,150.94,6.53,362.13,6.97
+Rice,Punjab,Nankana Sahib,2022-23,108.05,4.94,267.28,5.27
+Rice,Punjab,Lahore,2021-22,0.00,0.00,0.00,0.00
+Rice,Punjab,Lahore,2022-23,24.68,1.13,52.76,1.04
+Rice,Punjab,Kasur,2021-22,243.21,10.53,483.04,9.30
+Rice,Punjab,Kasur,2022-23,79.00,3.61,190.01,3.75
+Rice,Punjab,Okara,2021-22,113.71,4.92,273.49,5.26
+Rice,Punjab,Okara,2022-23,126.26,5.77,349.42,6.89
+Rice,Punjab,Sahiwal,2021-22,32.38,1.40,68.21,1.31
+Rice,Punjab,Sahiwal,2022-23,34.80,1.59,95.27,1.88
+Rice,Punjab,Pakpattan,2021-22,99.95,4.33,225.46,4.34
+Rice,Punjab,Pakpattan,2022-23,82.00,3.75,218.06,4.30
+Rice,Punjab,Multan,2021-22,156.61,6.78,461.36,8.88
+Rice,Punjab,Multan,2022-23,29.95,1.37,68.74,1.36
+Rice,Punjab,Lodhran,2021-22,44.52,1.93,107.04,2.06
+Rice,Punjab,Lodhran,2022-23,10.92,0.50,24.34,0.48
+Rice,Punjab,Khanewal,2021-22,105.21,4.55,256.63,4.94
+Rice,Punjab,Khanewal,2022-23,45.73,2.09,112.58,2.22
+Rice,Punjab,Vehari,2021-22,34.40,1.49,73.68,1.42
+Rice,Punjab,Vehari,2022-23,33.00,1.51,84.30,1.66
+Rice,Punjab,M. Garh,2021-22,29.13,1.26,56.97,1.10
+Rice,Punjab,M. Garh,2022-23,28.33,1.29,60.78,1.20
+Rice,Punjab,Layyah,2021-22,79.32,3.43,187.94,3.62
+Rice,Punjab,Layyah,2022-23,0.81,0.04,1.60,0.03
+Rice,Punjab,D.G. Khan,2021-22,57.06,2.47,142.01,2.73
+Rice,Punjab,D.G. Khan,2022-23,59.08,2.70,168.42,3.32
+Rice,Punjab,Rajanpur,2021-22,41.28,1.79,85.04,1.64
+Rice,Punjab,Rajanpur,2022-23,16.19,0.74,31.41,0.62
+Rice,Punjab,Bahawalpur,2021-22,0.00,0.00,0.00,0.00
+Rice,Punjab,Bahawalpur,2022-23,10.12,0.46,21.54,0.42
+Rice,Punjab,Rahimyar Khan,2021-22,5.67,0.25,12.62,0.24
+Rice,Punjab,Rahimyar Khan,2022-23,28.32,1.29,56.10,1.11
+Rice,Punjab,Bahawalnagar,2021-22,87.81,3.80,273.31,5.26
+Rice,Punjab,Bahawalnagar,2022-23,104.81,4.79,239.02,4.71
+Rice,Punjab,Total,2021-22,2309.91,,5195.63,
+Rice,Punjab,Total,2022-23,2188.61,,5070.00,
+Rice,Sindh,Khairpur,2021-22,0.00,0.00,0.00,0.00
+Rice,Sindh,Khairpur,2022-23,0.00,0.00,0.00,0.00
+Rice,Sindh,Ghotki,2021-22,0.00,0.00,0.00,0.00
+Rice,Sindh,Ghotki,2022-23,0.00,0.00,0.00,0.00
+Rice,Sindh,Sukkur,2021-22,1.81,0.24,0.00,0.00
+Rice,Sindh,Sukkur,2022-23,1.59,0.26,5.37,0.27
+Rice,Sindh,N. Feroze,2021-22,9.54,1.26,0.00,0.00
+Rice,Sindh,N. Feroze,2022-23,2.55,0.42,7.61,0.38
+Rice,Sindh,Shaheed Benazir Abad,2021-22,4.70,0.62,0.00,0.00
+Rice,Sindh,Shaheed Benazir Abad,2022-23,3.55,0.59,12.38,0.62
+Rice,Sindh,Jacobabad,2021-22,115.30,15.24,388.23,15.13
+Rice,Sindh,Jacobabad,2022-23,102.23,16.94,401.89,19.98
+Rice,Sindh,Kashmore,2021-22,70.03,9.26,173.66,6.77
+Rice,Sindh,Kashmore,2022-23,70.16,11.63,177.81,8.84
+Rice,Sindh,Shikarpur,2021-22,111.32,14.71,395.37,15.41
+Rice,Sindh,Shikarpur,2022-23,86.95,14.41,299.59,14.89
+Rice,Sindh,Larkana,2021-22,105.57,13.95,370.53,14.44
+Rice,Sindh,Larkana,2022-23,84.69,14.04,301.99,15.01
+Rice,Sindh,Kambar Shahdat Kot,2021-22,78.38,10.36,249.97,9.74
+Rice,Sindh,Kambar Shahdat Kot,2022-23,26.93,4.46,48.22,2.40
+Rice,Sindh,Sanghar,2021-22,0.00,0.00,0.00,0.00
+Rice,Sindh,Sanghar,2022-23,5.69,0.94,17.81,0.89
+Rice,Sindh,Tharparkar,2021-22,0.00,0.00,0.00,0.00
+Rice,Sindh,Tharparkar,2022-23,0.00,0.00,0.00,0.00
+Rice,Sindh,Mirpurkhas,2021-22,0.00,0.00,0.00,0.00
+Rice,Sindh,Mirpurkhas,2022-23,0.00,0.00,0.00,0.00
+Rice,Sindh,Umarkot,2021-22,0.00,0.00,0.00,0.00
+Rice,Sindh,Umarkot,2022-23,0.00,0.00,0.00,0.00
+Rice,Sindh,Dadu,2021-22,43.10,5.70,152.58,5.95
+Rice,Sindh,Dadu,2022-23,22.06,3.66,66.38,3.30
+Rice,Sindh,Jamshoro,2021-22,0.00,0.00,0.00,0.00
+Rice,Sindh,Jamshoro,2022-23,0.54,0.09,1.59,0.08
+Rice,Sindh,Hyderabad,2021-22,0.93,0.12,3.52,0.14
+Rice,Sindh,Hyderabad,2022-23,0.91,0.15,3.36,0.17
+Rice,Sindh,Matiari,2021-22,0.41,0.05,0.00,0.00
+Rice,Sindh,Matiari,2022-23,0.00,0.00,0.00,0.00
+Rice,Sindh,Tando Allahyar,2021-22,0.00,0.00,0.00,0.00
+Rice,Sindh,Tando Allahyar,2022-23,0.00,0.00,0.00,0.00
+Rice,Sindh,T.M.Khan,2021-22,14.75,1.95,50.03,1.95
+Rice,Sindh,T.M.Khan,2022-23,11.45,1.90,30.85,1.53
+Rice,Sindh,Badin,2021-22,116.21,15.36,481.11,18.75
+Rice,Sindh,Badin,2022-23,124.58,20.65,382.85,19.03
+Rice,Sindh,Thatta,2021-22,84.52,11.17,301.16,11.74
+Rice,Sindh,Thatta,2022-23,59.44,9.85,254.12,12.63
+Rice,Sindh,Karachi,2021-22,0.00,0.00,0.00,0.00
+Rice,Sindh,Karachi,2022-23,0.00,0.00,0.00,
+Rice,Sindh,Total,2021-22,756.57,,2566.16,
+Rice,Sindh,Total,2022-23,603.31,,2011.80,100.00
+Rice,Kpk,Bannu,2021-22,2.99,4.65,5.79,3.67
+Rice,Kpk,Bannu,2022-23,3.07,5.42,5.69,4.14
+Rice,Kpk,Lakki Marwat,2021-22,0.20,0.32,0.31,0.20
+Rice,Kpk,Lakki Marwat,2022-23,0.20,0.35,0.31,0.22
+Rice,Kpk,D.Ikhan,2021-22,11.41,17.77,31.38,19.92
+Rice,Kpk,D.Ikhan,2022-23,9.29,16.39,25.54,18.61
+Rice,Kpk,Tank,2021-22,0.65,1.01,1.04,0.66
+Rice,Kpk,Tank,2022-23,0.72,1.27,1.19,0.87
+Rice,Kpk,Abbottabad,2021-22,0.00,0.00,0.00,0.00
+Rice,Kpk,Abbottabad,2022-23,0.00,0.00,0.00,0.00
+Rice,Kpk,Battagram,2021-22,1.66,2.58,3.63,2.30
+Rice,Kpk,Battagram,2022-23,1.63,2.88,3.58,2.61
+Rice,Kpk,Haripur,2021-22,0.00,0.00,0.00,0.00
+Rice,Kpk,Haripur,2022-23,0.00,0.00,0.00,0.00
+Rice,Kpk,Kohistan,2021-22,0.08,0.13,0.19,0.12
+Rice,Kpk,Kohistan,2022-23,0.08,0.13,0.17,0.12
+Rice,Kpk,Mansehra,2021-22,1.42,2.21,3.73,2.37
+Rice,Kpk,Mansehra,2022-23,1.42,2.51,3.73,2.72
+Rice,Kpk,Kohat,2021-22,0.01,0.01,0.01,0.01
+Rice,Kpk,Kohat,2022-23,0.01,0.01,0.01,0.01
+Rice,Kpk,Karak,2021-22,0.00,0.00,0.00,0.00
+Rice,Kpk,Karak,2022-23,0.00,0.00,0.00,0.00
+Rice,Kpk,Hangu,2021-22,0.31,0.48,0.55,0.35
+Rice,Kpk,Hangu,2022-23,0.11,0.20,0.20,0.15
+Rice,Kpk,Mardan,2021-22,2.56,3.98,4.27,2.71
+Rice,Kpk,Mardan,2022-23,2.65,4.68,4.38,3.19
+Rice,Kpk,Sawabi,2021-22,0.47,0.73,0.72,0.46
+Rice,Kpk,Sawabi,2022-23,0.47,0.83,0.77,0.56
+Rice,Kpk,Bunir,2021-22,0.25,0.39,0.49,0.31
+Rice,Kpk,Bunir,2022-23,0.17,0.30,0.40,0.29
+Rice,Kpk,Chitral,2021-22,1.83,2.85,5.24,3.32
+Rice,Kpk,Chitral,2022-23,1.83,3.22,5.20,3.79
+Rice,Kpk,Malakand,2021-22,4.75,7.39,11.67,7.41
+Rice,Kpk,Malakand,2022-23,3.13,5.52,8.86,6.45
+Rice,Kpk,Dir Lower,2021-22,9.04,14.06,21.43,13.60
+Rice,Kpk,Dir Lower,2022-23,8.11,14.31,19.64,14.31
+Rice,Unknown,Dir Upper,2021-22,7.48,11.64,14.14,8.98
+Rice,Unknown,Dir Upper,2022-23,6.54,11.53,12.37,9.01
+Rice,Unknown,Shangla,2021-22,1.40,2.18,3.93,2.49
+Rice,Unknown,Shangla,2022-23,1.36,2.40,3.81,2.77
+Rice,Unknown,Swat,2021-22,6.23,9.70,22.14,14.05
+Rice,Unknown,Swat,2022-23,4.28,7.56,14.86,10.82
+Rice,Unknown,Peshawar,2021-22,0.04,0.07,0.15,0.09
+Rice,Unknown,Peshawar,2022-23,0.06,0.10,0.22,0.16
+Rice,Unknown,Charsada,2021-22,0.05,0.08,0.12,0.08
+Rice,Unknown,Charsada,2022-23,0.07,0.12,0.15,0.11
+Rice,Unknown,Nowshera,2021-22,0.03,0.04,0.05,0.03
+Rice,Unknown,Nowshera,2022-23,0.02,0.04,0.05,0.03
+Rice,Unknown,Bajour,2021-22,4.79,7.45,7.58,4.81
+Rice,Unknown,Bajour,2022-23,4.79,8.45,7.55,5.50
+Rice,Unknown,Khyber,2021-22,0.00,0.00,0.00,0.00
+Rice,Unknown,Khyber,2022-23,0.00,0.00,0.00,0.00
+Rice,Unknown,Kurram,2021-22,5.97,9.28,17.91,11.37
+Rice,Unknown,Kurram,2022-23,6.00,10.58,17.45,12.72
+Rice,Unknown,Muhmand,2021-22,0.00,0.00,0.00,0.00
+Rice,Unknown,Muhmand,2022-23,0.00,0.00,0.00,0.00
+Rice,Unknown,N. Waziristan,2021-22,0.17,0.26,0.27,0.17
+Rice,Unknown,N. Waziristan,2022-23,0.19,0.33,0.30,0.22
+Rice,Unknown,S. Waziristan,2021-22,0.00,0.00,0.00,0.00
+Rice,Unknown,S. Waziristan,2022-23,0.00,0.00,0.00,0.00
+Rice,Unknown,Oriakzai,2021-22,0.38,0.59,0.70,0.44
+Rice,Unknown,Oriakzai,2022-23,0.39,0.68,0.70,0.51
+Rice,Unknown,SD Bannu,2021-22,0.00,0.00,0.00,0.00
+Rice,Unknown,SD Bannu,2022-23,0.00,0.00,0.00,0.00
+Rice,Unknown,SD D.I. Khan,2021-22,0.09,0.13,0.14,0.09
+Rice,Unknown,SD D.I. Khan,2022-23,0.09,0.16,0.15,0.11
+Rice,Unknown,SD Hassan Khel,2021-22,0.00,0.00,0.00,0.00
+Rice,Unknown,SD Hassan Khel,2022-23,0.00,0.00,0.00,0.00
+Rice,Unknown,SD Kohat,2021-22,0.00,0.00,0.00,0.00
+Rice,Unknown,SD Kohat,2022-23,0.00,0.00,0.00,0.00
+Rice,Unknown,Total,2021-22,64.24,,157.58,
+Rice,Unknown,Total,2022-23,56.67,,137.27,
+Rice,Balochistan,Quetta,2021-22,0.00,0.00,0.00,0.00
+Rice,Balochistan,Quetta,2022-23,0.00,0.00,0.00,0.00
+Rice,Balochistan,Pishin,2021-22,0.00,0.00,0.00,0.00
+Rice,Balochistan,Pishin,2022-23,0.00,0.00,0.00,0.00
+Rice,Balochistan,K. Abdullah,2021-22,0.00,0.00,0.00,0.00
+Rice,Balochistan,K. Abdullah,2022-23,0.00,0.00,0.00,0.00
+Rice,Balochistan,Chagai,2021-22,0.00,0.00,0.00,0.00
+Rice,Balochistan,Chagai,2022-23,0.00,0.00,0.00,0.00
+Rice,Balochistan,Loralai,2021-22,0.00,0.00,0.00,0.00
+Rice,Balochistan,Loralai,2022-23,0.00,0.00,0.00,0.00
+Rice,Balochistan,Musa Khail,2021-22,0.00,0.00,0.00,0.00
+Rice,Balochistan,Musa Khail,2022-23,0.00,0.00,0.00,0.00
+Rice,Balochistan,Barkhan,2021-22,0.00,0.00,0.00,0.00
+Rice,Balochistan,Barkhan,2022-23,0.00,0.00,0.00,0.00
+Rice,Balochistan,Zhob,2021-22,0.00,0.00,0.00,0.00
+Rice,Balochistan,Zhob,2022-23,0.00,0.00,0.00,0.00
+Rice,Balochistan,Sherani,2021-22,0.00,0.00,0.00,0.00
+Rice,Balochistan,Sherani,2022-23,0.00,0.00,0.00,0.00
+Rice,Balochistan,Killa Saifullah,2021-22,0.00,0.00,0.00,0.00
+Rice,Balochistan,Killa Saifullah,2022-23,0.00,0.00,0.00,0.00
+Rice,Balochistan,Sibi,2021-22,0.00,0.00,0.00,0.00
+Rice,Balochistan,Sibi,2022-23,0.00,0.00,0.00,0.00
+Rice,Balochistan,Harnai,2021-22,0.00,0.00,0.00,0.00
+Rice,Balochistan,Harnai,2022-23,0.05,0.04,0.14,0.13
+Rice,Balochistan,Ziarat,2021-22,0.05,0.03,0.14,0.03
+Rice,Balochistan,Ziarat,2022-23,0.00,0.00,0.00,0.00
+Rice,Balochistan,Kohlu,2021-22,0.00,0.00,0.00,0.00
+Rice,Balochistan,Kohlu,2022-23,0.00,0.00,0.00,0.00
+Rice,Balochistan,Dera Bughti,2021-22,0.00,0.00,0.00,0.00
+Rice,Balochistan,Dera Bughti,2022-23,0.17,0.13,0.47,0.45
+Rice,Balochistan,Nasirabad,2021-22,0.10,0.06,0.29,0.05
+Rice,Balochistan,Nasirabad,2022-23,48.78,38.42,10.80,10.47
+Rice,Balochistan,Jaffarabad,2021-22,65.11,40.34,216.43,41.24
+Rice,Balochistan,Jaffarabad,2022-23,75.15,59.20,85.51,82.89
+Rice,Balochistan,Kachhi,2021-22,93.53,57.94,301.52,57.46
+Rice,Balochistan,Kachhi,2022-23,0.00,0.00,0.00,0.00
+Rice,Balochistan,Jhal Magsi,2021-22,0.19,0.12,0.57,0.11
+Rice,Balochistan,Jhal Magsi,2022-23,0.21,0.16,0.16,0.15
+Rice,Balochistan,Kalat,2021-22,0.00,0.00,0.00,0.00
+Rice,Balochistan,Kalat,2022-23,0.00,0.00,0.00,0.00
+Rice,Balochistan,Mastung,2021-22,0.00,0.00,0.00,0.00
+Rice,Balochistan,Mastung,2022-23,0.00,0.00,0.00,0.00
+Rice,Balochistan,Khuzdar,2021-22,1.19,0.73,2.95,0.56
+Rice,Balochistan,Khuzdar,2022-23,1.29,1.01,3.24,3.14
+Rice,Balochistan,Awaran,2021-22,0.28,0.17,0.61,0.12
+Rice,Balochistan,Awaran,2022-23,0.28,0.22,0.62,0.60
+Rice,Balochistan,Kharan,2021-22,0.00,0.00,0.00,0.00
+Rice,Balochistan,Kharan,2022-23,0.00,0.00,0.00,0.00
+Rice,Balochistan,Washuk,2021-22,0.00,0.00,0.00,0.00
+Rice,Balochistan,Washuk,2022-23,0.00,0.00,0.00,0.00
+Rice,Balochistan,Lasbela,2021-22,0.00,0.00,0.00,0.00
+Rice,Balochistan,Lasbela,2022-23,0.00,0.00,0.00,0.00
+Rice,Balochistan,Turbat,2021-22,0.98,0.61,2.25,0.43
+Rice,Balochistan,Turbat,2022-23,1.02,0.80,2.19,2.12
+Rice,Balochistan,Panjgoor,2021-22,0.00,0.00,0.00,0.00
+Rice,Balochistan,Panjgoor,2022-23,0.02,0.01,0.03,0.03
+Rice,Balochistan,Gwadar,2021-22,0.00,0.00,0.00,0.00
+Rice,Balochistan,Gwadar,2022-23,0.00,0.00,0.00,0.00
+Rice,Balochistan,Total,2021-22,161.42,,524.75,
+Rice,Balochistan,Total,2022-23,126.95,,103.16,
+Maize,Punjab,Attock,2021-22,7.10,0.6,31.80,0.4
+Maize,Punjab,Attock,2022-23,6.50,0.5,30.90,0.3
+Maize,Punjab,Rawalpindi,2021-22,9.10,0.8,18.90,0.2
+Maize,Punjab,Rawalpindi,2022-23,5.40,0.4,8.80,0.1
+Maize,Punjab,Muree,2021-22,0.00,0.0,0.00,0.0
+Maize,Punjab,Muree,2022-23,0.00,0.0,0.00,0.0
+Maize,Punjab,Islamabad,2021-22,0.60,0.1,1.40,0.0
+Maize,Punjab,Islamabad,2022-23,0.00,0.0,0.00,0.0
+Maize,Punjab,Jhelum,2021-22,6.00,0.5,54.80,0.6
+Maize,Punjab,Jhelum,2022-23,4.60,0.4,22.20,0.2
+Maize,Punjab,Chakwal,2021-22,0.60,0.1,1.50,0.0
+Maize,Punjab,Chakwal,2022-23,0.70,0.1,1.30,0.0
+Maize,Punjab,Talagang,2021-22,0.00,0.0,0.00,0.0
+Maize,Punjab,Talagang,2022-23,0.10,0.0,0.30,0.0
+Maize,Punjab,Sargodha,2021-22,3.00,0.3,15.10,0.2
+Maize,Punjab,Sargodha,2022-23,3.80,0.3,31.60,0.3
+Maize,Punjab,Khushab,2021-22,0.00,0.0,0.00,0.0
+Maize,Punjab,Khushab,2022-23,0.00,0.0,0.00,0.0
+Maize,Punjab,Mianwali,2021-22,0.00,0.0,0.00,0.0
+Maize,Punjab,Mianwali,2022-23,0.00,0.0,0.00,0.0
+Maize,Punjab,Bhakkar,2021-22,0.00,0.0,0.00,0.0
+Maize,Punjab,Bhakkar,2022-23,0.00,0.0,0.00,0.0
+Maize,Punjab,Faisalabad,2021-22,54.70,4.6,365.90,4.2
+Maize,Punjab,Faisalabad,2022-23,53.70,4.3,448.00,4.5
+Maize,Punjab,Toba Tek Singh,2021-22,50.10,4.2,321.70,3.7
+Maize,Punjab,Toba Tek Singh,2022-23,48.10,3.9,379.10,3.8
+Maize,Punjab,Jhang,2021-22,3.30,0.3,52.20,0.6
+Maize,Punjab,Jhang,2022-23,5.00,0.4,48.30,0.5
+Maize,Punjab,Chiniot,2021-22,28.00,2.4,234.50,2.7
+Maize,Punjab,Chiniot,2022-23,33.30,2.7,311.20,3.1
+Maize,Punjab,Gujrat,2021-22,0.00,0.0,0.00,0.0
+Maize,Punjab,Gujrat,2022-23,0.00,0.0,0.00,0.0
+Maize,Punjab,M.B. Din,2021-22,0.40,0.0,1.90,0.0
+Maize,Punjab,M.B. Din,2022-23,0.60,0.0,3.10,0.0
+Maize,Punjab,Sialkot,2021-22,5.70,0.5,57.30,0.7
+Maize,Punjab,Sialkot,2022-23,5.60,0.5,68.80,0.7
+Maize,Punjab,Narowal,2021-22,0.10,0.0,0.90,0.0
+Maize,Punjab,Narowal,2022-23,0.00,0.0,0.00,0.0
+Maize,Punjab,Gujranwala,2021-22,2.80,0.2,26.10,0.3
+Maize,Punjab,Gujranwala,2022-23,2.00,0.2,18.20,0.2
+Maize,Punjab,Hafizabad,2021-22,0.40,0.0,2.00,0.0
+Maize,Punjab,Hafizabad,2022-23,0.70,0.1,1.80,0.0
+Maize,Punjab,Wazirabad,2021-22,0.00,0.0,0.00,0.0
+Maize,Punjab,Wazirabad,2022-23,1.80,0.1,12.50,0.1
+Maize,Punjab,Sheikhupura,2021-22,0.60,0.1,4.00,0.0
+Maize,Punjab,Sheikhupura,2022-23,1.20,0.1,8.00,0.1
+Maize,Punjab,Nankana Sahib,2021-22,4.50,0.4,38.10,0.4
+Maize,Punjab,Nankana Sahib,2022-23,4.70,0.4,41.80,0.4
+Maize,Punjab,Lahore,2021-22,2.10,0.2,9.50,0.1
+Maize,Punjab,Lahore,2022-23,1.70,0.1,8.70,0.1
+Maize,Punjab,Kasur,2021-22,77.80,6.6,663.70,7.7
+Maize,Punjab,Kasur,2022-23,86.40,6.9,848.20,8.4
+Maize,Punjab,Okara,2021-22,155.10,13.1,1156.10,13.4
+Maize,Punjab,Okara,2022-23,165.00,13.3,1328.00,13.2
+Maize,Punjab,Sahiwal,2021-22,125.20,10.6,846.10,9.8
+Maize,Punjab,Sahiwal,2022-23,105.90,8.5,890.20,8.9
+Maize,Punjab,Pakpattan,2021-22,163.30,13.8,1230.50,14.3
+Maize,Punjab,Pakpattan,2022-23,173.30,13.9,1479.80,14.7
+Maize,Punjab,Multan,2021-22,26.50,2.2,169.50,2.0
+Maize,Punjab,Multan,2022-23,29.70,2.4,211.40,2.1
+Maize,Punjab,Lodhran,2021-22,94.10,7.9,774.20,9.0
+Maize,Punjab,Lodhran,2022-23,96.70,7.8,694.50,6.9
+Maize,Punjab,Khanewal,2021-22,54.90,4.6,387.10,4.5
+Maize,Punjab,Khanewal,2022-23,67.20,5.4,570.80,5.7
+Maize,Punjab,Vehari,2021-22,245.10,20.7,1731.10,20.1
+Maize,Punjab,Vehari,2022-23,258.00,20.7,1948.80,19.4
+Maize,Punjab,M. Garh,2021-22,1.90,0.2,12.60,0.1
+Maize,Punjab,M. Garh,2022-23,2.50,0.2,15.20,0.2
+Maize,Punjab,Kot Addu,2021-22,0.00,0.0,0.00,0.0
+Maize,Punjab,Kot Addu,2022-23,0.00,0.0,0.00,0.0
+Maize,Punjab,Layyah,2021-22,0.00,0.0,0.00,0.0
+Maize,Punjab,Layyah,2022-23,0.00,0.0,0.00,0.0
+Maize,Punjab,D.G. Khan,2021-22,0.10,0.0,0.60,0.0
+Maize,Punjab,D.G. Khan,2022-23,0.40,0.0,3.90,0.0
+Maize,Punjab,Rajanpur,2021-22,0.00,0.0,0.00,0.0
+Maize,Punjab,Rajanpur,2022-23,0.00,0.0,0.00,0.0
+Maize,Punjab,Bahawalpur,2021-22,46.80,3.9,308.20,3.6
+Maize,Punjab,Bahawalpur,2022-23,54.70,4.4,394.40,3.9
+Maize,Punjab,Rahimyar Khan,2021-22,1.70,0.1,11.30,0.1
+Maize,Punjab,Rahimyar Khan,2022-23,3.00,0.2,26.40,0.3
+Maize,Punjab,Bahawalnagar,2021-22,13.70,1.2,100.20,1.2
+Maize,Punjab,Bahawalnagar,2022-23,21.10,1.7,198.20,2.0
+Maize,Punjab,Total,2021-22,1185.30,,8628.80,
+Maize,Punjab,Total,2022-23,1243.40,,10054.40,
+Maize,Sindh,Khairpur,2021-22,0.23,5.4,0.20,4.6
+Maize,Sindh,Khairpur,2022-23,0.21,6.8,0.19,5.9
+Maize,Sindh,Ghotki,2021-22,0.07,1.6,0.07,1.7
+Maize,Sindh,Ghotki,2022-23,0.07,2.4,0.08,2.4
+Maize,Sindh,Sukkur,2021-22,0.18,4.3,0.20,4.7
+Maize,Sindh,Sukkur,2022-23,0.09,2.9,0.10,3.1
+Maize,Sindh,N. Feroze,2021-22,0.23,5.4,0.18,4.1
+Maize,Sindh,N. Feroze,2022-23,0.18,5.8,0.14,4.5
+Maize,Sindh,Shaheed Benazir Abad,2021-22,0.02,0.5,0.02,0.5
+Maize,Sindh,Shaheed Benazir Abad,2022-23,0.00,0.0,0.00,0.0
+Maize,Sindh,Jacobabad,2021-22,0.00,0.0,0.00,0.0
+Maize,Sindh,Jacobabad,2022-23,0.00,0.0,0.00,0.0
+Maize,Sindh,Kashmore,2021-22,0.01,0.3,0.01,0.2
+Maize,Sindh,Kashmore,2022-23,0.00,0.0,0.00,0.0
+Maize,Sindh,Shikarpur,2021-22,0.02,0.5,0.02,0.5
+Maize,Sindh,Shikarpur,2022-23,0.00,0.0,0.00,0.0
+Maize,Sindh,Larkana,2021-22,0.00,0.0,0.00,0.0
+Maize,Sindh,Larkana,2022-23,0.00,0.0,0.00,0.0
+Maize,Sindh,Kambar Shahdat Kot,2021-22,0.00,0.0,0.00,0.0
+Maize,Sindh,Kambar Shahdat Kot,2022-23,0.00,0.0,0.00,0.0
+Maize,Sindh,Sanghar,2021-22,0.33,7.7,0.28,6.5
+Maize,Sindh,Sanghar,2022-23,0.35,11.2,0.30,9.4
+Maize,Sindh,Tharparkar,2021-22,0.15,3.4,0.12,2.7
+Maize,Sindh,Tharparkar,2022-23,0.07,2.3,0.06,1.7
+Maize,Sindh,Mirpurkhas,2021-22,0.03,0.7,0.02,0.4
+Maize,Sindh,Mirpurkhas,2022-23,0.02,0.6,0.01,0.3
+Maize,Sindh,Umarkot,2021-22,0.22,5.2,0.13,3.0
+Maize,Sindh,Umarkot,2022-23,0.16,5.2,0.09,3.0
+Maize,Sindh,Dadu,2021-22,0.13,2.9,0.13,3.1
+Maize,Sindh,Dadu,2022-23,0.01,0.2,0.01,0.2
+Maize,Sindh,Jamshoro,2021-22,0.32,7.4,0.32,7.3
+Maize,Sindh,Jamshoro,2022-23,0.16,5.1,0.16,5.0
+Maize,Sindh,Hyderabad,2021-22,0.03,0.6,0.04,0.8
+Maize,Sindh,Hyderabad,2022-23,0.01,0.4,0.02,0.5
+Maize,Sindh,Matiari,2021-22,0.80,18.9,1.02,23.4
+Maize,Sindh,Matiari,2022-23,0.77,25.0,0.97,30.9
+Maize,Sindh,Tando Allahyar,2021-22,0.19,4.5,0.19,4.2
+Maize,Sindh,Tando Allahyar,2022-23,0.00,0.0,0.00,0.0
+Maize,Sindh,T.M.Khan,2021-22,0.08,1.8,0.08,1.8
+Maize,Sindh,T.M.Khan,2022-23,0.08,2.7,0.09,2.7
+Maize,Sindh,Badin,2021-22,0.05,1.2,0.04,1.0
+Maize,Sindh,Badin,2022-23,0.04,1.1,0.04,1.2
+Maize,Sindh,Thatta,2021-22,1.07,25.1,1.18,27.1
+Maize,Sindh,Thatta,2022-23,0.76,24.7,0.80,25.3
+Maize,Sindh,Karachi,2021-22,0.11,2.5,0.11,2.5
+Maize,Sindh,Karachi,2022-23,0.11,3.7,0.12,3.7
+Maize,Sindh,Total,2021-22,4.255,,4.372,
+Maize,Sindh,Total,2022-23,3.067,,3.149,
+Maize,Kpk,Bannu,2021-22,5.00,1.1,10.80,1.2
+Maize,Kpk,Bannu,2022-23,5.16,1.1,10.65,1.2
+Maize,Kpk,Lakki Marwat,2021-22,1.30,0.3,2.56,0.3
+Maize,Kpk,Lakki Marwat,2022-23,1.21,0.3,2.40,0.3
+Maize,Kpk,D.Ikhan,2021-22,1.79,0.4,4.65,0.5
+Maize,Kpk,D.Ikhan,2022-23,1.70,0.4,4.41,0.5
+Maize,Kpk,Tank,2021-22,0.00,0.0,0.00,0.0
+Maize,Kpk,Tank,2022-23,0.37,0.1,0.97,0.1
+Maize,Kpk,Abbottabad,2021-22,19.06,4.2,38.46,4.3
+Maize,Kpk,Abbottabad,2022-23,19.40,4.1,32.23,3.5
+Maize,Kpk,Battagram,2021-22,20.91,4.6,33.96,3.8
+Maize,Kpk,Battagram,2022-23,19.03,4.1,30.89,3.3
+Maize,Kpk,Haripur,2021-22,32.56,7.1,33.22,3.7
+Maize,Kpk,Haripur,2022-23,32.54,6.9,34.81,3.8
+Maize,Kpk,Kohistan,2021-22,26.16,5.7,57.47,6.5
+Maize,Kpk,Kohistan,2022-23,26.08,5.6,57.29,6.2
+Maize,Kpk,Mansehra,2021-22,48.64,10.6,100.53,11.3
+Maize,Kpk,Mansehra,2022-23,46.94,10.0,97.21,10.5
+Maize,Kpk,Kohat,2021-22,0.88,0.2,1.46,0.2
+Maize,Kpk,Kohat,2022-23,0.90,0.2,1.50,0.2
+Maize,Kpk,Karak,2021-22,0.03,0.0,0.03,0.0
+Maize,Kpk,Karak,2022-23,0.02,0.0,0.03,0.0
+Maize,Kpk,Hangu,2021-22,5.66,1.2,5.13,0.6
+Maize,Kpk,Hangu,2022-23,5.38,1.1,4.45,0.5
+Maize,Kpk,Mardan,2021-22,23.86,5.2,72.22,8.1
+Maize,Kpk,Mardan,2022-23,23.60,5.0,68.78,7.4
+Maize,Kpk,Sawabi,2021-22,24.92,5.4,65.42,7.4
+Maize,Kpk,Sawabi,2022-23,27.24,5.8,60.82,6.6
+Maize,Kpk,Bunir,2021-22,48.50,10.6,50.21,5.7
+Maize,Kpk,Bunir,2022-23,48.26,10.3,74.70,8.1
+Maize,Kpk,Chitral,2021-22,5.51,1.2,12.45,1.4
+Maize,Kpk,Chitral,2022-23,5.50,1.2,11.88,1.3
+Maize,Kpk,Malakand,2021-22,4.48,1.0,11.14,1.3
+Maize,Kpk,Malakand,2022-23,4.42,0.9,11.10,1.2
+Maize,Kpk,Dir Lower,2021-22,18.73,4.1,48.85,5.5
+Maize,Kpk,Dir Lower,2022-23,20.18,4.3,51.90,5.6
+Maize,Kpk,Dir Upper,2021-22,5.84,1.3,12.33,1.4
+Maize,Kpk,Dir Upper,2022-23,5.00,1.1,10.46,1.1
+Maize,Unknown,Shangla,2021-22,35.34,7.7,53.43,6.0
+Maize,Unknown,Shangla,2022-23,37.57,8.0,56.35,6.1
+Maize,Unknown,Swat,2021-22,57.01,12.4,110.10,12.4
+Maize,Unknown,Swat,2022-23,62.96,13.4,118.92,12.9
+Maize,Unknown,Peshawar,2021-22,17.88,3.9,50.59,5.7
+Maize,Unknown,Peshawar,2022-23,18.30,3.9,65.42,7.1
+Maize,Unknown,Charsada,2021-22,13.06,2.8,40.90,4.6
+Maize,Unknown,Charsada,2022-23,15.71,3.4,50.25,5.4
+Maize,Unknown,Nowshera,2021-22,10.71,2.3,34.02,3.8
+Maize,Unknown,Nowshera,2022-23,9.14,2.0,28.70,3.1
+Maize,Unknown,Bajour,2021-22,7.28,1.6,9.55,1.1
+Maize,Unknown,Bajour,2022-23,7.32,1.6,9.60,1.0
+Maize,Unknown,Khyber,2021-22,2.08,0.5,3.18,0.4
+Maize,Unknown,Khyber,2022-23,2.12,0.5,3.18,0.3
+Maize,Unknown,Kurram,2021-22,2.99,0.7,4.50,0.5
+Maize,Unknown,Kurram,2022-23,3.02,0.6,4.51,0.5
+Maize,Unknown,Muhmand,2021-22,0.38,0.1,0.47,0.1
+Maize,Unknown,Muhmand,2022-23,0.39,0.1,0.47,0.1
+Maize,Unknown,N. Waziristan,2021-22,3.90,0.9,3.79,0.4
+Maize,Unknown,N. Waziristan,2022-23,4.84,1.0,4.75,0.5
+Maize,Unknown,S. Waziristan,2021-22,4.04,0.9,4.37,0.5
+Maize,Unknown,S. Waziristan,2022-23,4.07,0.9,4.37,0.5
+Maize,Unknown,Oriakzai,2021-22,5.29,1.2,5.94,0.7
+Maize,Unknown,Oriakzai,2022-23,5.34,1.1,5.95,0.6
+Maize,Unknown,SD Bannu,2021-22,1.14,0.2,1.13,0.1
+Maize,Unknown,SD Bannu,2022-23,1.17,0.2,1.14,0.1
+Maize,Unknown,SD D.I. Khan,2021-22,0.60,0.1,0.46,0.1
+Maize,Unknown,SD D.I. Khan,2022-23,0.63,0.1,0.47,0.1
+Maize,Unknown,SD Hassan Khel,2021-22,0.98,0.2,1.02,0.1
+Maize,Unknown,SD Hassan Khel,2022-23,1.00,0.2,1.03,0.1
+Maize,Unknown,SD Kohat,2021-22,1.89,0.4,2.19,0.2
+Maize,Unknown,SD Kohat,2022-23,1.94,0.4,2.20,0.2
+Maize,Unknown,Total,2021-22,458.41,,886.52,
+Maize,Unknown,Total,2022-23,468.43,,923.78,
+Maize,Balochistan,Quetta,2021-22,0.00,0.0,0.00,0.0
+Maize,Balochistan,Quetta,2022-23,0.00,0.0,0.00,0.0
+Maize,Balochistan,Pishin,2021-22,0.01,0.2,0.01,0.3
+Maize,Balochistan,Pishin,2022-23,0.02,0.5,0.03,0.8
+Maize,Balochistan,K. Abdullah,2021-22,0.00,0.0,0.00,0.0
+Maize,Balochistan,K. Abdullah,2022-23,0.00,0.0,0.00,0.0
+Maize,Balochistan,Chagai,2021-22,1.02,22.7,1.15,23.8
+Maize,Balochistan,Chagai,2022-23,0.69,15.3,0.00,0.0
+Maize,Balochistan,Nushki,2021-22,0.03,0.6,0.03,0.6
+Maize,Balochistan,Nushki,2022-23,0.04,0.8,0.03,1.0
+Maize,Balochistan,Loralai,2021-22,0.54,12.0,0.61,12.6
+Maize,Balochistan,Loralai,2022-23,0.70,15.5,0.36,11.3
+Maize,Balochistan,Musa Khail,2021-22,0.68,15.0,0.69,14.2
+Maize,Balochistan,Musa Khail,2022-23,0.72,16.0,0.65,20.3
+Maize,Balochistan,Barkhan,2021-22,0.06,1.3,0.07,1.5
+Maize,Balochistan,Barkhan,2022-23,0.07,1.4,0.08,2.4
+Maize,Balochistan,Zhob,2021-22,0.14,3.1,0.13,2.6
+Maize,Balochistan,Zhob,2022-23,0.14,3.2,0.07,2.1
+Maize,Balochistan,Killa Saifullah,2021-22,0.15,3.3,0.16,3.4
+Maize,Balochistan,Killa Saifullah,2022-23,0.15,3.3,0.15,4.7
+Maize,Balochistan,Sibi,2021-22,0.05,1.0,0.05,1.0
+Maize,Balochistan,Sibi,2022-23,0.05,1.1,0.01,0.4
+Maize,Balochistan,Harnai,2021-22,0.00,0.0,0.00,0.0
+Maize,Balochistan,Harnai,2022-23,0.00,0.0,0.00,0.0
+Maize,Balochistan,Ziarat,2021-22,0.05,1.1,0.06,1.2
+Maize,Balochistan,Ziarat,2022-23,0.03,0.8,0.04,1.2
+Maize,Balochistan,Kohlu,2021-22,0.00,0.0,0.00,0.0
+Maize,Balochistan,Kohlu,2022-23,0.00,0.0,0.00,0.0
+Maize,Balochistan,Dera Bughti,2021-22,0.12,2.6,0.11,2.4
+Maize,Balochistan,Dera Bughti,2022-23,0.08,1.8,0.08,2.4
+Maize,Balochistan,Nasirabad,2021-22,0.00,0.0,0.00,0.0
+Maize,Balochistan,Nasirabad,2022-23,0.00,0.0,0.00,0.0
+Maize,Balochistan,Jaffarabad,2021-22,0.00,0.0,0.00,0.0
+Maize,Balochistan,Jaffarabad,2022-23,0.00,0.0,0.00,0.0
+Maize,Balochistan,Kachhi,2021-22,0.00,0.0,0.00,0.0
+Maize,Balochistan,Kachhi,2022-23,0.00,0.0,0.00,0.0
+Maize,Balochistan,Bolan,2021-22,0.00,0.0,0.00,0.0
+Maize,Balochistan,Bolan,2022-23,0.00,0.0,0.00,0.0
+Maize,Balochistan,Jhal Magsi,2021-22,0.00,0.0,0.00,0.0
+Maize,Balochistan,Jhal Magsi,2022-23,0.00,0.0,0.00,0.0
+Maize,Balochistan,Kalat,2021-22,0.00,0.0,0.00,0.0
+Maize,Balochistan,Kalat,2022-23,0.00,0.0,0.00,0.0
+Maize,Balochistan,Mastung,2021-22,0.00,0.0,0.00,0.0
+Maize,Balochistan,Mastung,2022-23,0.00,0.0,0.00,0.0
+Maize,Balochistan,Khuzdar,2021-22,0.60,13.2,0.58,12.0
+Maize,Balochistan,Khuzdar,2022-23,0.61,13.5,0.60,18.8
+Maize,Balochistan,Awaran,2021-22,0.36,8.0,0.33,6.9
+Maize,Balochistan,Awaran,2022-23,0.36,7.9,0.33,10.5
+Maize,Balochistan,Kharan,2021-22,0.02,0.5,0.02,0.5
+Maize,Balochistan,Kharan,2022-23,0.04,0.8,0.02,0.6
+Maize,Balochistan,Washuk,2021-22,0.04,0.8,0.04,0.8
+Maize,Balochistan,Washuk,2022-23,0.04,0.8,0.04,1.2
+Maize,Balochistan,Lasbela,2021-22,0.55,12.2,0.69,14.2
+Maize,Balochistan,Lasbela,2022-23,0.79,17.5,0.71,22.4
+Maize,Balochistan,Turbat,2021-22,0.00,0.0,0.00,0.0
+Maize,Balochistan,Turbat,2022-23,0.00,0.0,0.00,0.0
+Maize,Balochistan,Panjgoor,2021-22,0.10,2.2,0.10,2.0
+Maize,Balochistan,Panjgoor,2022-23,0.00,0.0,0.00,0.0
+Maize,Balochistan,Gwadar,2021-22,0.00,0.0,0.00,0.0
+Maize,Balochistan,Gwadar,2022-23,0.00,0.0,0.00,0.0
+Maize,Balochistan,Total,2021-22,4.50,,4.84,
+Maize,Balochistan,Total,2022-23,4.52,,3.18,
+Bajra,Punjab,Attock,2021-22,1.01,0.7,1.05,0.6
+Bajra,Punjab,Attock,2022-23,0.05,0.0,0.10,0.0
+Bajra,Punjab,Rawalpindi,2021-22,3.24,2.4,2.71,1.5
+Bajra,Punjab,Rawalpindi,2022-23,0.61,0.4,0.55,0.3
+Bajra,Punjab,Islamabad,2021-22,0.24,0.2,0.25,0.1
+Bajra,Punjab,Islamabad,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Jhelum,2021-22,17.86,13.0,27.12,15.3
+Bajra,Punjab,Jhelum,2022-23,13.20,8.7,21.78,10.4
+Bajra,Punjab,Chakwal,2021-22,0.10,0.1,0.17,0.1
+Bajra,Punjab,Chakwal,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Sargodha,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Sargodha,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Khushab,2021-22,1.90,1.4,1.51,0.8
+Bajra,Punjab,Khushab,2022-23,1.94,1.3,1.79,0.9
+Bajra,Punjab,Mianwali,2021-22,20.16,14.7,21.41,12.0
+Bajra,Punjab,Mianwali,2022-23,28.21,18.6,24.08,11.6
+Bajra,Punjab,Bhakkar,2021-22,23.52,17.1,37.24,20.9
+Bajra,Punjab,Bhakkar,2022-23,31.23,20.5,54.43,26.1
+Bajra,Punjab,Faisalabad,2021-22,0.04,0.0,0.10,0.1
+Bajra,Punjab,Faisalabad,2022-23,0.03,0.0,0.06,0.0
+Bajra,Punjab,Toba Tek Singh,2021-22,4.48,3.3,8.91,5.0
+Bajra,Punjab,Toba Tek Singh,2022-23,8.48,5.6,14.04,6.7
+Bajra,Punjab,Jhang,2021-22,0.01,0.0,0.02,0.0
+Bajra,Punjab,Jhang,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Chiniot,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Chiniot,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Gujrat,2021-22,37.98,27.6,44.91,25.3
+Bajra,Punjab,Gujrat,2022-23,33.74,22.2,36.72,17.6
+Bajra,Punjab,M.B. Din,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,M.B. Din,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Sialkot,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Sialkot,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Narowal,2021-22,5.38,3.9,9.06,5.1
+Bajra,Punjab,Narowal,2022-23,12.54,8.2,27.16,13.0
+Bajra,Punjab,Gujranwala,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Gujranwala,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Hafizabad,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Hafizabad,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Sheikhupura,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Sheikhupura,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Nankana Sahib,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Nankana Sahib,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Lahore,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Lahore,2022-23,0.01,0.0,0.02,0.0
+Bajra,Punjab,Kasur,2021-22,1.25,0.9,1.97,1.1
+Bajra,Punjab,Kasur,2022-23,2.31,1.5,4.19,2.0
+Bajra,Punjab,Okara,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Okara,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Sahiwal,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Sahiwal,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Pakpattan,2021-22,0.01,0.0,0.02,0.0
+Bajra,Punjab,Pakpattan,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Multan,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Multan,2022-23,0.11,0.1,0.22,0.1
+Bajra,Punjab,Lodhran,2021-22,0.03,0.0,0.06,0.0
+Bajra,Punjab,Lodhran,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Khanewal,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Khanewal,2022-23,0.21,0.1,0.25,0.1
+Bajra,Punjab,Vehari,2021-22,0.16,0.1,0.38,0.2
+Bajra,Punjab,Vehari,2022-23,0.51,0.3,1.19,0.6
+Bajra,Punjab,M. Garh,2021-22,1.46,1.1,2.76,1.6
+Bajra,Punjab,M. Garh,2022-23,1.28,0.8,2.00,1.0
+Bajra,Punjab,Layyah,2021-22,16.35,11.9,15.46,8.7
+Bajra,Punjab,Layyah,2022-23,9.74,6.4,9.43,4.5
+Bajra,Punjab,D.G. Khan,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,D.G. Khan,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Rajanpur,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Rajanpur,2022-23,0.49,0.3,0.24,0.1
+Bajra,Punjab,Bahawalpur,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Bahawalpur,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Rahimyar Khan,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Rahimyar Khan,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Bahawalnagar,2021-22,2.42,1.8,2.66,1.5
+Bajra,Punjab,Bahawalnagar,2022-23,7.38,4.9,10.15,4.9
+Bajra,Punjab,Total,2021-22,137.59,,177.75,
+Bajra,Punjab,Total,2022-23,152.08,,208.39,
+Bajra,Sindh,Khairpur,2021-22,0.20,0.2,0.16,0.4
+Bajra,Sindh,Khairpur,2022-23,0.10,0.1,0.08,0.2
+Bajra,Sindh,Ghotki,2021-22,0.01,0.0,0.01,0.0
+Bajra,Sindh,Ghotki,2022-23,0.02,0.0,0.01,0.0
+Bajra,Sindh,Sukkur,2021-22,0.02,0.0,0.02,0.0
+Bajra,Sindh,Sukkur,2022-23,0.02,0.0,0.02,0.0
+Bajra,Sindh,N. Feroze,2021-22,0.02,0.0,0.02,0.0
+Bajra,Sindh,N. Feroze,2022-23,0.01,0.0,0.01,0.0
+Bajra,Sindh,Shaheed Benazir Abad,2021-22,0.07,0.1,0.04,0.1
+Bajra,Sindh,Shaheed Benazir Abad,2022-23,0.04,0.0,0.02,0.0
+Bajra,Sindh,Jacobabad,2021-22,0.00,0.0,0.00,0.0
+Bajra,Sindh,Jacobabad,2022-23,0.00,0.0,0.00,0.0
+Bajra,Sindh,Kashmore,2021-22,0.00,0.0,0.00,0.0
+Bajra,Sindh,Kashmore,2022-23,0.00,0.0,0.00,0.0
+Bajra,Sindh,Shikarpur,2021-22,0.00,0.0,0.00,0.0
+Bajra,Sindh,Shikarpur,2022-23,0.00,0.0,0.00,0.0
+Bajra,Sindh,Larkana,2021-22,0.00,0.0,0.00,0.0
+Bajra,Sindh,Larkana,2022-23,0.00,0.0,0.00,0.0
+Bajra,Sindh,Kambar Shahdat Kot,2021-22,0.00,0.0,0.00,0.0
+Bajra,Sindh,Kambar Shahdat Kot,2022-23,0.00,0.0,0.00,0.0
+Bajra,Sindh,Sanghar,2021-22,0.26,0.3,0.15,0.3
+Bajra,Sindh,Sanghar,2022-23,0.27,0.3,0.16,0.4
+Bajra,Sindh,Tharparkar,2021-22,81.10,96.4,43.21,95.4
+Bajra,Sindh,Tharparkar,2022-23,82.38,97.9,43.97,97.5
+Bajra,Sindh,Mirpurkhas,2021-22,0.46,0.5,0.26,0.6
+Bajra,Sindh,Mirpurkhas,2022-23,0.25,0.3,0.14,0.3
+Bajra,Sindh,Umarkot,2021-22,0.21,0.2,0.12,0.3
+Bajra,Sindh,Umarkot,2022-23,0.20,0.2,0.11,0.2
+Bajra,Sindh,Dadu,2021-22,0.00,0.0,0.00,0.0
+Bajra,Sindh,Dadu,2022-23,0.00,0.0,0.00,0.0
+Bajra,Sindh,Jamshoro,2021-22,0.45,0.5,0.35,0.8
+Bajra,Sindh,Jamshoro,2022-23,0.17,0.2,0.13,0.3
+Bajra,Sindh,Hyderabad,2021-22,0.03,0.0,0.02,0.0
+Bajra,Sindh,Hyderabad,2022-23,0.01,0.0,0.01,0.0
+Bajra,Sindh,Matiari,2021-22,0.51,0.6,0.40,0.9
+Bajra,Sindh,Matiari,2022-23,0.16,0.2,0.12,0.3
+Bajra,Sindh,Tando Allahyar,2021-22,0.31,0.4,0.20,0.4
+Bajra,Sindh,Tando Allahyar,2022-23,0.15,0.2,0.10,0.2
+Bajra,Sindh,T.M.Khan,2021-22,0.00,0.0,0.00,0.0
+Bajra,Sindh,T.M.Khan,2022-23,0.00,0.0,0.00,0.0
+Bajra,Sindh,Badin,2021-22,0.44,0.5,0.28,0.6
+Bajra,Sindh,Badin,2022-23,0.30,0.4,0.19,0.4
+Bajra,Sindh,Thatta,2021-22,0.06,0.1,0.05,0.1
+Bajra,Sindh,Thatta,2022-23,0.06,0.1,0.04,0.1
+Bajra,Sindh,Karachi,2021-22,0.00,0.0,0.00,0.0
+Bajra,Sindh,Karachi,2022-23,0.00,0.0,0.00,0.0
+Bajra,Sindh,Total,2021-22,84.15,,45.28,
+Bajra,Sindh,Total,2022-23,84.13,,45.11,
+Bajra,Kpk,Bannu,2021-22,0.03,1.0,0.02,1.2
+Bajra,Kpk,Bannu,2022-23,0.02,1.3,0.02,1.5
+Bajra,Kpk,Lakki Marwat,2021-22,0.03,1.0,0.04,2.1
+Bajra,Kpk,Lakki Marwat,2022-23,0.03,1.4,0.04,2.7
+Bajra,Kpk,D.Ikhan,2021-22,1.31,48.8,0.71,41.1
+Bajra,Kpk,D.Ikhan,2022-23,0.48,25.7,0.26,19.9
+Bajra,Kpk,Tank,2021-22,0.00,0.0,0.00,0.0
+Bajra,Kpk,Tank,2022-23,0.06,3.1,0.03,2.4
+Bajra,Kpk,Abbottabad,2021-22,0.00,0.0,0.00,0.0
+Bajra,Kpk,Abbottabad,2022-23,0.00,0.0,0.00,0.0
+Bajra,Kpk,Battagram,2021-22,0.00,0.0,0.00,0.0
+Bajra,Kpk,Battagram,2022-23,0.00,0.0,0.00,0.0
+Bajra,Kpk,Haripur,2021-22,0.04,1.6,0.05,3.1
+Bajra,Kpk,Haripur,2022-23,0.05,2.6,0.06,4.6
+Bajra,Kpk,Kohistan,2021-22,0.00,0.0,0.00,0.0
+Bajra,Kpk,Kohistan,2022-23,0.00,0.0,0.00,0.0
+Bajra,Kpk,Mansehra,2021-22,0.00,0.0,0.00,0.0
+Bajra,Kpk,Mansehra,2022-23,0.00,0.0,0.00,0.0
+Bajra,Kpk,Kohat,2021-22,0.17,6.4,0.08,4.6
+Bajra,Kpk,Kohat,2022-23,0.18,9.7,0.08,6.5
+Bajra,Kpk,Karak,2021-22,0.69,25.6,0.34,19.9
+Bajra,Kpk,Karak,2022-23,0.61,32.6,0.32,24.9
+Bajra,Kpk,Hangu,2021-22,0.04,1.3,0.02,1.1
+Bajra,Kpk,Hangu,2022-23,0.07,3.5,0.03,2.6
+Bajra,Kpk,Mardan,2021-22,0.00,0.0,0.00,0.0
+Bajra,Kpk,Mardan,2022-23,0.00,0.0,0.00,0.0
+Bajra,Kpk,Sawabi,2021-22,0.00,0.0,0.00,0.0
+Bajra,Kpk,Sawabi,2022-23,0.00,0.0,0.00,0.0
+Bajra,Kpk,Bunir,2021-22,0.00,0.0,0.00,0.0
+Bajra,Kpk,Bunir,2022-23,0.00,0.0,0.00,0.0
+Bajra,Kpk,Chitral,2021-22,0.07,2.6,0.07,3.8
+Bajra,Kpk,Chitral,2022-23,0.07,3.7,0.06,4.4
+Bajra,Kpk,Malakand,2021-22,0.00,0.0,0.00,0.0
+Bajra,Kpk,Malakand,2022-23,0.00,0.0,0.00,0.0
+Bajra,Kpk,Dir Lower,2021-22,0.00,0.0,0.00,0.0
+Bajra,Kpk,Dir Lower,2022-23,0.00,0.0,0.00,0.0
+Bajra,Kpk,Dir Upper,2021-22,0.00,0.0,0.00,0.0
+Bajra,Kpk,Dir Upper,2022-23,0.00,0.0,0.00,0.0
+Bajra,Unknown,Shangla,2021-22,0.00,0.0,0.00,0.0
+Bajra,Unknown,Shangla,2022-23,0.00,0.0,0.00,0.0
+Bajra,Unknown,Swat,2021-22,0.00,0.0,0.00,0.0
+Bajra,Unknown,Swat,2022-23,0.00,0.0,0.00,0.0
+Bajra,Unknown,Peshawar,2021-22,0.00,0.0,0.00,0.0
+Bajra,Unknown,Peshawar,2022-23,0.00,0.0,0.00,0.0
+Bajra,Unknown,Charsada,2021-22,0.04,1.6,0.01,0.8
+Bajra,Unknown,Charsada,2022-23,0.05,2.5,0.02,0.8
+Bajra,Unknown,Nowshera,2021-22,0.00,0.0,0.00,0.0
+Bajra,Unknown,Nowshera,2022-23,0.00,0.0,0.00,0.0
+Bajra,Unknown,Bajour,2021-22,0.00,0.0,0.00,0.0
+Bajra,Unknown,Bajour,2022-23,0.00,0.0,0.00,0.0
+Bajra,Unknown,Khyber,2021-22,0.16,6.0,0.23,12.3
+Bajra,Unknown,Khyber,2022-23,0.15,8.2,0.23,12.1
+Bajra,Unknown,Kurram,2021-22,0.00,0.0,0.00,0.0
+Bajra,Unknown,Kurram,2022-23,0.00,0.0,0.00,0.0
+Bajra,Unknown,Muhmand,2021-22,0.00,0.0,0.00,0.0
+Bajra,Unknown,Muhmand,2022-23,0.00,0.0,0.00,0.0
+Bajra,Unknown,N. Waziristan,2021-22,0.00,0.0,0.00,0.0
+Bajra,Unknown,N. Waziristan,2022-23,0.00,0.0,0.00,0.0
+Bajra,Unknown,S. Waziristan,2021-22,0.00,0.0,0.00,0.0
+Bajra,Unknown,S. Waziristan,2022-23,0.00,0.0,0.00,0.0
+Bajra,Unknown,Oriakzai,2021-22,0.00,0.0,0.00,0.0
+Bajra,Unknown,Oriakzai,2022-23,0.00,0.0,0.00,0.0
+Bajra,Unknown,SD Bannu,2021-22,0.00,0.0,0.00,0.0
+Bajra,Unknown,SD Bannu,2022-23,0.00,0.0,0.00,0.0
+Bajra,Unknown,SD D.I. Khan,2021-22,0.00,0.0,0.00,0.0
+Bajra,Unknown,SD D.I. Khan,2022-23,0.00,0.0,0.00,0.0
+Bajra,Unknown,SD Hassan Khel,2021-22,0.00,0.0,0.00,0.0
+Bajra,Unknown,SD Hassan Khel,2022-23,0.00,0.0,0.00,0.0
+Bajra,Unknown,SD Kohat,2021-22,0.11,4.2,0.16,8.4
+Bajra,Unknown,SD Kohat,2022-23,0.11,5.8,0.15,8.3
+Bajra,Unknown,Total,2021-22,2.68,,1.73,
+Bajra,Unknown,Total,2022-23,1.86,,1.29,
+Bajra,Balochistan,Quetta,2021-22,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Quetta,2022-23,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Pishin,2021-22,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Pishin,2022-23,0.00,0.0,0.00,0.0
+Bajra,Balochistan,K. Abdullah,2021-22,0.00,0.0,0.00,0.0
+Bajra,Balochistan,K. Abdullah,2022-23,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Chagai,2021-22,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Chagai,2022-23,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Nushki,2021-22,0.02,0.9,0.00,0.0
+Bajra,Balochistan,Nushki,2022-23,0.02,0.9,0.01,0.6
+Bajra,Balochistan,Loralai,2021-22,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Loralai,2022-23,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Musa Khail,2021-22,0.30,13.8,0.19,12.7
+Bajra,Balochistan,Musa Khail,2022-23,0.28,10.8,0.15,10.6
+Bajra,Balochistan,Barkhan,2021-22,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Barkhan,2022-23,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Zhob,2021-22,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Zhob,2022-23,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Sherani,2021-22,0.05,2.2,0.00,0.0
+Bajra,Balochistan,Sherani,2022-23,0.05,1.8,0.04,2.5
+Bajra,Balochistan,Killa Saifullah,2021-22,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Killa Saifullah,2022-23,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Sibi,2021-22,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Sibi,2022-23,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Harnai,2021-22,0.07,3.0,0.06,4.1
+Bajra,Balochistan,Harnai,2022-23,0.05,1.8,0.04,2.8
+Bajra,Balochistan,Ziarat,2021-22,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Ziarat,2022-23,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Kohlu,2021-22,0.14,6.4,0.08,5.0
+Bajra,Balochistan,Kohlu,2022-23,0.20,7.8,0.09,6.2
+Bajra,Balochistan,Dera Bughti,2021-22,1.11,50.8,0.77,51.0
+Bajra,Balochistan,Dera Bughti,2022-23,1.55,60.8,0.78,55.4
+Bajra,Balochistan,Nasirabad,2021-22,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Nasirabad,2022-23,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Jaffarabad,2021-22,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Jaffarabad,2022-23,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Kachhi,2021-22,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Kachhi,2022-23,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Jhal Magsi,2021-22,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Jhal Magsi,2022-23,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Kalat,2021-22,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Kalat,2022-23,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Mastung,2021-22,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Mastung,2022-23,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Khuzdar,2021-22,0.26,11.9,0.23,15.4
+Bajra,Balochistan,Khuzdar,2022-23,0.27,10.6,0.24,17.0
+Bajra,Balochistan,Awaran,2021-22,0.05,2.2,0.04,2.9
+Bajra,Balochistan,Awaran,2022-23,0.05,2.0,0.05,3.3
+Bajra,Balochistan,Kharan,2021-22,0.02,0.9,0.02,1.2
+Bajra,Balochistan,Kharan,2022-23,0.02,0.9,0.00,0.0
+Bajra,Balochistan,Washuk,2021-22,0.03,1.1,0.02,1.5
+Bajra,Balochistan,Washuk,2022-23,0.03,1.0,0.02,1.6
+Bajra,Balochistan,Lasbela,2021-22,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Lasbela,2022-23,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Turbat,2021-22,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Turbat,2022-23,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Panjgoor,2021-22,0.11,5.0,0.08,5.6
+Bajra,Balochistan,Panjgoor,2022-23,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Gwadar,2021-22,0.04,1.7,0.01,0.5
+Bajra,Balochistan,Gwadar,2022-23,0.04,1.7,0.00,0.1
+Bajra,Balochistan,Total,2021-22,2.19,,1.50,
+Bajra,Balochistan,Total,2022-23,2.55,,1.41,
+Bajra,Punjab,Attock,2021-22,1.42,3.8,0.71,2.4
+Bajra,Punjab,Attock,2022-23,0.58,3.0,0.19,0.8
+Bajra,Punjab,Rawalpindi,2021-22,0.91,2.4,0.49,1.6
+Bajra,Punjab,Rawalpindi,2022-23,1.19,6.1,1.03,4.3
+Bajra,Punjab,Islamabad,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Islamabad,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Jhelum,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Jhelum,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Chakwal,2021-22,4.80,12.8,0.91,3.0
+Bajra,Punjab,Chakwal,2022-23,1.44,7.4,0.55,2.3
+Bajra,Punjab,Sargodha,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Sargodha,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Khushab,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Khushab,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Mianwali,2021-22,1.82,4.8,1.12,3.7
+Bajra,Punjab,Mianwali,2022-23,2.10,10.8,1.45,6.1
+Bajra,Punjab,Bhakkar,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Bhakkar,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Faisalabad,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Faisalabad,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Toba Tek Singh,2021-22,10.92,29.1,13.33,44.5
+Bajra,Punjab,Toba Tek Singh,2022-23,6.13,31.5,11.68,48.7
+Bajra,Punjab,Jhang,2021-22,0.38,1.0,0.31,1.0
+Bajra,Punjab,Jhang,2022-23,0.34,1.8,0.60,2.5
+Bajra,Punjab,Chiniot,2021-22,1.26,3.4,1.14,3.8
+Bajra,Punjab,Chiniot,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Gujrat,2021-22,1.33,3.5,1.15,3.8
+Bajra,Punjab,Gujrat,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,M.B. Din,2021-22,2.50,6.7,2.03,6.8
+Bajra,Punjab,M.B. Din,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Sialkot,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Sialkot,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Narowal,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Narowal,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Gujranwala,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Gujranwala,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Hafizabad,2021-22,2.15,5.7,1.30,4.3
+Bajra,Punjab,Hafizabad,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Sheikhupura,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Sheikhupura,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Nankana Sahib,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Nankana Sahib,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Lahore,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Lahore,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Kasur,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Kasur,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Okara,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Okara,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Sahiwal,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Sahiwal,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Pakpattan,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Pakpattan,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Multan,2021-22,0.99,2.6,0.59,2.0
+Bajra,Punjab,Multan,2022-23,0.82,4.2,0.52,2.2
+Bajra,Punjab,Lodhran,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Lodhran,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Khanewal,2021-22,1.52,4.1,0.87,2.9
+Bajra,Punjab,Khanewal,2022-23,0.94,4.8,0.56,2.3
+Bajra,Punjab,Vehari,2021-22,3.52,9.4,4.03,13.4
+Bajra,Punjab,Vehari,2022-23,3.23,16.6,6.33,26.4
+Bajra,Punjab,M. Garh,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,M. Garh,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Layyah,2021-22,0.95,2.5,0.40,1.3
+Bajra,Punjab,Layyah,2022-23,0.76,3.9,0.30,1.2
+Bajra,Punjab,D.G. Khan,2021-22,0.93,2.5,0.00,0.0
+Bajra,Punjab,D.G. Khan,2022-23,0.91,4.7,0.31,1.3
+Bajra,Punjab,Rajanpur,2021-22,1.65,4.4,1.24,4.1
+Bajra,Punjab,Rajanpur,2022-23,1.03,5.3,0.46,1.9
+Bajra,Punjab,Bahawalpur,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Bahawalpur,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Rahimyar Khan,2021-22,0.43,1.1,0.34,1.1
+Bajra,Punjab,Rahimyar Khan,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Bahawalnagar,2021-22,0.00,0.0,0.00,0.0
+Bajra,Punjab,Bahawalnagar,2022-23,0.00,0.0,0.00,0.0
+Bajra,Punjab,Total,2021-22,37.47,,29.96,
+Bajra,Punjab,Total,2022-23,19.48,,23.98,
+Bajra,Sindh,Khairpur,2021-22,3.71,35.5,3.72,36.8
+Bajra,Sindh,Khairpur,2022-23,3.28,41.2,3.27,43.4
+Bajra,Sindh,Ghotki,2021-22,0.04,0.4,0.05,0.5
+Bajra,Sindh,Ghotki,2022-23,0.05,0.6,0.05,0.7
+Bajra,Sindh,Sukkur,2021-22,1.72,16.4,1.63,16.2
+Bajra,Sindh,Sukkur,2022-23,1.74,21.9,1.65,21.8
+Bajra,Sindh,N. Feroze,2021-22,0.21,2.0,0.22,2.2
+Bajra,Sindh,N. Feroze,2022-23,0.17,2.1,0.18,2.3
+Bajra,Sindh,Shaheed Benazir Abad,2021-22,0.11,1.1,0.11,1.1
+Bajra,Sindh,Shaheed Benazir Abad,2022-23,0.00,0.0,0.00,0.0
+Bajra,Sindh,Jacobabad,2021-22,0.03,0.2,0.02,0.2
+Bajra,Sindh,Jacobabad,2022-23,0.00,0.0,0.00,0.0
+Bajra,Sindh,Kashmore,2021-22,0.02,0.2,0.03,0.3
+Bajra,Sindh,Kashmore,2022-23,0.01,0.2,0.02,0.2
+Bajra,Sindh,Shikarpur,2021-22,0.03,0.2,0.03,0.2
+Bajra,Sindh,Shikarpur,2022-23,0.02,0.3,0.02,0.3
+Bajra,Sindh,Larkana,2021-22,0.41,3.9,0.42,4.1
+Bajra,Sindh,Larkana,2022-23,0.21,2.7,0.22,2.9
+Bajra,Sindh,Kambar Shahdat Kot,2021-22,0.27,2.6,0.26,2.5
+Bajra,Sindh,Kambar Shahdat Kot,2022-23,0.00,0.0,0.00,0.0
+Bajra,Sindh,Sanghar,2021-22,0.67,6.4,0.51,5.0
+Bajra,Sindh,Sanghar,2022-23,0.66,8.3,0.51,6.7
+Bajra,Sindh,Tharparkar,2021-22,0.04,0.4,0.04,0.4
+Bajra,Sindh,Tharparkar,2022-23,0.04,0.5,0.04,0.6
+Bajra,Sindh,Mirpurkhas,2021-22,0.77,7.4,0.69,6.8
+Bajra,Sindh,Mirpurkhas,2022-23,0.56,7.0,0.49,6.5
+Bajra,Sindh,Umarkot,2021-22,0.19,1.8,0.17,1.7
+Bajra,Sindh,Umarkot,2022-23,0.00,0.0,0.00,0.0
+Bajra,Sindh,Dadu,2021-22,0.23,2.2,0.25,2.5
+Bajra,Sindh,Dadu,2022-23,0.18,2.3,0.18,2.4
+Bajra,Sindh,Jamshoro,2021-22,0.67,6.4,0.66,6.5
+Bajra,Sindh,Jamshoro,2022-23,0.33,4.1,0.32,4.3
+Bajra,Sindh,Hyderabad,2021-22,0.04,0.4,0.04,0.4
+Bajra,Sindh,Hyderabad,2022-23,0.01,0.1,0.01,0.1
+Bajra,Sindh,Matiari,2021-22,0.70,6.7,0.62,6.1
+Bajra,Sindh,Matiari,2022-23,0.29,3.6,0.26,3.4
+Bajra,Sindh,Tando Allahyar,2021-22,0.07,0.7,0.05,0.5
+Bajra,Sindh,Tando Allahyar,2022-23,0.00,0.0,0.00,0.0
+Bajra,Sindh,T.M.Khan,2021-22,0.04,0.3,0.03,0.3
+Bajra,Sindh,T.M.Khan,2022-23,0.03,0.4,0.03,0.3
+Bajra,Sindh,Badin,2021-22,0.32,3.0,0.24,2.3
+Bajra,Sindh,Badin,2022-23,0.22,2.8,0.16,2.2
+Bajra,Sindh,Thatta,2021-22,0.10,0.9,0.09,0.8
+Bajra,Sindh,Thatta,2022-23,0.07,0.9,0.06,0.8
+Bajra,Sindh,Karachi,2021-22,0.07,0.7,0.07,0.7
+Bajra,Sindh,Karachi,2022-23,0.08,1.0,0.08,1.0
+Bajra,Sindh,Total,2021-22,10.45,,10.10,
+Bajra,Sindh,Total,2022-23,7.96,,7.54,
+Bajra,Kpk,Bannu,2021-22,0.00,0.0,0.00,0.0
+Bajra,Kpk,Bannu,2022-23,0.00,0.0,0.00,0.0
+Bajra,Kpk,Lakki Marwat,2021-22,0.47,6.8,0.31,6.8
+Bajra,Kpk,Lakki Marwat,2022-23,0.36,5.6,0.24,5.7
+Bajra,Kpk,D.Ikhan,2021-22,2.90,41.6,2.06,44.9
+Bajra,Kpk,D.Ikhan,2022-23,2.20,34.2,1.58,37.9
+Bajra,Kpk,Tank,2021-22,0.10,1.4,0.06,1.3
+Bajra,Kpk,Tank,2022-23,0.06,0.9,0.04,1.0
+Bajra,Kpk,Abbottabad,2021-22,0.00,0.0,0.00,0.0
+Bajra,Kpk,Abbottabad,2022-23,0.00,0.0,0.00,0.0
+Bajra,Kpk,Battagram,2021-22,0.00,0.0,0.00,0.0
+Bajra,Kpk,Battagram,2022-23,0.00,0.0,0.00,0.0
+Bajra,Kpk,Haripur,2021-22,0.36,5.2,0.24,5.1
+Bajra,Kpk,Haripur,2022-23,0.33,5.1,0.22,5.1
+Bajra,Kpk,Kohistan,2021-22,0.00,0.0,0.00,0.0
+Bajra,Kpk,Kohistan,2022-23,0.00,0.0,0.00,0.0
+Bajra,Kpk,Mansehra,2021-22,0.00,0.0,0.00,0.0
+Bajra,Kpk,Mansehra,2022-23,0.00,0.0,0.00,0.0
+Bajra,Kpk,Kohat,2021-22,0.00,0.0,0.00,0.0
+Bajra,Kpk,Kohat,2022-23,0.00,0.0,0.00,0.0
+Bajra,Kpk,Karak,2021-22,0.24,3.5,0.11,2.5
+Bajra,Kpk,Karak,2022-23,0.16,2.4,0.09,2.1
+Bajra,Kpk,Hangu,2021-22,0.00,0.0,0.00,0.0
+Bajra,Kpk,Hangu,2022-23,0.00,0.0,0.00,0.0
+Bajra,Kpk,Mardan,2021-22,1.12,16.0,0.77,16.7
+Bajra,Kpk,Mardan,2022-23,1.24,19.2,0.85,20.3
+Bajra,Kpk,Sawabi,2021-22,0.76,10.9,0.41,8.9
+Bajra,Kpk,Sawabi,2022-23,1.10,17.1,0.55,13.2
+Bajra,Kpk,Bunir,2021-22,0.00,0.0,0.00,0.0
+Bajra,Kpk,Bunir,2022-23,0.00,0.0,0.00,0.0
+Bajra,Kpk,Chitral,2021-22,0.00,0.0,0.00,0.0
+Bajra,Kpk,Chitral,2022-23,0.00,0.0,0.00,0.0
+Bajra,Kpk,Malakand,2021-22,0.00,0.0,0.00,0.0
+Bajra,Kpk,Malakand,2022-23,0.00,0.0,0.00,0.0
+Bajra,Kpk,Dir Lower,2021-22,0.00,0.0,0.00,0.0
+Bajra,Kpk,Dir Lower,2022-23,0.00,0.0,0.00,0.0
+Bajra,Kpk,Dir Upper,2021-22,0.00,0.0,0.00,0.0
+Bajra,Kpk,Dir Upper,2022-23,0.00,0.0,0.00,0.0
+Bajra,Unknown,Shangla,2021-22,0.00,0.0,0.00,0.0
+Bajra,Unknown,Shangla,2022-23,0.00,0.0,0.00,0.0
+Bajra,Unknown,Swat,2021-22,0.00,0.0,0.00,0.0
+Bajra,Unknown,Swat,2022-23,0.00,0.0,0.00,0.0
+Bajra,Unknown,Peshawar,2021-22,0.00,0.0,0.00,0.0
+Bajra,Unknown,Peshawar,2022-23,0.00,0.0,0.00,0.0
+Bajra,Unknown,Charsada,2021-22,0.00,0.0,0.00,0.0
+Bajra,Unknown,Charsada,2022-23,0.00,0.0,0.00,0.0
+Bajra,Unknown,Nowshera,2021-22,0.00,0.0,0.00,0.0
+Bajra,Unknown,Nowshera,2022-23,0.00,0.0,0.00,0.0
+Bajra,Unknown,Bajour,2021-22,0.00,0.0,0.00,0.0
+Bajra,Unknown,Bajour,2022-23,0.00,0.0,0.00,0.0
+Bajra,Unknown,Khyber,2021-22,0.33,4.7,0.21,4.6
+Bajra,Unknown,Khyber,2022-23,0.33,5.1,0.21,5.1
+Bajra,Unknown,Kurram,2021-22,0.00,0.0,0.00,0.0
+Bajra,Unknown,Kurram,2022-23,0.00,0.0,0.00,0.0
+Bajra,Unknown,Muhmand,2021-22,0.11,1.6,0.07,1.5
+Bajra,Unknown,Muhmand,2022-23,0.10,1.6,0.06,1.5
+Bajra,Unknown,N. Waziristan,2021-22,0.00,0.0,0.00,0.0
+Bajra,Unknown,N. Waziristan,2022-23,0.00,0.0,0.00,0.0
+Bajra,Unknown,S. Waziristan,2021-22,0.00,0.0,0.00,0.0
+Bajra,Unknown,S. Waziristan,2022-23,0.00,0.0,0.00,0.0
+Bajra,Unknown,Oriakzai,2021-22,0.12,1.7,0.07,1.5
+Bajra,Unknown,Oriakzai,2022-23,0.13,1.9,0.07,1.7
+Bajra,Unknown,SD Bannu,2021-22,0.00,0.0,0.00,0.0
+Bajra,Unknown,SD Bannu,2022-23,0.00,0.0,0.00,0.0
+Bajra,Unknown,SD D.I. Khan,2021-22,0.00,0.0,0.00,0.0
+Bajra,Unknown,SD D.I. Khan,2022-23,0.00,0.0,0.00,0.0
+Bajra,Unknown,SD Hassan Khel,2021-22,0.09,1.3,0.07,1.5
+Bajra,Unknown,SD Hassan Khel,2022-23,0.09,1.3,0.06,1.5
+Bajra,Unknown,SD Kohat,2021-22,0.36,5.2,0.22,4.7
+Bajra,Unknown,SD Kohat,2022-23,0.36,5.5,0.21,5.0
+Bajra,Unknown,Total,2021-22,6.98,,4.59,
+Bajra,Unknown,Total,2022-23,6.44,,4.18,
+Bajra,Balochistan,Quetta,2021-22,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Quetta,2022-23,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Pishin,2021-22,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Pishin,2022-23,0.00,0.0,0.00,0.0
+Bajra,Balochistan,K. Abdullah,2021-22,0.00,0.0,0.00,0.0
+Bajra,Balochistan,K. Abdullah,2022-23,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Chagai,2021-22,1.10,5.1,1.37,7.0
+Bajra,Balochistan,Chagai,2022-23,0.73,2.8,0.03,0.3
+Bajra,Balochistan,Loralai,2021-22,0.06,0.3,0.07,0.4
+Bajra,Balochistan,Loralai,2022-23,0.11,0.4,0.10,0.8
+Bajra,Balochistan,Musa Khail,2021-22,0.69,3.2,0.83,4.2
+Bajra,Balochistan,Musa Khail,2022-23,0.79,3.1,0.37,2.9
+Bajra,Balochistan,Barkhan,2021-22,0.39,1.8,0.39,2.0
+Bajra,Balochistan,Barkhan,2022-23,0.43,1.7,0.40,3.1
+Bajra,Balochistan,Zhob,2021-22,0.47,2.1,0.33,1.7
+Bajra,Balochistan,Zhob,2022-23,0.49,1.9,0.33,2.5
+Bajra,Balochistan,Sherani,2021-22,0.07,0.3,0.07,0.3
+Bajra,Balochistan,Sherani,2022-23,0.07,0.3,0.04,0.3
+Bajra,Balochistan,Killa Saifullah,2021-22,0.54,2.5,0.56,2.9
+Bajra,Balochistan,Killa Saifullah,2022-23,0.54,2.1,0.51,3.9
+Bajra,Balochistan,Sibi,2021-22,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Sibi,2022-23,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Harnai,2021-22,1.30,6.0,1.01,5.2
+Bajra,Balochistan,Harnai,2022-23,0.14,0.5,0.15,1.1
+Bajra,Balochistan,Ziarat,2021-22,0.03,0.1,0.03,0.1
+Bajra,Balochistan,Ziarat,2022-23,0.02,0.1,0.02,0.2
+Bajra,Balochistan,Kohlu,2021-22,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Kohlu,2022-23,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Dera Bughti,2021-22,0.30,1.4,0.24,1.2
+Bajra,Balochistan,Dera Bughti,2022-23,0.60,2.3,0.47,3.6
+Bajra,Balochistan,Nasirabad,2021-22,1.34,6.2,1.50,7.7
+Bajra,Balochistan,Nasirabad,2022-23,1.87,7.3,1.40,10.8
+Bajra,Balochistan,Jaffarabad,2021-22,1.97,9.1,1.65,8.5
+Bajra,Balochistan,Jaffarabad,2022-23,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Kachhi,2021-22,0.03,0.1,0.03,0.1
+Bajra,Balochistan,Kachhi,2022-23,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Bolan,2021-22,1.43,6.6,1.16,5.9
+Bajra,Balochistan,Bolan,2022-23,0.60,2.3,0.00,0.0
+Bajra,Balochistan,Jhal Magsi,2021-22,8.91,41.2,7.56,38.8
+Bajra,Balochistan,Jhal Magsi,2022-23,9.90,38.7,2.05,15.8
+Bajra,Balochistan,Kalat,2021-22,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Kalat,2022-23,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Mastung,2021-22,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Mastung,2022-23,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Khuzdar,2021-22,0.37,1.7,0.37,1.9
+Bajra,Balochistan,Khuzdar,2022-23,0.38,1.5,0.38,3.0
+Bajra,Balochistan,Awaran,2021-22,0.18,0.8,0.16,0.8
+Bajra,Balochistan,Awaran,2022-23,0.19,0.7,0.17,1.3
+Bajra,Balochistan,Kharan,2021-22,0.06,0.3,0.05,0.3
+Bajra,Balochistan,Kharan,2022-23,0.06,0.3,0.03,0.2
+Bajra,Balochistan,Washuk,2021-22,0.04,0.2,0.03,0.1
+Bajra,Balochistan,Washuk,2022-23,0.04,0.1,0.03,0.2
+Bajra,Balochistan,Lasbela,2021-22,1.60,7.4,1.29,6.6
+Bajra,Balochistan,Lasbela,2022-23,7.84,30.7,5.84,45.0
+Bajra,Balochistan,Turbat,2021-22,0.61,2.8,0.66,3.4
+Bajra,Balochistan,Turbat,2022-23,0.72,2.8,0.66,5.1
+Bajra,Balochistan,Panjgoor,2021-22,0.14,0.6,0.13,0.7
+Bajra,Balochistan,Panjgoor,2022-23,0.00,0.0,0.00,0.0
+Bajra,Balochistan,Gwadar,2021-22,0.03,0.2,0.01,0.0
+Bajra,Balochistan,Gwadar,2022-23,0.04,0.2,0.00,0.0
+Bajra,Balochistan,Total,2021-22,21.63,,19.48,
+Bajra,Balochistan,Total,2022-23,25.55,,12.98,
+Barley,Punjab,Attock,2021-22,0.52,40.6,0.22,12.5
+Barley,Punjab,Attock,2022-23,0.14,10.7,0.04,1.7
+Barley,Punjab,Rawalpindi,2021-22,0.00,0.0,0.00,0.0
+Barley,Punjab,Rawalpindi,2022-23,0.00,0.0,0.00,0.0
+Barley,Punjab,Muree,2021-22,0.00,0.0,0.00,0.0
+Barley,Punjab,Muree,2022-23,0.00,0.0,0.00,0.0
+Barley,Punjab,Islamabad,2021-22,0.00,0.0,0.00,0.0
+Barley,Punjab,Islamabad,2022-23,0.00,0.0,0.00,0.0
+Barley,Punjab,Jhelum,2021-22,0.01,0.8,0.01,0.7
+Barley,Punjab,Jhelum,2022-23,0.00,0.0,0.00,0.0
+Barley,Punjab,Chakwal,2021-22,0.12,9.5,0.18,10.1
+Barley,Punjab,Chakwal,2022-23,0.41,31.5,0.88,33.5
+Barley,Punjab,Talagang,2021-22,0.00,0.0,0.00,0.0
+Barley,Punjab,Talagang,2022-23,0.00,0.0,0.00,0.0
+Barley,Punjab,Sargodha,2021-22,0.07,5.3,0.14,7.8
+Barley,Punjab,Sargodha,2022-23,0.08,6.4,0.15,5.5
+Barley,Punjab,Khushab,2021-22,0.04,3.0,0.02,1.0
+Barley,Punjab,Khushab,2022-23,0.12,9.1,0.10,3.6
+Barley,Punjab,Mianwali,2021-22,0.00,0.2,0.00,0.2
+Barley,Punjab,Mianwali,2022-23,0.03,2.3,0.03,1.1
+Barley,Punjab,Bhakkar,2021-22,0.10,7.7,0.14,8.0
+Barley,Punjab,Bhakkar,2022-23,0.09,6.6,0.13,5.1
+Barley,Punjab,Faisalabad,2021-22,0.00,0.0,0.00,0.0
+Barley,Punjab,Faisalabad,2022-23,0.00,0.0,0.00,0.0
+Barley,Punjab,Toba Tek Singh,2021-22,0.00,0.0,0.00,0.0
+Barley,Punjab,Toba Tek Singh,2022-23,0.00,0.0,0.00,0.0
+Barley,Punjab,Jhang,2021-22,0.00,0.0,0.00,0.0
+Barley,Punjab,Jhang,2022-23,0.02,1.4,0.04,1.3
+Barley,Punjab,Chiniot,2021-22,0.00,0.0,0.00,0.0
+Barley,Punjab,Chiniot,2022-23,0.00,0.0,0.00,0.0
+Barley,Punjab,Gujrat,2021-22,0.00,0.0,0.00,0.0
+Barley,Punjab,Gujrat,2022-23,0.00,0.0,0.00,0.0
+Barley,Punjab,M.B. Din,2021-22,0.39,30.8,1.01,57.6
+Barley,Punjab,M.B. Din,2022-23,0.38,28.6,1.19,45.2
+Barley,Punjab,Sialkot,2021-22,0.00,0.0,0.00,0.0
+Barley,Punjab,Sialkot,2022-23,0.00,0.0,0.00,0.0
+Barley,Punjab,Narowal,2021-22,0.00,0.0,0.00,0.0
+Barley,Punjab,Narowal,2022-23,0.04,2.9,0.07,2.8
+Barley,Punjab,Gujranwala,2021-22,0.00,0.0,0.00,0.0
+Barley,Punjab,Gujranwala,2022-23,0.00,0.0,0.00,0.0
+Barley,Punjab,Hafizabad,2021-22,0.00,0.0,0.00,0.0
+Barley,Punjab,Hafizabad,2022-23,0.00,0.0,0.00,0.0
+Barley,Punjab,Wazirabad,2021-22,0.00,0.0,0.00,0.0
+Barley,Punjab,Wazirabad,2022-23,0.00,0.0,0.00,0.0
+Barley,Punjab,Sheikhupura,2021-22,0.00,0.0,0.00,0.0
+Barley,Punjab,Sheikhupura,2022-23,0.00,0.0,0.00,0.0
+Barley,Punjab,Nankana Sahib,2021-22,0.00,0.0,0.00,0.0
+Barley,Punjab,Nankana Sahib,2022-23,0.00,0.0,0.00,0.0
+Barley,Punjab,Lahore,2021-22,0.00,0.0,0.00,0.0
+Barley,Punjab,Lahore,2022-23,0.00,0.0,0.00,0.0
+Barley,Punjab,Kasur,2021-22,0.00,0.0,0.00,0.0
+Barley,Punjab,Kasur,2022-23,0.00,0.0,0.00,0.0
+Barley,Punjab,Okara,2021-22,0.00,0.0,0.00,0.0
+Barley,Punjab,Okara,2022-23,0.00,0.0,0.00,0.0
+Barley,Punjab,Sahiwal,2021-22,0.00,0.0,0.00,0.0
+Barley,Punjab,Sahiwal,2022-23,0.00,0.0,0.00,0.0
+Barley,Punjab,Pakpattan,2021-22,0.00,0.0,0.00,0.0
+Barley,Punjab,Pakpattan,2022-23,0.00,0.0,0.00,0.0
+Barley,Punjab,Multan,2021-22,0.00,0.0,0.00,0.0
+Barley,Punjab,Multan,2022-23,0.00,0.0,0.00,0.0
+Barley,Punjab,Lodhran,2021-22,0.00,0.0,0.00,0.0
+Barley,Punjab,Lodhran,2022-23,0.00,0.0,0.00,0.0
+Barley,Punjab,Khanewal,2021-22,0.03,2.2,0.04,2.0
+Barley,Punjab,Khanewal,2022-23,0.00,0.0,0.00,0.0
+Barley,Punjab,Vehari,2021-22,0.00,0.0,0.00,0.0
+Barley,Punjab,Vehari,2022-23,0.00,0.0,0.00,0.0
+Barley,Punjab,M. Garh,2021-22,0.00,0.0,0.00,0.0
+Barley,Punjab,M. Garh,2022-23,0.00,0.0,0.00,0.0
+Barley,Punjab,Kot Addu,2021-22,0.00,0.0,0.00,0.0
+Barley,Punjab,Kot Addu,2022-23,0.00,0.0,0.00,0.0
+Barley,Punjab,Layyah,2021-22,0.00,0.0,0.00,0.0
+Barley,Punjab,Layyah,2022-23,0.00,0.0,0.00,0.0
+Barley,Punjab,D.G. Khan,2021-22,0.00,0.0,0.00,0.0
+Barley,Punjab,D.G. Khan,2022-23,0.00,0.0,0.00,0.0
+Barley,Punjab,Rajanpur,2021-22,0.00,0.0,0.00,0.0
+Barley,Punjab,Rajanpur,2022-23,0.00,0.0,0.00,0.0
+Barley,Punjab,Bahawalpur,2021-22,0.00,0.0,0.00,0.0
+Barley,Punjab,Bahawalpur,2022-23,0.00,0.0,0.00,0.0
+Barley,Punjab,Rahimyar Khan,2021-22,0.00,0.0,0.00,0.0
+Barley,Punjab,Rahimyar Khan,2022-23,0.00,0.0,0.00,0.0
+Barley,Punjab,Bahawalnagar,2021-22,0.00,0.0,0.00,0.0
+Barley,Punjab,Bahawalnagar,2022-23,0.01,0.4,0.01,0.2
+Barley,Punjab,Total,2021-22,1.28,,1.74,
+Barley,Punjab,Total,2022-23,1.31,,2.62,
+Barley,Sindh,Khairpur,2021-22,0.51,8.9,0.32,8.9
+Barley,Sindh,Khairpur,2022-23,0.47,9.1,0.29,9.1
+Barley,Sindh,Ghotki,2021-22,0.04,0.7,0.02,0.7
+Barley,Sindh,Ghotki,2022-23,0.04,0.8,0.03,0.8
+Barley,Sindh,Sukkur,2021-22,0.03,0.5,0.02,0.5
+Barley,Sindh,Sukkur,2022-23,0.03,0.7,0.02,0.7
+Barley,Sindh,N. Feroze,2021-22,0.02,0.3,0.01,0.3
+Barley,Sindh,N. Feroze,2022-23,0.01,0.2,0.01,0.2
+Barley,Sindh,Shaheed Benazir Abad,2021-22,0.03,0.5,0.02,0.4
+Barley,Sindh,Shaheed Benazir Abad,2022-23,0.02,0.4,0.01,0.3
+Barley,Sindh,Jacobabad,2021-22,0.38,6.7,0.23,6.6
+Barley,Sindh,Jacobabad,2022-23,0.10,2.0,0.06,1.9
+Barley,Sindh,Kashmore,2021-22,0.52,9.1,0.33,9.3
+Barley,Sindh,Kashmore,2022-23,0.60,11.7,0.39,12.0
+Barley,Sindh,Shikarpur,2021-22,0.02,0.3,0.01,0.3
+Barley,Sindh,Shikarpur,2022-23,0.04,0.8,0.03,0.8
+Barley,Sindh,Larkana,2021-22,1.75,30.9,1.13,31.9
+Barley,Sindh,Larkana,2022-23,1.64,32.0,1.07,33.0
+Barley,Sindh,Kambar Shahdat Kot,2021-22,0.25,4.4,0.17,4.7
+Barley,Sindh,Kambar Shahdat Kot,2022-23,0.14,2.7,0.10,2.9
+Barley,Sindh,Sanghar,2021-22,0.00,0.0,0.00,0.0
+Barley,Sindh,Sanghar,2022-23,0.00,0.0,0.00,0.0
+Barley,Sindh,Tharparkar,2021-22,0.00,0.0,0.00,0.0
+Barley,Sindh,Tharparkar,2022-23,0.00,0.0,0.00,0.0
+Barley,Sindh,Mirpurkhas,2021-22,0.00,0.0,0.00,0.0
+Barley,Sindh,Mirpurkhas,2022-23,0.00,0.0,0.00,0.0
+Barley,Sindh,Umarkot,2021-22,0.00,0.0,0.00,0.0
+Barley,Sindh,Umarkot,2022-23,0.00,0.0,0.00,0.0
+Barley,Sindh,Dadu,2021-22,0.16,2.7,0.10,2.9
+Barley,Sindh,Dadu,2022-23,0.08,1.6,0.06,1.7
+Barley,Sindh,Jamshoro,2021-22,0.20,3.5,0.14,3.8
+Barley,Sindh,Jamshoro,2022-23,0.17,3.4,0.12,3.7
+Barley,Sindh,Hyderabad,2021-22,0.00,0.0,0.00,0.0
+Barley,Sindh,Hyderabad,2022-23,0.00,0.0,0.00,0.0
+Barley,Sindh,Matiari,2021-22,0.00,0.0,0.00,0.0
+Barley,Sindh,Matiari,2022-23,0.00,0.0,0.00,0.0
+Barley,Sindh,Tando Allahyar,2021-22,0.00,0.0,0.00,0.0
+Barley,Sindh,Tando Allahyar,2022-23,0.00,0.0,0.00,0.0
+Barley,Sindh,T.M.Khan,2021-22,0.05,0.9,0.03,0.8
+Barley,Sindh,T.M.Khan,2022-23,0.06,1.1,0.03,1.0
+Barley,Sindh,Badin,2021-22,0.24,4.3,0.14,4.0
+Barley,Sindh,Badin,2022-23,0.24,4.7,0.14,4.5
+Barley,Sindh,Thatta,2021-22,1.49,26.2,0.88,24.8
+Barley,Sindh,Thatta,2022-23,1.49,29.0,0.89,27.5
+Barley,Sindh,Karachi,2021-22,0.00,0.0,0.00,0.0
+Barley,Sindh,Karachi,2022-23,0.00,0.0,0.00,0.0
+Barley,Sindh,Total,2021-22,5.67,,3.56,
+Barley,Sindh,Total,2022-23,5.14,,3.23,
+Barley,Kpk,Bannu,2021-22,0.04,0.2,0.04,0.2
+Barley,Kpk,Bannu,2022-23,0.04,0.2,0.04,0.3
+Barley,Kpk,Lakki Marwat,2021-22,0.73,3.8,0.63,3.8
+Barley,Kpk,Lakki Marwat,2022-23,0.75,4.6,0.65,4.4
+Barley,Kpk,D.Ikhan,2021-22,0.75,3.9,0.57,3.5
+Barley,Kpk,D.Ikhan,2022-23,0.52,3.2,0.39,2.6
+Barley,Kpk,Tank,2021-22,0.30,1.5,0.29,1.7
+Barley,Kpk,Tank,2022-23,0.10,0.6,0.10,0.7
+Barley,Kpk,Abbottabad,2021-22,0.12,0.6,0.15,0.9
+Barley,Kpk,Abbottabad,2022-23,0.00,0.0,0.00,0.0
+Barley,Kpk,Battagram,2021-22,0.11,0.6,0.15,0.9
+Barley,Kpk,Battagram,2022-23,0.05,0.3,0.07,0.5
+Barley,Kpk,Haripur,2021-22,0.32,1.7,0.24,1.5
+Barley,Kpk,Haripur,2022-23,0.31,1.9,0.23,1.6
+Barley,Kpk,Kohistan,2021-22,0.00,0.0,0.00,0.0
+Barley,Kpk,Kohistan,2022-23,0.00,0.0,0.00,0.0
+Barley,Kpk,Mansehra,2021-22,0.20,1.0,0.22,1.3
+Barley,Kpk,Mansehra,2022-23,0.20,1.2,0.22,1.5
+Barley,Kpk,Kohat,2021-22,0.08,0.4,0.06,0.4
+Barley,Kpk,Kohat,2022-23,0.23,1.4,0.18,1.2
+Barley,Kpk,Karak,2021-22,0.08,0.4,0.03,0.2
+Barley,Kpk,Karak,2022-23,0.04,0.2,0.02,0.1
+Barley,Kpk,Hangu,2021-22,0.00,0.0,0.00,0.0
+Barley,Kpk,Hangu,2022-23,0.00,0.0,0.00,0.0
+Barley,Kpk,Mardan,2021-22,1.02,5.3,0.87,5.3
+Barley,Kpk,Mardan,2022-23,0.65,3.9,0.57,3.8
+Barley,Kpk,Sawabi,2021-22,1.10,5.7,1.48,9.0
+Barley,Kpk,Sawabi,2022-23,0.76,4.6,1.01,6.8
+Barley,Kpk,Bunir,2021-22,0.41,2.1,0.38,2.3
+Barley,Kpk,Bunir,2022-23,0.18,1.1,0.18,1.2
+Barley,Kpk,Chitral,2021-22,1.72,8.9,2.39,14.5
+Barley,Kpk,Chitral,2022-23,1.72,10.4,2.58,17.4
+Barley,Kpk,Malakand,2021-22,0.35,1.8,0.17,1.0
+Barley,Kpk,Malakand,2022-23,0.27,1.6,0.18,1.2
+Barley,Kpk,Dir Lower,2021-22,0.61,3.2,0.86,5.2
+Barley,Kpk,Dir Lower,2022-23,0.56,3.4,0.79,5.3
+Barley,Kpk,Dir Upper,2021-22,0.52,2.7,0.41,2.5
+Barley,Kpk,Dir Upper,2022-23,0.46,2.8,0.37,2.5
+Barley,Unknown,Shangla,2021-22,0.10,0.5,0.12,0.7
+Barley,Unknown,Shangla,2022-23,0.11,0.7,0.14,1.0
+Barley,Unknown,Swat,2021-22,0.06,0.3,0.05,0.3
+Barley,Unknown,Swat,2022-23,0.06,0.4,0.05,0.4
+Barley,Unknown,Peshawar,2021-22,0.02,0.1,0.03,0.2
+Barley,Unknown,Peshawar,2022-23,0.02,0.1,0.03,0.2
+Barley,Unknown,Charsada,2021-22,0.03,0.1,0.04,0.2
+Barley,Unknown,Charsada,2022-23,0.03,0.2,0.04,0.3
+Barley,Unknown,Nowshera,2021-22,0.39,2.0,0.60,3.6
+Barley,Unknown,Nowshera,2022-23,0.27,1.6,0.43,2.6
+Barley,Unknown,Bajour,2021-22,8.62,44.8,5.51,33.4
+Barley,Unknown,Bajour,2022-23,7.61,46.1,5.34,32.4
+Barley,Unknown,Khyber,2021-22,0.19,1.0,0.17,1.0
+Barley,Unknown,Khyber,2022-23,0.19,1.1,0.17,1.0
+Barley,Unknown,Kurram,2021-22,0.49,2.6,0.35,2.1
+Barley,Unknown,Kurram,2022-23,0.49,2.9,0.36,2.2
+Barley,Unknown,Muhmand,2021-22,0.57,3.0,0.38,2.3
+Barley,Unknown,Muhmand,2022-23,0.56,3.4,0.37,2.3
+Barley,Unknown,N. Waziristan,2021-22,0.14,0.7,0.12,0.8
+Barley,Unknown,N. Waziristan,2022-23,0.14,0.8,0.12,0.7
+Barley,Unknown,S. Waziristan,2021-22,0.00,0.0,0.00,0.0
+Barley,Unknown,S. Waziristan,2022-23,0.00,0.0,0.00,0.0
+Barley,Unknown,Oriakzai,2021-22,0.03,0.1,0.03,0.2
+Barley,Unknown,Oriakzai,2022-23,0.03,0.2,0.03,0.2
+Barley,Unknown,SD Bannu,2021-22,0.05,0.3,0.05,0.3
+Barley,Unknown,SD Bannu,2022-23,0.05,0.3,0.04,0.2
+Barley,Unknown,SD D.I. Khan,2021-22,0.00,0.0,0.00,0.0
+Barley,Unknown,SD D.I. Khan,2022-23,0.00,0.0,0.00,0.0
+Barley,Unknown,SD Hassan Khel,2021-22,0.03,0.2,0.03,0.2
+Barley,Unknown,SD Hassan Khel,2022-23,0.03,0.2,0.03,0.2
+Barley,Unknown,SD Kohat,2021-22,0.08,0.4,0.07,0.4
+Barley,Unknown,SD Kohat,2022-23,0.08,0.5,0.06,0.4
+Barley,Unknown,Total,2021-22,19.24,,16.49,
+Barley,Unknown,Total,2022-23,16.50,,14.79,
+Barley,Balochistan,Quetta,2021-22,0.20,1.7,0.32,2.0
+Barley,Balochistan,Quetta,2022-23,0.23,1.3,0.35,1.5
+Barley,Balochistan,Pishin,2021-22,0.21,1.8,0.42,2.6
+Barley,Balochistan,Pishin,2022-23,0.21,1.2,0.42,1.8
+Barley,Balochistan,K. Abdullah,2021-22,0.06,0.5,0.09,0.6
+Barley,Balochistan,K. Abdullah,2022-23,0.06,0.3,0.09,0.4
+Barley,Balochistan,Chagai,2021-22,0.41,3.4,0.57,3.5
+Barley,Balochistan,Chagai,2022-23,0.41,2.3,0.58,2.5
+Barley,Balochistan,Nushki,2021-22,1.09,9.0,1.53,9.4
+Barley,Balochistan,Nushki,2022-23,1.08,6.1,1.51,6.6
+Barley,Balochistan,Loralai,2021-22,0.33,2.8,0.47,2.9
+Barley,Balochistan,Loralai,2022-23,0.49,2.8,0.69,3.0
+Barley,Balochistan,Musa Khail,2021-22,0.04,0.3,0.06,0.4
+Barley,Balochistan,Musa Khail,2022-23,0.05,0.3,0.07,0.3
+Barley,Balochistan,Barkhan,2021-22,0.07,0.6,0.10,0.6
+Barley,Balochistan,Barkhan,2022-23,0.07,0.4,0.10,0.4
+Barley,Balochistan,Zhob,2021-22,0.17,1.4,0.24,1.5
+Barley,Balochistan,Zhob,2022-23,0.17,1.0,0.25,1.1
+Barley,Balochistan,Sherani,2021-22,0.07,0.6,0.10,0.6
+Barley,Balochistan,Sherani,2022-23,0.08,0.4,0.11,0.5
+Barley,Balochistan,Killa Saifullah,2021-22,0.81,6.7,1.08,6.7
+Barley,Balochistan,Killa Saifullah,2022-23,0.81,4.6,1.08,4.7
+Barley,Balochistan,Sibi,2021-22,0.44,3.6,0.87,5.4
+Barley,Balochistan,Sibi,2022-23,0.43,2.4,0.76,3.3
+Barley,Balochistan,Harnai,2021-22,0.04,0.3,0.07,0.5
+Barley,Balochistan,Harnai,2022-23,0.04,0.2,0.07,0.3
+Barley,Balochistan,Ziarat,2021-22,0.00,0.0,0.00,0.0
+Barley,Balochistan,Ziarat,2022-23,0.03,0.2,0.00,0.0
+Barley,Balochistan,Kohlu,2021-22,0.27,2.2,0.42,2.6
+Barley,Balochistan,Kohlu,2022-23,0.32,1.8,0.50,2.2
+Barley,Balochistan,Dera Bughti,2021-22,0.04,0.3,0.06,0.3
+Barley,Balochistan,Dera Bughti,2022-23,0.05,0.3,0.06,0.3
+Barley,Balochistan,Nasirabad,2021-22,0.24,2.0,0.34,2.1
+Barley,Balochistan,Nasirabad,2022-23,0.19,1.1,0.27,1.2
+Barley,Balochistan,Jaffarabad,2021-22,0.00,0.0,0.00,0.0
+Barley,Balochistan,Jaffarabad,2022-23,0.00,0.0,0.00,0.0
+Barley,Balochistan,Kachhi,2021-22,0.39,3.3,0.52,3.2
+Barley,Balochistan,Kachhi,2022-23,0.40,2.2,0.53,2.3
+Barley,Balochistan,Bolan,2021-22,0.00,0.0,0.00,0.0
+Barley,Balochistan,Bolan,2022-23,0.00,0.0,0.00,0.0
+Barley,Balochistan,Jhal Magsi,2021-22,0.21,1.8,0.29,1.8
+Barley,Balochistan,Jhal Magsi,2022-23,0.24,1.3,0.32,1.4
+Barley,Balochistan,Kalat,2021-22,0.53,4.4,0.74,4.5
+Barley,Balochistan,Kalat,2022-23,1.10,6.2,1.53,6.7
+Barley,Balochistan,Mastung,2021-22,0.00,0.0,0.00,0.0
+Barley,Balochistan,Mastung,2022-23,0.01,0.0,0.00,0.0
+Barley,Balochistan,Khuzdar,2021-22,1.78,14.8,2.37,14.6
+Barley,Balochistan,Khuzdar,2022-23,1.81,10.2,2.41,10.5
+Barley,Balochistan,Awaran,2021-22,1.53,12.7,1.69,10.4
+Barley,Balochistan,Awaran,2022-23,1.55,8.7,1.72,7.5
+Barley,Balochistan,Kharan,2021-22,0.32,2.6,0.42,2.6
+Barley,Balochistan,Kharan,2022-23,4.66,26.2,5.74,25.0
+Barley,Balochistan,Washuk,2021-22,1.20,10.0,1.56,9.6
+Barley,Balochistan,Washuk,2022-23,1.53,8.6,1.99,8.6
+Barley,Balochistan,Lasbela,2021-22,0.28,2.3,0.33,2.0
+Barley,Balochistan,Lasbela,2022-23,0.30,1.7,0.36,1.6
+Barley,Balochistan,Turbat,2021-22,0.67,5.6,0.81,5.0
+Barley,Balochistan,Turbat,2022-23,0.71,4.0,0.65,2.8
+Barley,Balochistan,Panjgoor,2021-22,0.66,5.5,0.78,4.8
+Barley,Balochistan,Panjgoor,2022-23,0.76,4.3,0.82,3.6
+Barley,Balochistan,Gwadar,2021-22,0.00,0.0,0.00,0.0
+Barley,Balochistan,Gwadar,2022-23,0.00,0.0,0.00,0.0
+Barley,Balochistan,Total,2021-22,12.05,,16.25,
+Barley,Balochistan,Total,2022-23,17.76,,22.96,
+Sugarcane,Punjab,Attock,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Punjab,Attock,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Punjab,Rawalpindi,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Punjab,Rawalpindi,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Punjab,Islamabad,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Punjab,Islamabad,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Punjab,Jhelum,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Punjab,Jhelum,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Punjab,Chakwal,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Punjab,Chakwal,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Punjab,Sargodha,2021-22,64.75,7.4,4761.60,7.4
+Sugarcane,Punjab,Sargodha,2022-23,68.79,7.3,4318.00,6.5
+Sugarcane,Punjab,Khushab,2021-22,7.28,0.8,426.24,0.7
+Sugarcane,Punjab,Khushab,2022-23,6.88,0.7,375.36,0.6
+Sugarcane,Punjab,Mianwali,2021-22,5.26,0.6,353.08,0.5
+Sugarcane,Punjab,Mianwali,2022-23,5.67,0.6,392.00,0.6
+Sugarcane,Punjab,Bhakkar,2021-22,35.21,4.1,2554.32,4.0
+Sugarcane,Punjab,Bhakkar,2022-23,44.11,4.7,2860.16,4.3
+Sugarcane,Punjab,Faisalabad,2021-22,93.08,10.7,6357.20,9.9
+Sugarcane,Punjab,Faisalabad,2022-23,91.46,9.8,6409.36,9.6
+Sugarcane,Punjab,Toba Tek Singh,2021-22,38.85,4.5,2630.40,4.1
+Sugarcane,Punjab,Toba Tek Singh,2022-23,36.42,3.9,2520.00,3.8
+Sugarcane,Punjab,Jhang,2021-22,70.41,8.1,5352.24,8.3
+Sugarcane,Punjab,Jhang,2022-23,95.10,10.1,6805.60,10.2
+Sugarcane,Punjab,Chiniot,2021-22,48.56,5.6,3600.00,5.6
+Sugarcane,Punjab,Chiniot,2022-23,67.99,7.2,4952.64,7.4
+Sugarcane,Punjab,Gujrat,2021-22,3.24,0.4,135.68,0.2
+Sugarcane,Punjab,Gujrat,2022-23,2.83,0.3,120.12,0.2
+Sugarcane,Punjab,M.B. Din,2021-22,26.30,3.0,1435.20,2.2
+Sugarcane,Punjab,M.B. Din,2022-23,25.09,2.7,1321.84,2.0
+Sugarcane,Punjab,Sialkot,2021-22,2.43,0.3,129.36,0.2
+Sugarcane,Punjab,Sialkot,2022-23,4.86,0.5,395.52,0.6
+Sugarcane,Punjab,Narowal,2021-22,1.62,0.2,58.88,0.1
+Sugarcane,Punjab,Narowal,2022-23,0.81,0.1,44.80,0.1
+Sugarcane,Punjab,Gujranwala,2021-22,1.21,0.1,70.32,0.1
+Sugarcane,Punjab,Gujranwala,2022-23,3.24,0.3,188.16,0.3
+Sugarcane,Punjab,Hafizabad,2021-22,6.47,0.7,388.48,0.6
+Sugarcane,Punjab,Hafizabad,2022-23,2.02,0.2,86.40,0.1
+Sugarcane,Punjab,Sheikhupura,2021-22,2.83,0.3,171.36,0.3
+Sugarcane,Punjab,Sheikhupura,2022-23,2.43,0.3,139.20,0.2
+Sugarcane,Punjab,Nankana Sahib,2021-22,10.53,1.2,660.40,1.0
+Sugarcane,Punjab,Nankana Sahib,2022-23,12.95,1.4,829.44,1.2
+Sugarcane,Punjab,Lahore,2021-22,0.81,0.1,49.36,0.1
+Sugarcane,Punjab,Lahore,2022-23,0.40,0.0,24.24,0.0
+Sugarcane,Punjab,Kasur,2021-22,24.28,2.8,1363.20,2.1
+Sugarcane,Punjab,Kasur,2022-23,23.47,2.5,1329.36,2.0
+Sugarcane,Punjab,Okara,2021-22,12.95,1.5,998.40,1.6
+Sugarcane,Punjab,Okara,2022-23,11.33,1.2,1150.24,1.7
+Sugarcane,Punjab,Sahiwal,2021-22,4.05,0.5,238.00,0.4
+Sugarcane,Punjab,Sahiwal,2022-23,3.64,0.4,231.48,0.3
+Sugarcane,Punjab,Pakpattan,2021-22,2.02,0.2,111.60,0.2
+Sugarcane,Punjab,Pakpattan,2022-23,2.02,0.2,122.20,0.2
+Sugarcane,Punjab,Multan,2021-22,4.05,0.5,270.00,0.4
+Sugarcane,Punjab,Multan,2022-23,4.05,0.4,260.00,0.4
+Sugarcane,Punjab,Lodhran,2021-22,4.86,0.6,364.80,0.6
+Sugarcane,Punjab,Lodhran,2022-23,3.64,0.4,327.24,0.5
+Sugarcane,Punjab,Khanewal,2021-22,7.28,0.8,504.00,0.8
+Sugarcane,Punjab,Khanewal,2022-23,6.47,0.7,472.96,0.7
+Sugarcane,Punjab,Vehari,2021-22,18.21,2.1,1258.20,2.0
+Sugarcane,Punjab,Vehari,2022-23,17.00,1.8,1206.24,1.8
+Sugarcane,Punjab,M. Garh,2021-22,52.61,6.1,3811.60,5.9
+Sugarcane,Punjab,M. Garh,2022-23,58.68,6.3,4158.60,6.2
+Sugarcane,Punjab,Layyah,2021-22,17.81,2.0,1135.20,1.8
+Sugarcane,Punjab,Layyah,2022-23,18.21,1.9,1146.60,1.7
+Sugarcane,Punjab,D.G. Khan,2021-22,10.12,1.2,770.00,1.2
+Sugarcane,Punjab,D.G. Khan,2022-23,9.71,1.0,712.32,1.1
+Sugarcane,Punjab,Rajanpur,2021-22,54.63,6.3,4357.80,6.8
+Sugarcane,Punjab,Rajanpur,2022-23,53.42,5.7,3944.16,5.9
+Sugarcane,Punjab,Bahawalpur,2021-22,24.28,2.8,1557.60,2.4
+Sugarcane,Punjab,Bahawalpur,2022-23,23.47,2.5,1482.48,2.2
+Sugarcane,Punjab,Rahimyar Khan,2021-22,198.69,22.9,17401.04,27.1
+Sugarcane,Punjab,Rahimyar Khan,2022-23,216.50,23.1,17505.20,26.2
+Sugarcane,Punjab,Bahawalnagar,2021-22,14.57,1.7,969.12,1.5
+Sugarcane,Punjab,Bahawalnagar,2022-23,15.38,1.6,1100.48,1.6
+Sugarcane,Punjab,Total,2021-22,869.25,,64244.68,
+Sugarcane,Punjab,Total,2022-23,938.04,,66932.40,
+Sugarcane,Sindh,Khairpur,2021-22,22.48,7.6,1733.48,8.9
+Sugarcane,Sindh,Khairpur,2022-23,18.77,6.5,1096.48,6.8
+Sugarcane,Sindh,Ghotki,2021-22,63.11,21.4,4272.72,22.0
+Sugarcane,Sindh,Ghotki,2022-23,63.85,22.1,3761.35,23.3
+Sugarcane,Sindh,Sukkur,2021-22,6.23,2.1,381.61,2.0
+Sugarcane,Sindh,Sukkur,2022-23,7.24,2.5,427.95,2.6
+Sugarcane,Sindh,N. Feroze,2021-22,22.28,7.5,1343.37,6.9
+Sugarcane,Sindh,N. Feroze,2022-23,21.67,7.5,1212.46,7.5
+Sugarcane,Sindh,Shaheed Benazir Abad,2021-22,34.27,11.6,2726.45,14.0
+Sugarcane,Sindh,Shaheed Benazir Abad,2022-23,35.02,12.1,2021.24,12.5
+Sugarcane,Sindh,Jacobabad,2021-22,0.10,0.0,2.47,0.0
+Sugarcane,Sindh,Jacobabad,2022-23,0.11,0.0,2.70,0.0
+Sugarcane,Sindh,Kashmore,2021-22,0.17,0.1,9.35,0.0
+Sugarcane,Sindh,Kashmore,2022-23,0.16,0.1,8.86,0.1
+Sugarcane,Sindh,Shikarpur,2021-22,0.18,0.1,9.92,0.1
+Sugarcane,Sindh,Shikarpur,2022-23,0.16,0.1,9.35,0.1
+Sugarcane,Sindh,Larkana,2021-22,0.66,0.2,51.63,0.3
+Sugarcane,Sindh,Larkana,2022-23,0.65,0.2,44.62,0.3
+Sugarcane,Sindh,Kambar Shahdat Kot,2021-22,0.04,0.0,1.87,0.0
+Sugarcane,Sindh,Kambar Shahdat Kot,2022-23,0.04,0.0,2.02,0.0
+Sugarcane,Sindh,Sanghar,2021-22,13.60,4.6,826.43,4.2
+Sugarcane,Sindh,Sanghar,2022-23,12.73,4.4,730.89,4.5
+Sugarcane,Sindh,Tharparkar,2021-22,0.32,0.1,15.72,0.1
+Sugarcane,Sindh,Tharparkar,2022-23,0.38,0.1,20.77,0.1
+Sugarcane,Sindh,Mirpurkhas,2021-22,18.68,6.3,1070.63,5.5
+Sugarcane,Sindh,Mirpurkhas,2022-23,19.82,6.8,981.50,6.1
+Sugarcane,Sindh,Umarkot,2021-22,2.97,1.0,164.45,0.8
+Sugarcane,Sindh,Umarkot,2022-23,1.48,0.5,74.26,0.5
+Sugarcane,Sindh,Dadu,2021-22,6.70,2.3,344.58,1.8
+Sugarcane,Sindh,Dadu,2022-23,6.47,2.2,318.48,2.0
+Sugarcane,Sindh,Jamshoro,2021-22,0.39,0.1,16.83,0.1
+Sugarcane,Sindh,Jamshoro,2022-23,0.39,0.1,15.58,0.1
+Sugarcane,Sindh,Hyderabad,2021-22,3.98,1.3,255.39,1.3
+Sugarcane,Sindh,Hyderabad,2022-23,4.01,1.4,192.79,1.2
+Sugarcane,Sindh,Matiari,2021-22,13.11,4.4,984.84,5.1
+Sugarcane,Sindh,Matiari,2022-23,12.39,4.3,699.23,4.3
+Sugarcane,Sindh,Tando Allahyar,2021-22,20.98,7.1,1462.27,7.5
+Sugarcane,Sindh,Tando Allahyar,2022-23,19.96,6.9,1132.18,7.0
+Sugarcane,Sindh,T.M.Khan,2021-22,13.87,4.7,863.90,4.4
+Sugarcane,Sindh,T.M.Khan,2022-23,14.54,5.0,789.07,4.9
+Sugarcane,Sindh,Badin,2021-22,16.64,5.6,756.59,3.9
+Sugarcane,Sindh,Badin,2022-23,15.17,5.2,668.76,4.1
+Sugarcane,Sindh,Thatta,2021-22,34.51,11.7,2166.24,11.1
+Sugarcane,Sindh,Thatta,2022-23,34.39,11.9,1961.19,12.1
+Sugarcane,Sindh,Karachi,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Sindh,Karachi,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Sindh,Total,2021-22,295.25,,19460.72,
+Sugarcane,Sindh,Total,2022-23,289.36,,16171.73,
+Sugarcane,Kpk,Bannu,2021-22,0.31,0.3,14.19,0.3
+Sugarcane,Kpk,Bannu,2022-23,0.29,0.3,13.16,0.3
+Sugarcane,Kpk,Lakki Marwat,2021-22,0.01,0.0,0.24,0.0
+Sugarcane,Kpk,Lakki Marwat,2022-23,0.01,0.0,0.24,0.0
+Sugarcane,Kpk,D.Ikhan,2021-22,21.42,22.5,1381.66,28.1
+Sugarcane,Kpk,D.Ikhan,2022-23,20.43,22.5,1317.54,27.2
+Sugarcane,Kpk,Tank,2021-22,0.53,0.6,10.84,0.2
+Sugarcane,Kpk,Tank,2022-23,0.71,0.8,14.44,0.3
+Sugarcane,Kpk,Abbottabad,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Kpk,Abbottabad,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Kpk,Battagram,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Kpk,Battagram,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Kpk,Haripur,2021-22,0.04,0.0,1.35,0.0
+Sugarcane,Kpk,Haripur,2022-23,0.04,0.0,1.26,0.0
+Sugarcane,Kpk,Kohistan,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Kpk,Kohistan,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Kpk,Mansehra,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Kpk,Mansehra,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Kpk,Kohat,2021-22,0.07,0.1,2.30,0.0
+Sugarcane,Kpk,Kohat,2022-23,0.06,0.1,1.99,0.0
+Sugarcane,Kpk,Karak,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Kpk,Karak,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Kpk,Hangu,2021-22,0.02,0.0,0.75,0.0
+Sugarcane,Kpk,Hangu,2022-23,0.02,0.0,0.71,0.0
+Sugarcane,Kpk,Mardan,2021-22,28.94,30.4,1216.54,24.8
+Sugarcane,Kpk,Mardan,2022-23,27.03,29.8,1123.67,23.2
+Sugarcane,Kpk,Sawabi,2021-22,1.72,1.8,68.40,1.4
+Sugarcane,Kpk,Sawabi,2022-23,2.38,2.6,95.05,2.0
+Sugarcane,Kpk,Bunir,2021-22,0.07,0.1,2.40,0.0
+Sugarcane,Kpk,Bunir,2022-23,0.07,0.1,2.23,0.0
+Sugarcane,Kpk,Chitral,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Kpk,Chitral,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Kpk,Malakand,2021-22,4.89,5.1,196.80,4.0
+Sugarcane,Kpk,Malakand,2022-23,4.38,4.8,189.90,3.9
+Sugarcane,Kpk,Dir Lower,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Kpk,Dir Lower,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Kpk,Dir Upper,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Kpk,Dir Upper,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Unknown,Shangla,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Unknown,Shangla,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Unknown,Swat,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Unknown,Swat,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Unknown,Peshawar,2021-22,4.75,5.0,202.26,4.1
+Sugarcane,Unknown,Peshawar,2022-23,5.38,5.9,287.08,5.9
+Sugarcane,Unknown,Charsada,2021-22,28.46,29.9,1640.63,33.4
+Sugarcane,Unknown,Charsada,2022-23,26.92,29.7,1647.86,34.0
+Sugarcane,Unknown,Nowshera,2021-22,2.92,3.1,149.63,3.0
+Sugarcane,Unknown,Nowshera,2022-23,2.81,3.1,143.64,3.0
+Sugarcane,Unknown,Bajour,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Unknown,Bajour,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Unknown,Khyber,2021-22,0.62,0.7,14.87,0.3
+Sugarcane,Unknown,Khyber,2022-23,0.23,0.3,5.49,0.1
+Sugarcane,Unknown,Kurram,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Unknown,Kurram,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Unknown,Muhmand,2021-22,0.15,0.2,4.54,0.1
+Sugarcane,Unknown,Muhmand,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Unknown,N. Waziristan,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Unknown,N. Waziristan,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Unknown,S. Waziristan,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Unknown,S. Waziristan,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Unknown,Oriakzai,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Unknown,Oriakzai,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Unknown,SD Bannu,2021-22,0.05,0.1,0.65,0.0
+Sugarcane,Unknown,SD Bannu,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Unknown,SD D.I. Khan,2021-22,0.13,0.1,1.52,0.0
+Sugarcane,Unknown,SD D.I. Khan,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Unknown,SD Hassan Khel,2021-22,0.02,0.0,0.39,0.0
+Sugarcane,Unknown,SD Hassan Khel,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Unknown,SD Kohat,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Unknown,SD Kohat,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Unknown,Total,2021-22,95.10,,4909.95,
+Sugarcane,Unknown,Total,2022-23,90.74,,4844.24,
+Sugarcane,Balochistan,Quetta,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Quetta,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Pishin,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Pishin,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,K. Abdullah,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,K. Abdullah,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Chagai,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Chagai,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Loralai,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Loralai,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Musa Khail,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Musa Khail,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Barkhan,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Barkhan,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Zhob,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Zhob,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Sherani,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Sherani,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Killa Saifullah,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Killa Saifullah,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Sibi,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Sibi,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Harnai,2021-22,0.67,96.1,33.50,95.9
+Sugarcane,Balochistan,Harnai,2022-23,0.68,97.3,32.27,97.3
+Sugarcane,Balochistan,Ziarat,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Ziarat,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Kohlu,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Kohlu,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Dera Bughti,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Dera Bughti,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Nasirabad,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Nasirabad,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Jaffarabad,2021-22,0.02,2.2,0.80,2.3
+Sugarcane,Balochistan,Jaffarabad,2022-23,0.01,1.4,0.53,1.6
+Sugarcane,Balochistan,Kachhi,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Kachhi,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Jhal Magsi,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Jhal Magsi,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Kalat,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Kalat,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Mastung,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Mastung,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Khuzdar,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Khuzdar,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Awaran,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Awaran,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Kharan,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Kharan,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Washuk,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Washuk,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Lasbela,2021-22,0.01,1.7,0.62,1.8
+Sugarcane,Balochistan,Lasbela,2022-23,0.01,1.3,0.36,1.1
+Sugarcane,Balochistan,Turbat,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Turbat,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Panjgoor,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Panjgoor,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Gwadar,2021-22,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Gwadar,2022-23,0.00,0.0,0.00,0.0
+Sugarcane,Balochistan,Total,2021-22,0.70,,34.92,
+Sugarcane,Balochistan,Total,2022-23,0.69,,33.17,
+Cotton,Punjab,Attock,2021-22,0.00,0.0,0.00,0.0
+Cotton,Punjab,Attock,2022-23,0.00,0.0,0.00,0.0
+Cotton,Punjab,Rawalpindi,2021-22,0.00,0.0,0.00,0.0
+Cotton,Punjab,Rawalpindi,2022-23,0.00,0.0,0.00,0.0
+Cotton,Punjab,Islamabad,2021-22,0.00,0.0,0.00,0.0
+Cotton,Punjab,Islamabad,2022-23,0.00,0.0,0.00,0.0
+Cotton,Punjab,Jhelum,2021-22,0.00,0.0,0.00,0.0
+Cotton,Punjab,Jhelum,2022-23,0.00,0.0,0.00,0.0
+Cotton,Punjab,Chakwal,2021-22,0.00,0.0,0.00,0.0
+Cotton,Punjab,Chakwal,2022-23,0.00,0.0,0.00,0.0
+Cotton,Punjab,Sargodha,2021-22,1.62,0.1,2.67,0.1
+Cotton,Punjab,Sargodha,2022-23,1.62,0.1,2.70,0.1
+Cotton,Punjab,Khushab,2021-22,0.40,0.0,0.64,0.0
+Cotton,Punjab,Khushab,2022-23,0.81,0.1,1.80,0.1
+Cotton,Punjab,Mianwali,2021-22,30.35,2.4,125.63,2.4
+Cotton,Punjab,Mianwali,2022-23,42.49,2.9,163.30,5.1
+Cotton,Punjab,Bhakkar,2021-22,3.24,0.3,11.52,0.2
+Cotton,Punjab,Bhakkar,2022-23,8.50,0.6,27.10,0.8
+Cotton,Punjab,Faisalabad,2021-22,4.86,0.4,21.94,0.4
+Cotton,Punjab,Faisalabad,2022-23,10.52,0.7,44.70,1.4
+Cotton,Punjab,Toba Tek Singh,2021-22,6.47,0.5,22.75,0.4
+Cotton,Punjab,Toba Tek Singh,2022-23,12.14,0.8,32.80,1.0
+Cotton,Punjab,Jhang,2021-22,4.45,0.3,14.56,0.3
+Cotton,Punjab,Jhang,2022-23,12.55,0.8,31.00,1.0
+Cotton,Punjab,Chiniot,2021-22,0.00,0.0,0.00,0.0
+Cotton,Punjab,Chiniot,2022-23,0.00,0.0,0.00,0.0
+Cotton,Punjab,Gujrat,2021-22,0.00,0.0,0.00,0.0
+Cotton,Punjab,Gujrat,2022-23,0.00,0.0,0.00,0.0
+Cotton,Punjab,M.B. Din,2021-22,0.00,0.0,0.00,0.0
+Cotton,Punjab,M.B. Din,2022-23,0.00,0.0,0.00,0.0
+Cotton,Punjab,Sialkot,2021-22,0.00,0.0,0.00,0.0
+Cotton,Punjab,Sialkot,2022-23,0.00,0.0,0.00,0.0
+Cotton,Punjab,Narowal,2021-22,0.00,0.0,0.00,0.0
+Cotton,Punjab,Narowal,2022-23,0.00,0.0,0.00,0.0
+Cotton,Punjab,Gujranwala,2021-22,0.00,0.0,0.00,0.0
+Cotton,Punjab,Gujranwala,2022-23,0.00,0.0,0.00,0.0
+Cotton,Punjab,Hafizabad,2021-22,0.00,0.0,0.00,0.0
+Cotton,Punjab,Hafizabad,2022-23,0.00,0.0,0.00,0.0
+Cotton,Punjab,Sheikhupura,2021-22,0.00,0.0,0.00,0.0
+Cotton,Punjab,Sheikhupura,2022-23,0.00,0.0,0.00,0.0
+Cotton,Punjab,Nankana Sahib,2021-22,0.00,0.0,0.00,0.0
+Cotton,Punjab,Nankana Sahib,2022-23,0.00,0.0,0.00,0.0
+Cotton,Punjab,Lahore,2021-22,0.00,0.0,0.00,0.0
+Cotton,Punjab,Lahore,2022-23,0.00,0.0,0.00,0.0
+Cotton,Punjab,Kasur,2021-22,1.21,0.1,1.75,0.0
+Cotton,Punjab,Kasur,2022-23,2.02,0.1,3.60,0.1
+Cotton,Punjab,Okara,2021-22,3.24,0.3,17.78,0.3
+Cotton,Punjab,Okara,2022-23,4.45,0.3,19.30,0.6
+Cotton,Punjab,Sahiwal,2021-22,15.78,1.2,65.49,1.3
+Cotton,Punjab,Sahiwal,2022-23,28.33,1.9,86.40,2.7
+Cotton,Punjab,Pakpattan,2021-22,3.24,0.3,13.57,0.3
+Cotton,Punjab,Pakpattan,2022-23,8.90,0.6,32.80,1.0
+Cotton,Punjab,Multan,2021-22,81.34,6.4,354.93,6.9
+Cotton,Punjab,Multan,2022-23,97.53,6.6,189.00,5.9
+Cotton,Punjab,Lodhran,2021-22,95.50,7.5,469.25,9.1
+Cotton,Punjab,Lodhran,2022-23,107.64,7.2,264.50,8.2
+Cotton,Punjab,Khanewal,2021-22,88.62,6.9,334.34,6.5
+Cotton,Punjab,Khanewal,2022-23,106.03,7.1,255.50,8.0
+Cotton,Punjab,Vehari,2021-22,46.54,3.6,179.50,3.5
+Cotton,Punjab,Vehari,2022-23,65.96,4.4,168.30,5.2
+Cotton,Punjab,M. Garh,2021-22,89.43,7.0,324.13,6.3
+Cotton,Punjab,M. Garh,2022-23,90.65,6.1,126.60,3.9
+Cotton,Punjab,Layyah,2021-22,31.97,2.5,111.26,2.2
+Cotton,Punjab,Layyah,2022-23,40.87,2.8,94.90,3.0
+Cotton,Punjab,D.G. Khan,2021-22,45.73,3.6,163.85,3.2
+Cotton,Punjab,D.G. Khan,2022-23,46.54,3.1,50.90,1.6
+Cotton,Punjab,Rajanpur,2021-22,77.29,6.0,301.30,5.8
+Cotton,Punjab,Rajanpur,2022-23,110.07,7.4,133.70,4.2
+Cotton,Punjab,Bahawalpur,2021-22,217.72,17.0,871.06,16.9
+Cotton,Punjab,Bahawalpur,2022-23,233.90,15.7,525.50,16.4
+Cotton,Punjab,Rahimyar Khan,2021-22,180.08,14.1,736.10,14.2
+Cotton,Punjab,Rahimyar Khan,2022-23,189.79,12.8,362.70,11.3
+Cotton,Punjab,Bahawalnagar,2021-22,250.12,19.6,1023.98,19.8
+Cotton,Punjab,Bahawalnagar,2022-23,263.85,17.8,593.20,18.5
+Cotton,Punjab,Total,2021-22,1279.20,,5168.00,
+Cotton,Punjab,Total,2022-23,1485.16,,3210.30,
+Cotton,Sindh,Khairpur,2021-22,82.47,13.9,311.15,10.4
+Cotton,Sindh,Khairpur,2022-23,88.57,15.0,123.55,7.8
+Cotton,Sindh,Ghotki,2021-22,89.61,15.1,408.93,13.6
+Cotton,Sindh,Ghotki,2022-23,89.62,15.2,144.83,9.1
+Cotton,Sindh,Sukkur,2021-22,33.94,5.7,174.27,5.8
+Cotton,Sindh,Sukkur,2022-23,40.67,6.9,109.58,6.9
+Cotton,Sindh,N. Feroze,2021-22,38.50,6.5,227.57,7.6
+Cotton,Sindh,N. Feroze,2022-23,38.61,6.5,65.75,4.1
+Cotton,Sindh,Shaheed Benazir Abad,2021-22,64.90,10.9,286.93,9.6
+Cotton,Sindh,Shaheed Benazir Abad,2022-23,66.34,11.2,108.84,6.9
+Cotton,Sindh,Jacobabad,2021-22,0.00,0.0,0.00,0.0
+Cotton,Sindh,Jacobabad,2022-23,0.00,0.0,0.00,0.0
+Cotton,Sindh,Kashmore,2021-22,0.00,0.0,0.00,0.0
+Cotton,Sindh,Kashmore,2022-23,0.03,0.0,0.00,0.0
+Cotton,Sindh,Shikarpur,2021-22,0.11,0.0,0.24,0.0
+Cotton,Sindh,Shikarpur,2022-23,0.28,0.0,0.00,0.0
+Cotton,Sindh,Larkana,2021-22,0.16,0.0,0.71,0.0
+Cotton,Sindh,Larkana,2022-23,0.27,0.0,0.00,0.0
+Cotton,Sindh,Kambar Shahdat Kot,2021-22,0.00,0.0,0.00,0.0
+Cotton,Sindh,Kambar Shahdat Kot,2022-23,0.00,0.0,0.00,0.0
+Cotton,Sindh,Sanghar,2021-22,104.94,17.7,593.97,19.8
+Cotton,Sindh,Sanghar,2022-23,79.68,13.5,384.34,24.2
+Cotton,Sindh,Tharparkar,2021-22,0.89,0.1,4.86,0.2
+Cotton,Sindh,Tharparkar,2022-23,0.95,0.2,2.99,0.2
+Cotton,Sindh,Mirpurkhas,2021-22,37.96,6.4,215.49,7.2
+Cotton,Sindh,Mirpurkhas,2022-23,37.87,6.4,127.04,8.0
+Cotton,Sindh,Umarkot,2021-22,27.80,4.7,156.71,5.2
+Cotton,Sindh,Umarkot,2022-23,27.96,4.7,98.10,6.2
+Cotton,Sindh,Dadu,2021-22,12.34,2.1,53.84,1.8
+Cotton,Sindh,Dadu,2022-23,12.68,2.1,26.38,1.7
+Cotton,Sindh,Jamshoro,2021-22,13.23,2.2,76.04,2.5
+Cotton,Sindh,Jamshoro,2022-23,15.78,2.7,55.15,3.5
+Cotton,Sindh,Hyderabad,2021-22,4.94,0.8,30.71,1.0
+Cotton,Sindh,Hyderabad,2022-23,4.99,0.8,21.77,1.4
+Cotton,Sindh,Matiari,2021-22,38.72,6.5,234.23,7.8
+Cotton,Sindh,Matiari,2022-23,39.50,6.7,142.69,9.0
+Cotton,Sindh,Tando Allahyar,2021-22,22.55,3.8,137.37,4.6
+Cotton,Sindh,Tando Allahyar,2022-23,23.88,4.0,99.63,6.3
+Cotton,Sindh,T.M.Khan,2021-22,2.98,0.5,14.53,0.5
+Cotton,Sindh,T.M.Khan,2022-23,3.89,0.7,11.48,0.7
+Cotton,Sindh,Badin,2021-22,12.34,2.1,52.93,1.8
+Cotton,Sindh,Badin,2022-23,12.69,2.2,42.57,2.7
+Cotton,Sindh,Thatta,2021-22,5.13,0.9,16.76,0.6
+Cotton,Sindh,Thatta,2022-23,5.19,0.9,20.12,1.3
+Cotton,Sindh,Karachi,2021-22,0.39,0.1,1.18,0.0
+Cotton,Sindh,Karachi,2022-23,0.39,0.1,1.51,0.1
+Cotton,Sindh,Total,2021-22,593.89,,2998.41,
+Cotton,Sindh,Total,2022-23,589.81,,1586.29,
+Cotton,Kpk,Bannu,2021-22,0.00,0.0,0.00,0.0
+Cotton,Kpk,Bannu,2022-23,0.00,0.0,0.00,0.0
+Cotton,Kpk,Lakki Marwat,2021-22,0.00,0.0,0.00,0.0
+Cotton,Kpk,Lakki Marwat,2022-23,0.00,0.0,0.00,0.0
+Cotton,Kpk,D.Ikhan,2021-22,0.17,100.0,0.51,100.0
+Cotton,Kpk,D.Ikhan,2022-23,0.18,100.0,0.54,100.0
+Cotton,Kpk,Tank,2021-22,0.00,0.0,0.00,0.0
+Cotton,Kpk,Tank,2022-23,0.00,0.0,0.00,0.0
+Cotton,Kpk,Abbottabad,2021-22,0.00,0.0,0.00,0.0
+Cotton,Kpk,Abbottabad,2022-23,0.00,0.0,0.00,0.0
+Cotton,Kpk,Battagram,2021-22,0.00,0.0,0.00,0.0
+Cotton,Kpk,Battagram,2022-23,0.00,0.0,0.00,0.0
+Cotton,Kpk,Haripur,2021-22,0.00,0.0,0.00,0.0
+Cotton,Kpk,Haripur,2022-23,0.00,0.0,0.00,0.0
+Cotton,Kpk,Kohistan,2021-22,0.00,0.0,0.00,0.0
+Cotton,Kpk,Kohistan,2022-23,0.00,0.0,0.00,0.0
+Cotton,Kpk,Mansehra,2021-22,0.00,0.0,0.00,0.0
+Cotton,Kpk,Mansehra,2022-23,0.00,0.0,0.00,0.0
+Cotton,Kpk,Kohat,2021-22,0.00,0.0,0.00,0.0
+Cotton,Kpk,Kohat,2022-23,0.00,0.0,0.00,0.0
+Cotton,Kpk,Karak,2021-22,0.00,0.0,0.00,0.0
+Cotton,Kpk,Karak,2022-23,0.00,0.0,0.00,0.0
+Cotton,Kpk,Hangu,2021-22,0.00,0.0,0.00,0.0
+Cotton,Kpk,Hangu,2022-23,0.00,0.0,0.00,0.0
+Cotton,Kpk,Mardan,2021-22,0.00,0.0,0.00,0.0
+Cotton,Kpk,Mardan,2022-23,0.00,0.0,0.00,0.0
+Cotton,Kpk,Sawabi,2021-22,0.00,0.0,0.00,0.0
+Cotton,Kpk,Sawabi,2022-23,0.00,0.0,0.00,0.0
+Cotton,Kpk,Bunir,2021-22,0.00,0.0,0.00,0.0
+Cotton,Kpk,Bunir,2022-23,0.00,0.0,0.00,0.0
+Cotton,Kpk,Chitral,2021-22,0.00,0.0,0.00,0.0
+Cotton,Kpk,Chitral,2022-23,0.00,0.0,0.00,0.0
+Cotton,Kpk,Malakand,2021-22,0.00,0.0,0.00,0.0
+Cotton,Kpk,Malakand,2022-23,0.00,0.0,0.00,0.0
+Cotton,Kpk,Dir Lower,2021-22,0.00,0.0,0.00,0.0
+Cotton,Kpk,Dir Lower,2022-23,0.00,0.0,0.00,0.0
+Cotton,Kpk,Dir Upper,2021-22,0.00,0.0,0.00,0.0
+Cotton,Kpk,Dir Upper,2022-23,0.00,0.0,0.00,0.0
+Cotton,Kpk,Shangla,2021-22,0.00,0.0,0.00,0.0
+Cotton,Kpk,Shangla,2022-23,0.00,0.0,0.00,0.0
+Cotton,Unknown,Swat,2021-22,0.00,0.0,0.00,0.0
+Cotton,Unknown,Swat,2022-23,0.00,0.0,0.00,0.0
+Cotton,Unknown,Peshawar,2021-22,0.00,0.0,0.00,0.0
+Cotton,Unknown,Peshawar,2022-23,0.00,0.0,0.00,0.0
+Cotton,Unknown,Charsada,2021-22,0.00,0.0,0.00,0.0
+Cotton,Unknown,Charsada,2022-23,0.00,0.0,0.00,0.0
+Cotton,Unknown,Nowshera,2021-22,0.00,0.0,0.00,0.0
+Cotton,Unknown,Nowshera,2022-23,0.00,0.0,0.00,0.0
+Cotton,Unknown,Bajour,2021-22,0.00,0.0,0.00,0.0
+Cotton,Unknown,Bajour,2022-23,0.00,0.0,0.00,0.0
+Cotton,Unknown,Khyber,2021-22,0.00,0.0,0.00,0.0
+Cotton,Unknown,Khyber,2022-23,0.00,0.0,0.00,0.0
+Cotton,Unknown,Kurram,2021-22,0.00,0.0,0.00,0.0
+Cotton,Unknown,Kurram,2022-23,0.00,0.0,0.00,0.0
+Cotton,Unknown,Muhmand,2021-22,0.00,0.0,0.00,0.0
+Cotton,Unknown,Muhmand,2022-23,0.00,0.0,0.00,0.0
+Cotton,Unknown,N. Waziristan,2021-22,0.00,0.0,0.00,0.0
+Cotton,Unknown,N. Waziristan,2022-23,0.00,0.0,0.00,0.0
+Cotton,Unknown,S. Waziristan,2021-22,0.00,0.0,0.00,0.0
+Cotton,Unknown,S. Waziristan,2022-23,0.00,0.0,0.00,0.0
+Cotton,Unknown,Oriakzai,2021-22,0.00,0.0,0.00,0.0
+Cotton,Unknown,Oriakzai,2022-23,0.00,0.0,0.00,0.0
+Cotton,Unknown,SD Bannu,2021-22,0.00,0.0,0.00,0.0
+Cotton,Unknown,SD Bannu,2022-23,0.00,0.0,0.00,0.0
+Cotton,Unknown,SD D.I. Khan,2021-22,0.00,0.0,0.00,0.0
+Cotton,Unknown,SD D.I. Khan,2022-23,0.00,0.0,0.00,0.0
+Cotton,Unknown,SD Hassan Khel,2021-22,0.00,0.0,0.00,0.0
+Cotton,Unknown,SD Hassan Khel,2022-23,0.00,0.0,0.00,0.0
+Cotton,Unknown,SD Kohat,2021-22,0.00,0.0,0.00,0.0
+Cotton,Unknown,SD Kohat,2022-23,0.00,0.0,0.00,0.0
+Cotton,Unknown,Total,2021-22,0.17,,0.51,
+Cotton,Unknown,Total,2022-23,0.18,,0.54,
+Cotton,Balochistan,Quetta,2021-22,0.00,0.0,0.00,0.0
+Cotton,Balochistan,Quetta,2022-23,0.00,0.0,0.00,0.0
+Cotton,Balochistan,Pishin,2021-22,0.00,0.0,0.00,0.0
+Cotton,Balochistan,Pishin,2022-23,0.00,0.0,0.00,0.0
+Cotton,Balochistan,K. Abdullah,2021-22,0.00,0.0,0.00,0.0
+Cotton,Balochistan,K. Abdullah,2022-23,0.00,0.0,0.00,0.0
+Cotton,Balochistan,Chagai,2021-22,0.12,0.2,0.34,0.2
+Cotton,Balochistan,Chagai,2022-23,0.20,0.3,0.47,0.4
+Cotton,Balochistan,Nushki,2021-22,2.52,4.0,7.06,4.4
+Cotton,Balochistan,Nushki,2022-23,2.53,3.7,3.58,3.2
+Cotton,Balochistan,Loralai,2021-22,0.10,0.2,0.27,0.2
+Cotton,Balochistan,Loralai,2022-23,0.24,0.3,0.49,0.4
+Cotton,Balochistan,Musa Khail,2021-22,0.00,0.0,0.00,0.0
+Cotton,Balochistan,Musa Khail,2022-23,0.01,0.0,0.01,0.0
+Cotton,Balochistan,Barkhan,2021-22,15.54,24.4,40.99,25.3
+Cotton,Balochistan,Barkhan,2022-23,9.08,13.3,24.37,21.6
+Cotton,Balochistan,Zhob,2021-22,0.00,0.0,0.00,0.0
+Cotton,Balochistan,Zhob,2022-23,0.00,0.0,0.00,0.0
+Cotton,Balochistan,Sherani,2021-22,0.00,0.0,0.00,0.0
+Cotton,Balochistan,Sherani,2022-23,0.00,0.0,0.00,0.0
+Cotton,Balochistan,Killa Saifullah,2021-22,0.00,0.0,0.00,0.0
+Cotton,Balochistan,Killa Saifullah,2022-23,0.00,0.0,0.00,0.0
+Cotton,Balochistan,Sibi,2021-22,7.15,11.2,18.39,11.4
+Cotton,Balochistan,Sibi,2022-23,7.33,10.7,8.32,7.4
+Cotton,Balochistan,Harnai,2021-22,0.00,0.0,0.00,0.0
+Cotton,Balochistan,Harnai,2022-23,0.00,0.0,0.00,0.0
+Cotton,Balochistan,Ziarat,2021-22,0.00,0.0,0.00,0.0
+Cotton,Balochistan,Ziarat,2022-23,0.00,0.0,0.00,0.0
+Cotton,Balochistan,Kohlu,2021-22,3.60,5.6,10.67,6.6
+Cotton,Balochistan,Kohlu,2022-23,4.49,6.6,12.19,10.8
+Cotton,Balochistan,Dera Bughti,2021-22,2.17,3.4,3.72,2.3
+Cotton,Balochistan,Dera Bughti,2022-23,3.28,4.8,6.32,5.6
+Cotton,Balochistan,Nasirabad,2021-22,0.00,0.0,0.00,0.0
+Cotton,Balochistan,Nasirabad,2022-23,2.43,3.5,0.97,0.9
+Cotton,Balochistan,Jaffarabad,2021-22,0.00,0.0,0.00,0.0
+Cotton,Balochistan,Jaffarabad,2022-23,0.00,0.0,0.00,0.0
+Cotton,Balochistan,Kachhi,2021-22,1.35,2.1,3.65,2.3
+Cotton,Balochistan,Kachhi,2022-23,1.41,2.1,2.66,2.4
+Cotton,Balochistan,Jhal Magsi,2021-22,0.00,0.0,0.00,0.0
+Cotton,Balochistan,Jhal Magsi,2022-23,0.01,0.0,0.00,0.0
+Cotton,Balochistan,Kalat,2021-22,0.00,0.0,0.00,0.0
+Cotton,Balochistan,Kalat,2022-23,0.00,0.0,0.00,0.0
+Cotton,Balochistan,Mastung,2021-22,7.11,11.2,20.03,12.4
+Cotton,Balochistan,Mastung,2022-23,0.00,0.0,0.00,0.0
+Cotton,Balochistan,Khuzdar,2021-22,2.72,4.3,7.65,4.7
+Cotton,Balochistan,Khuzdar,2022-23,8.93,13.0,12.86,11.4
+Cotton,Balochistan,Awaran,2021-22,3.47,5.4,5.04,3.1
+Cotton,Balochistan,Awaran,2022-23,2.72,4.0,3.29,2.9
+Cotton,Balochistan,Kharan,2021-22,0.22,0.3,0.33,0.2
+Cotton,Balochistan,Kharan,2022-23,5.30,7.7,5.78,5.1
+Cotton,Balochistan,Washuk,2021-22,13.34,20.9,32.99,20.4
+Cotton,Balochistan,Washuk,2022-23,0.51,0.7,0.40,0.4
+Cotton,Balochistan,Lasbela,2021-22,4.17,6.6,10.55,6.5
+Cotton,Balochistan,Lasbela,2022-23,13.29,19.4,16.35,14.5
+Cotton,Balochistan,Turbat,2021-22,0.13,0.2,0.22,0.1
+Cotton,Balochistan,Turbat,2022-23,5.91,8.6,14.12,12.5
+Cotton,Balochistan,Panjgoor,2021-22,0.00,0.0,0.00,0.0
+Cotton,Balochistan,Panjgoor,2022-23,0.80,1.2,0.55,0.5
+Cotton,Balochistan,Gwadar,2021-22,0.00,0.0,0.00,0.0
+Cotton,Balochistan,Gwadar,2022-23,0.00,0.0,0.00,0.0
+Cotton,Balochistan,Total,2021-22,63.73,,161.90,
+Cotton,Balochistan,Total,2022-23,68.46,,112.73,
+Tobacco,Punjab,Attock,2021-22,81,0,176,0
+Tobacco,Punjab,Attock,2022-23,88,1,266,0
+Tobacco,Punjab,Rawalpindi,2021-22,0,0,0,0
+Tobacco,Punjab,Rawalpindi,2022-23,0,0,0,0
+Tobacco,Punjab,Muree,2021-22,0,0,,0
+Tobacco,Punjab,Muree,2022-23,0,0,0,0
+Tobacco,Punjab,Islamabad,2021-22,0,0,0,0
+Tobacco,Punjab,Islamabad,2022-23,0,0,0,0
+Tobacco,Punjab,Jhelum,2021-22,0,0,1,0
+Tobacco,Punjab,Jhelum,2022-23,0,0,0,0
+Tobacco,Punjab,Chakwal,2021-22,1,0,0,0
+Tobacco,Punjab,Chakwal,2022-23,0,0,0,0
+Tobacco,Punjab,Sargodha,2021-22,0,0,17,0
+Tobacco,Punjab,Sargodha,2022-23,0,0,0,0
+Tobacco,Punjab,Talagang,2021-22,,0,,0
+Tobacco,Punjab,Talagang,2022-23,8,0,20,0
+Tobacco,Punjab,Khushab,2021-22,9,0,1,0
+Tobacco,Punjab,Khushab,2022-23,2,0,4,0
+Tobacco,Punjab,Mianwali,2021-22,0,0,0,0
+Tobacco,Punjab,Mianwali,2022-23,56,0,222,0
+Tobacco,Punjab,Bhakkar,2021-22,0,0,0,0
+Tobacco,Punjab,Bhakkar,2022-23,0,0,0,0
+Tobacco,Punjab,Faisalabad,2021-22,0,0,453,1
+Tobacco,Punjab,Faisalabad,2022-23,179,1,409,1
+Tobacco,Punjab,Toba Tek Singh,2021-22,192,1,3202,5
+Tobacco,Punjab,Toba Tek Singh,2022-23,1816,11,4062,7
+Tobacco,Punjab,Jhang,2021-22,1429,8,147,0
+Tobacco,Punjab,Jhang,2022-23,115,1,284,0
+Tobacco,Punjab,Chiniot,2021-22,59,0,20,0
+Tobacco,Punjab,Chiniot,2022-23,2,0,5,0
+Tobacco,Punjab,Gujrat,2021-22,8,0,100,0
+Tobacco,Punjab,Gujrat,2022-23,36,0,66,0
+Tobacco,Punjab,M.B. Din,2021-22,52,0,182,0
+Tobacco,Punjab,M.B. Din,2022-23,286,2,418,1
+Tobacco,Punjab,Sialkot,2021-22,136,1,0,0
+Tobacco,Punjab,Sialkot,2022-23,2,0,3,0
+Tobacco,Punjab,Narowal,2021-22,0,0,85,0
+Tobacco,Punjab,Narowal,2022-23,20,0,60,0
+Tobacco,Punjab,Gujranwala,2021-22,31,0,7,0
+Tobacco,Punjab,Gujranwala,2022-23,23,0,34,0
+Tobacco,Punjab,Hafizabad,2021-22,4,0,575,1
+Tobacco,Punjab,Hafizabad,2022-23,25,0,58,0
+Tobacco,Punjab,Wazirabad,2021-22,0,0,0,0
+Tobacco,Punjab,Wazirabad,2022-23,0,0,,0
+Tobacco,Punjab,Sheikhupura,2021-22,156,1,382,1
+Tobacco,Punjab,Sheikhupura,2022-23,270,2,545,1
+Tobacco,Punjab,Nankana Sahib,2021-22,169,1,111,0
+Tobacco,Punjab,Nankana Sahib,2022-23,75,0,116,0
+Tobacco,Punjab,Lahore,2021-22,71,0,371,1
+Tobacco,Punjab,Lahore,2022-23,51,0,168,0
+Tobacco,Punjab,Kasur,2021-22,115,1,83,0
+Tobacco,Punjab,Kasur,2022-23,23,0,23,0
+Tobacco,Punjab,Okara,2021-22,24,0,1765,3
+Tobacco,Punjab,Okara,2022-23,444,3,1663,3
+Tobacco,Punjab,Sahiwal,2021-22,506,3,495,1
+Tobacco,Punjab,Sahiwal,2022-23,265,2,1017,2
+Tobacco,Punjab,Pakpattan,2021-22,220,1,24,0
+Tobacco,Punjab,Pakpattan,2022-23,15,0,34,0
+Tobacco,Punjab,Multan,2021-22,13,0,0,0
+Tobacco,Punjab,Multan,2022-23,0,0,0,0
+Tobacco,Punjab,Lodhran,2021-22,0,0,0,0
+Tobacco,Punjab,Lodhran,2022-23,2,0,5,0
+Tobacco,Punjab,Khanewal,2021-22,0,0,10,0
+Tobacco,Punjab,Khanewal,2022-23,6,0,15,0
+Tobacco,Punjab,Vehari,2021-22,5,0,200,0
+Tobacco,Punjab,Vehari,2022-23,131,1,447,1
+Tobacco,Punjab,M. Garh,2021-22,92,0,71,0
+Tobacco,Punjab,M. Garh,2022-23,37,0,117,0
+Tobacco,Punjab,Kot Addu,2021-22,0,0,0,0
+Tobacco,Punjab,Kot Addu,2022-23,0,0,,0
+Tobacco,Punjab,Layyah,2021-22,26,0,0,0
+Tobacco,Punjab,Layyah,2022-23,,0,,0
+Tobacco,Punjab,D.G. Khan,2021-22,0,0,8826,14
+Tobacco,Punjab,D.G. Khan,2022-23,2085,13,8651,14
+Tobacco,Punjab,Rajanpur,2021-22,2573,14,47608,73
+Tobacco,Punjab,Rajanpur,2022-23,10275,63,43122,70
+Tobacco,Punjab,Bahawalpur,2021-22,12837,68,0,0
+Tobacco,Punjab,Bahawalpur,2022-23,0,0,0,0
+Tobacco,Punjab,Rahimyar Khan,2021-22,0,0,14,0
+Tobacco,Punjab,Rahimyar Khan,2022-23,0,0,0,0
+Tobacco,Punjab,Bahawalnagar,2021-22,9,0,0,0
+Tobacco,Punjab,Bahawalnagar,2022-23,0,0,0,0
+Tobacco,Punjab,Total,2021-22,18818,,64926,
+Tobacco,Punjab,Total,2022-23,16337,,61834,
+Tobacco,Sindh,Khairpur,2021-22,3,21,5,22
+Tobacco,Sindh,Khairpur,2022-23,0,0,0,0
+Tobacco,Sindh,Ghotki,2021-22,0,0,0,0
+Tobacco,Sindh,Ghotki,2022-23,0,0,0,0
+Tobacco,Sindh,Sukkur,2021-22,0,0,0,0
+Tobacco,Sindh,Sukkur,2022-23,0,0,0,0
+Tobacco,Sindh,N. Feroze,2021-22,0,0,0,0
+Tobacco,Sindh,N. Feroze,2022-23,0,0,0,0
+Tobacco,Sindh,Shaheed Benazir Abad,2021-22,0,0,0,0
+Tobacco,Sindh,Shaheed Benazir Abad,2022-23,0,0,0,0
+Tobacco,Sindh,Jacobabad,2021-22,0,0,0,0
+Tobacco,Sindh,Jacobabad,2022-23,0,0,0,0
+Tobacco,Sindh,Kashmore,2021-22,0,0,0,0
+Tobacco,Sindh,Kashmore,2022-23,0,0,0,0
+Tobacco,Sindh,Shikarpur,2021-22,0,0,0,0
+Tobacco,Sindh,Shikarpur,2022-23,0,0,0,0
+Tobacco,Sindh,Larkana,2021-22,0,0,0,0
+Tobacco,Sindh,Larkana,2022-23,0,0,0,0
+Tobacco,Sindh,Kambar Shahdat Kot,2021-22,0,0,0,0
+Tobacco,Sindh,Kambar Shahdat Kot,2022-23,0,0,0,0
+Tobacco,Sindh,Sanghar,2021-22,0,0,0,0
+Tobacco,Sindh,Sanghar,2022-23,0,0,0,0
+Tobacco,Sindh,Tharparkar,2021-22,0,0,0,0
+Tobacco,Sindh,Tharparkar,2022-23,0,0,0,0
+Tobacco,Sindh,Mirpurkhas,2021-22,0,0,0,0
+Tobacco,Sindh,Mirpurkhas,2022-23,0,0,0,0
+Tobacco,Sindh,Umarkot,2021-22,0,0,0,0
+Tobacco,Sindh,Umarkot,2022-23,0,0,0,0
+Tobacco,Sindh,Dadu,2021-22,0,0,0,0
+Tobacco,Sindh,Dadu,2022-23,0,0,0,0
+Tobacco,Sindh,Jamshoro,2021-22,11,79,18,78
+Tobacco,Sindh,Jamshoro,2022-23,5,100,7,100
+Tobacco,Sindh,Hyderabad,2021-22,0,0,0,0
+Tobacco,Sindh,Hyderabad,2022-23,0,0,0,0
+Tobacco,Sindh,Matiari,2021-22,0,0,0,0
+Tobacco,Sindh,Matiari,2022-23,0,0,0,0
+Tobacco,Sindh,Tando Allahyar,2021-22,0,0,0,0
+Tobacco,Sindh,Tando Allahyar,2022-23,0,0,0,0
+Tobacco,Sindh,T.M.Khan,2021-22,0,0,0,0
+Tobacco,Sindh,T.M.Khan,2022-23,0,0,0,0
+Tobacco,Sindh,Badin,2021-22,0,0,0,0
+Tobacco,Sindh,Badin,2022-23,0,0,0,0
+Tobacco,Sindh,Thatta,2021-22,0,0,0,0
+Tobacco,Sindh,Thatta,2022-23,0,0,0,0
+Tobacco,Sindh,Karachi,2021-22,0,0,0,0
+Tobacco,Sindh,Karachi,2022-23,0,0,0,0
+Tobacco,Sindh,Total,2021-22,14,,23,
+Tobacco,Sindh,Total,2022-23,5,,7,
+Tobacco,Kpk,Bannu,2021-22,0,0,0,0
+Tobacco,Kpk,Bannu,2022-23,0,0,0,0
+Tobacco,Kpk,Lakki Marwat,2021-22,0,0,0,0
+Tobacco,Kpk,Lakki Marwat,2022-23,0,0,0,0
+Tobacco,Kpk,D.Ikhan,2021-22,0,0,0,0
+Tobacco,Kpk,D.Ikhan,2022-23,0,0,0,0
+Tobacco,Kpk,Tank,2021-22,0,0,0,0
+Tobacco,Kpk,Tank,2022-23,0,0,0,0
+Tobacco,Kpk,Abbottabad,2021-22,0,0,0,0
+Tobacco,Kpk,Abbottabad,2022-23,0,0,0,0
+Tobacco,Kpk,Battagram,2021-22,0,0,0,0
+Tobacco,Kpk,Battagram,2022-23,0,0,0,0
+Tobacco,Kpk,Haripur,2021-22,0,0,0,0
+Tobacco,Kpk,Haripur,2022-23,0,0,0,0
+Tobacco,Kpk,Kohistan,2021-22,0,0,0,0
+Tobacco,Kpk,Kohistan,2022-23,0,0,0,0
+Tobacco,Kpk,Mansehra,2021-22,1655,7,3300,5
+Tobacco,Kpk,Mansehra,2022-23,1834,6,4500,5
+Tobacco,Kpk,Kohat,2021-22,0,0,0,0
+Tobacco,Kpk,Kohat,2022-23,0,0,0,0
+Tobacco,Kpk,Karak,2021-22,0,0,0,0
+Tobacco,Kpk,Karak,2022-23,0,0,0,0
+Tobacco,Kpk,Hangu,2021-22,0,0,0,0
+Tobacco,Kpk,Hangu,2022-23,0,0,0,0
+Tobacco,Kpk,Mardan,2021-22,4487,19,13430,20
+Tobacco,Kpk,Mardan,2022-23,5678,19,18100,20
+Tobacco,Kpk,Sawabi,2021-22,12731,53,37471,55
+Tobacco,Kpk,Sawabi,2022-23,15728,54,49124,55
+Tobacco,Kpk,Bunir,2021-22,2137,9,4470,7
+Tobacco,Kpk,Bunir,2022-23,2250,8,5600,6
+Tobacco,Kpk,Chitral,2021-22,0,0,0,0
+Tobacco,Kpk,Chitral,2022-23,0,0,0,0
+Tobacco,Kpk,Malakand,2021-22,0,0,0,0
+Tobacco,Kpk,Malakand,2022-23,0,0,0,0
+Tobacco,Kpk,Dir Lower,2021-22,15,0,28,0
+Tobacco,Kpk,Dir Lower,2022-23,0,0,0,0
+Tobacco,Kpk,Dir Upper,2021-22,0,0,0,0
+Tobacco,Kpk,Dir Upper,2022-23,0,0,0,0
+Tobacco,Unknown,Shangla,2021-22,0,0,0,0
+Tobacco,Unknown,Shangla,2022-23,0,0,0,0
+Tobacco,Unknown,Swat,2021-22,35,0,50,0
+Tobacco,Unknown,Swat,2022-23,0,0,0,0
+Tobacco,Unknown,Peshawar,2021-22,0,0,0,0
+Tobacco,Unknown,Peshawar,2022-23,0,0,0,0
+Tobacco,Unknown,Charsada,2021-22,2931,12,8790,13
+Tobacco,Unknown,Charsada,2022-23,3756,13,11450,13
+Tobacco,Unknown,Nowshera,2021-22,0,0,0,0
+Tobacco,Unknown,Nowshera,2022-23,0,0,0,0
+Tobacco,Unknown,Bajour,2021-22,0,0,0,0
+Tobacco,Unknown,Bajour,2022-23,0,0,0,0
+Tobacco,Unknown,Khyber,2021-22,0,0,0,0
+Tobacco,Unknown,Khyber,2022-23,0,0,0,0
+Tobacco,Unknown,Kurram,2021-22,0,0,0,0
+Tobacco,Unknown,Kurram,2022-23,0,0,0,0
+Tobacco,Unknown,Muhmand,2021-22,0,0,0,0
+Tobacco,Unknown,Muhmand,2022-23,0,0,0,0
+Tobacco,Unknown,N. Waziristan,2021-22,0,0,0,0
+Tobacco,Unknown,N. Waziristan,2022-23,0,0,0,0
+Tobacco,Unknown,S. Waziristan,2021-22,0,0,0,0
+Tobacco,Unknown,S. Waziristan,2022-23,0,0,0,0
+Tobacco,Unknown,Oriakzai,2021-22,0,0,0,0
+Tobacco,Unknown,Oriakzai,2022-23,0,0,0,0
+Tobacco,Unknown,SD Bannu,2021-22,0,0,0,0
+Tobacco,Unknown,SD Bannu,2022-23,0,0,0,0
+Tobacco,Unknown,SD D.I. Khan,2021-22,0,0,0,0
+Tobacco,Unknown,SD D.I. Khan,2022-23,0,0,0,0
+Tobacco,Unknown,SD Hassan Khel,2021-22,0,0,0,0
+Tobacco,Unknown,SD Hassan Khel,2022-23,0,0,0,0
+Tobacco,Unknown,SD Kohat,2021-22,0,0,0,0
+Tobacco,Unknown,SD Kohat,2022-23,0,0,0,0
+Tobacco,Unknown,Total,2021-22,23991,,67539,
+Tobacco,Unknown,Total,2022-23,29246,,88774,
+Tobacco,Balochistan,Quetta,2021-22,0,0,0,0
+Tobacco,Balochistan,Quetta,2022-23,0,0,0,0
+Tobacco,Balochistan,Pishin,2021-22,187,26,258,24
+Tobacco,Balochistan,Pishin,2022-23,313,35,440,34
+Tobacco,Balochistan,K. Abdullah,2021-22,44,6,56,5
+Tobacco,Balochistan,K. Abdullah,2022-23,77,9,100,8
+Tobacco,Balochistan,Chagai,2021-22,0,0,0,0
+Tobacco,Balochistan,Chagai,2022-23,0,0,0,0
+Tobacco,Balochistan,Nushki,2021-22,0,0,0,0
+Tobacco,Balochistan,Nushki,2022-23,0,0,0,0
+Tobacco,Balochistan,Loralai,2021-22,0,0,0,0
+Tobacco,Balochistan,Loralai,2022-23,0,0,0,0
+Tobacco,Balochistan,Musa Khail,2021-22,0,0,0,0
+Tobacco,Balochistan,Musa Khail,2022-23,0,0,0,0
+Tobacco,Balochistan,Barkhan,2021-22,0,0,0,0
+Tobacco,Balochistan,Barkhan,2022-23,0,0,0,0
+Tobacco,Balochistan,Zhob,2021-22,18,2,33,3
+Tobacco,Balochistan,Zhob,2022-23,11,1,21,2
+Tobacco,Balochistan,Sherani,2021-22,0,0,0,0
+Tobacco,Balochistan,Sherani,2022-23,0,0,0,0
+Tobacco,Balochistan,Killa Saifullah,2021-22,484,66,727,68
+Tobacco,Balochistan,Killa Saifullah,2022-23,489,55,735,57
+Tobacco,Balochistan,Sibi,2021-22,0,0,0,0
+Tobacco,Balochistan,Sibi,2022-23,0,0,0,0
+Tobacco,Balochistan,Harnai,2021-22,0,0,0,0
+Tobacco,Balochistan,Harnai,2022-23,0,0,0,0
+Tobacco,Balochistan,Ziarat,2021-22,0,0,0,0
+Tobacco,Balochistan,Ziarat,2022-23,0,0,0,0
+Tobacco,Balochistan,Kohlu,2021-22,0,0,0,0
+Tobacco,Balochistan,Kohlu,2022-23,0,0,0,0
+Tobacco,Balochistan,Dera Bughti,2021-22,0,0,0,0
+Tobacco,Balochistan,Dera Bughti,2022-23,0,0,0,0
+Tobacco,Balochistan,Nasirabad,2021-22,0,0,0,0
+Tobacco,Balochistan,Nasirabad,2022-23,0,0,0,0
+Tobacco,Balochistan,Jaffarabad,2021-22,0,0,0,0
+Tobacco,Balochistan,Jaffarabad,2022-23,0,0,0,0
+Tobacco,Balochistan,Kachhi,2021-22,0,0,0,0
+Tobacco,Balochistan,Kachhi,2022-23,0,0,0,0
+Tobacco,Balochistan,Bolan,2021-22,0,0,0,0
+Tobacco,Balochistan,Bolan,2022-23,0,0,0,0
+Tobacco,Balochistan,Jhal Magsi,2021-22,0,0,0,0
+Tobacco,Balochistan,Jhal Magsi,2022-23,0,0,0,0
+Tobacco,Balochistan,Kalat,2021-22,0,0,0,0
+Tobacco,Balochistan,Kalat,2022-23,0,0,0,0
+Tobacco,Balochistan,Mastung,2021-22,0,0,0,0
+Tobacco,Balochistan,Mastung,2022-23,0,0,0,0
+Tobacco,Balochistan,Khuzdar,2021-22,0,0,0,0
+Tobacco,Balochistan,Khuzdar,2022-23,0,0,0,0
+Tobacco,Balochistan,Awaran,2021-22,0,0,0,0
+Tobacco,Balochistan,Awaran,2022-23,0,0,0,0
+Tobacco,Balochistan,Kharan,2021-22,0,0,0,0
+Tobacco,Balochistan,Kharan,2022-23,0,0,0,0
+Tobacco,Balochistan,Washuk,2021-22,0,0,0,0
+Tobacco,Balochistan,Washuk,2022-23,0,0,0,0
+Tobacco,Balochistan,Lasbela,2021-22,0,0,0,0
+Tobacco,Balochistan,Lasbela,2022-23,0,0,0,0
+Tobacco,Balochistan,Turbat,2021-22,0,0,0,0
+Tobacco,Balochistan,Turbat,2022-23,0,0,0,0
+Tobacco,Balochistan,Panjgoor,2021-22,0,0,0,0
+Tobacco,Balochistan,Panjgoor,2022-23,0,0,0,0
+Tobacco,Balochistan,Gwadar,2021-22,0,0,0,0
+Tobacco,Balochistan,Gwadar,2022-23,0,0,0,0
+Tobacco,Balochistan,Total,2021-22,733,,1074,
+Tobacco,Balochistan,Total,2022-23,890,,1296,
+Gram,Punjab,Attock,2021-22,0.95,0.1,0.80,0.3
+Gram,Punjab,Attock,2022-23,1.47,0.2,1.40,0.8
+Gram,Punjab,Rawalpindi,2021-22,0.00,0.0,0.00,0.0
+Gram,Punjab,Rawalpindi,2022-23,0.00,0.0,0.00,0.0
+Gram,Punjab,Muree,2021-22,,0.0,0.00,0.0
+Gram,Punjab,Muree,2022-23,0.00,0.0,0.00,0.0
+Gram,Punjab,Islamabad,2021-22,0.00,0.0,0.00,0.0
+Gram,Punjab,Islamabad,2022-23,0.00,0.0,0.00,0.0
+Gram,Punjab,Jhelum,2021-22,0.00,0.0,0.00,0.0
+Gram,Punjab,Jhelum,2022-23,0.00,0.0,0.00,0.0
+Gram,Punjab,Chakwal,2021-22,7.88,1.0,6.57,2.6
+Gram,Punjab,Chakwal,2022-23,3.24,0.4,3.30,1.9
+Gram,Punjab,Talagang,2021-22,0.00,0.0,0.00,0.0
+Gram,Punjab,Talagang,2022-23,8.09,1.1,5.94,3.5
+Gram,Punjab,Sargodha,2021-22,0.00,0.0,0.00,0.0
+Gram,Punjab,Sargodha,2022-23,0.00,0.0,0.00,0.0
+Gram,Punjab,Khushab,2021-22,163.09,20.9,56.55,22.6
+Gram,Punjab,Khushab,2022-23,127.87,17.2,34.19,19.9
+Gram,Punjab,Mianwali,2021-22,14.57,1.9,8.71,3.5
+Gram,Punjab,Mianwali,2022-23,16.19,2.2,10.26,6.0
+Gram,Punjab,Bhakkar,2021-22,399.82,51.3,115.41,46.2
+Gram,Punjab,Bhakkar,2022-23,384.04,51.5,51.82,30.1
+Gram,Punjab,Faisalabad,2021-22,0.00,0.0,0.00,0.0
+Gram,Punjab,Faisalabad,2022-23,0.00,0.0,0.00,0.0
+Gram,Punjab,Toba Tek Singh,2021-22,0.16,0.0,0.10,0.0
+Gram,Punjab,Toba Tek Singh,2022-23,0.04,0.0,0.01,0.0
+Gram,Punjab,Jhang,2021-22,80.33,10.3,20.19,8.1
+Gram,Punjab,Jhang,2022-23,93.59,12.6,20.72,12.0
+Gram,Punjab,Chiniot,2021-22,0.00,0.0,0.00,0.0
+Gram,Punjab,Chiniot,2022-23,0.00,0.0,0.00,0.0
+Gram,Punjab,Gujrat,2021-22,0.08,0.0,0.02,0.0
+Gram,Punjab,Gujrat,2022-23,0.06,0.0,0.01,0.0
+Gram,Punjab,M.B. Din,2021-22,0.00,0.0,0.00,0.0
+Gram,Punjab,M.B. Din,2022-23,0.00,0.0,0.00,0.0
+Gram,Punjab,Sialkot,2021-22,0.00,0.0,0.00,0.0
+Gram,Punjab,Sialkot,2022-23,0.00,0.0,0.00,0.0
+Gram,Punjab,Narowal,2021-22,0.00,0.0,0.00,0.0
+Gram,Punjab,Narowal,2022-23,0.00,0.0,0.00,0.0
+Gram,Punjab,Gujranwala,2021-22,0.00,0.0,0.00,0.0
+Gram,Punjab,Gujranwala,2022-23,0.00,0.0,0.00,0.0
+Gram,Punjab,Hafizabad,2021-22,0.00,0.0,0.00,0.0
+Gram,Punjab,Hafizabad,2022-23,0.00,0.0,0.00,0.0
+Gram,Punjab,Wazirabad,2021-22,0.00,0.0,0.00,0.0
+Gram,Punjab,Wazirabad,2022-23,0.00,0.0,0.00,0.0
+Gram,Punjab,Sheikhupura,2021-22,0.00,0.0,0.00,0.0
+Gram,Punjab,Sheikhupura,2022-23,0.00,0.0,0.00,0.0
+Gram,Punjab,Nankana Sahib,2021-22,0.00,0.0,0.00,0.0
+Gram,Punjab,Nankana Sahib,2022-23,0.00,0.0,0.00,0.0
+Gram,Punjab,Lahore,2021-22,0.00,0.0,0.00,0.0
+Gram,Punjab,Lahore,2022-23,0.00,0.0,0.00,0.0
+Gram,Punjab,Kasur,2021-22,0.00,0.0,0.00,0.0
+Gram,Punjab,Kasur,2022-23,0.00,0.0,0.00,0.0
+Gram,Punjab,Okara,2021-22,0.00,0.0,0.00,0.0
+Gram,Punjab,Okara,2022-23,0.00,0.0,0.00,0.0
+Gram,Punjab,Sahiwal,2021-22,0.00,0.0,0.00,0.0
+Gram,Punjab,Sahiwal,2022-23,0.00,0.0,0.00,0.0
+Gram,Punjab,Pakpattan,2021-22,0.00,0.0,0.00,0.0
+Gram,Punjab,Pakpattan,2022-23,0.00,0.0,0.00,0.0
+Gram,Punjab,Multan,2021-22,0.00,0.0,0.00,0.0
+Gram,Punjab,Multan,2022-23,0.00,0.0,0.00,0.0
+Gram,Punjab,Lodhran,2021-22,0.00,0.0,0.00,0.0
+Gram,Punjab,Lodhran,2022-23,0.00,0.0,0.00,0.0
+Gram,Punjab,Khanewal,2021-22,0.00,0.0,0.00,0.0
+Gram,Punjab,Khanewal,2022-23,0.00,0.0,0.00,0.0
+Gram,Punjab,Vehari,2021-22,0.00,0.0,0.00,0.0
+Gram,Punjab,Vehari,2022-23,0.00,0.0,0.00,0.0
+Gram,Punjab,M. Garh,2021-22,1.21,0.2,0.39,0.2
+Gram,Punjab,M. Garh,2022-23,0.00,0.0,0.00,0.0
+Gram,Punjab,Kot Addu,2021-22,0.00,0.0,0.00,0.0
+Gram,Punjab,Kot Addu,2022-23,0.81,0.1,0.62,0.4
+Gram,Punjab,Layyah,2021-22,101.57,13.0,32.58,13.0
+Gram,Punjab,Layyah,2022-23,101.98,13.7,36.63,21.3
+Gram,Punjab,D.G. Khan,2021-22,4.86,0.6,4.14,1.7
+Gram,Punjab,D.G. Khan,2022-23,5.26,0.7,4.97,2.9
+Gram,Punjab,Rajanpur,2021-22,0.00,0.0,0.00,0.0
+Gram,Punjab,Rajanpur,2022-23,0.00,0.0,0.00,0.0
+Gram,Punjab,Bahawalpur,2021-22,0.04,0.0,0.05,0.0
+Gram,Punjab,Bahawalpur,2022-23,0.04,0.0,0.06,0.0
+Gram,Punjab,Rahimyar Khan,2021-22,0.00,0.0,0.00,0.0
+Gram,Punjab,Rahimyar Khan,2022-23,2.43,0.3,0.00,0.0
+Gram,Punjab,Bahawalnagar,2021-22,4.45,0.6,4.49,1.8
+Gram,Punjab,Bahawalnagar,2022-23,0.00,0.0,2.07,1.2
+Gram,Punjab,Total,2021-22,779.01,,250.00,
+Gram,Punjab,Total,2022-23,745.11,,172.00,
+Gram,Sindh,Khairpur,2021-22,0.47,2.0,0.45,2.0
+Gram,Sindh,Khairpur,2022-23,0.32,1.5,0.29,1.4
+Gram,Sindh,Ghotki,2021-22,0.14,0.6,0.13,0.6
+Gram,Sindh,Ghotki,2022-23,0.13,0.6,0.12,0.6
+Gram,Sindh,Sukkur,2021-22,0.43,1.8,0.42,1.8
+Gram,Sindh,Sukkur,2022-23,0.43,2.0,0.39,1.9
+Gram,Sindh,N. Feroze,2021-22,0.26,1.1,0.26,1.1
+Gram,Sindh,N. Feroze,2022-23,0.17,0.8,0.15,0.7
+Gram,Sindh,Shaheed Benazir Abad,2021-22,0.09,0.4,0.09,0.4
+Gram,Sindh,Shaheed Benazir Abad,2022-23,0.08,0.4,0.07,0.3
+Gram,Sindh,Jacobabad,2021-22,9.17,38.4,8.77,38.3
+Gram,Sindh,Jacobabad,2022-23,7.11,34.2,7.04,34.6
+Gram,Sindh,Kashmore,2021-22,9.38,39.3,9.04,39.5
+Gram,Sindh,Kashmore,2022-23,9.50,45.7,9.40,46.1
+Gram,Sindh,Shikarpur,2021-22,0.07,0.3,0.06,0.3
+Gram,Sindh,Shikarpur,2022-23,0.01,0.0,0.01,0.0
+Gram,Sindh,Larkana,2021-22,1.70,7.1,1.66,7.3
+Gram,Sindh,Larkana,2022-23,1.41,6.8,1.40,6.9
+Gram,Sindh,Kambar Shahdat Kot,2021-22,0.34,1.4,0.33,1.4
+Gram,Sindh,Kambar Shahdat Kot,2022-23,0.20,1.0,0.18,0.9
+Gram,Sindh,Sanghar,2021-22,0.00,0.0,0.00,0.0
+Gram,Sindh,Sanghar,2022-23,0.00,0.0,0.00,0.0
+Gram,Sindh,Tharparkar,2021-22,0.00,0.0,0.00,0.0
+Gram,Sindh,Tharparkar,2022-23,0.00,0.0,0.00,0.0
+Gram,Sindh,Mirpurkhas,2021-22,0.00,0.0,0.00,0.0
+Gram,Sindh,Mirpurkhas,2022-23,0.00,0.0,0.00,0.0
+Gram,Sindh,Umarkot,2021-22,0.00,0.0,0.00,0.0
+Gram,Sindh,Umarkot,2022-23,0.00,0.0,0.00,0.0
+Gram,Sindh,Dadu,2021-22,0.30,1.3,0.28,1.2
+Gram,Sindh,Dadu,2022-23,0.20,1.0,0.20,1.0
+Gram,Sindh,Jamshoro,2021-22,1.14,4.8,1.01,4.4
+Gram,Sindh,Jamshoro,2022-23,0.78,3.8,0.73,3.6
+Gram,Sindh,Hyderabad,2021-22,0.00,0.0,0.00,0.0
+Gram,Sindh,Hyderabad,2022-23,0.00,0.0,0.00,0.0
+Gram,Sindh,Matiari,2021-22,0.38,1.6,0.37,1.6
+Gram,Sindh,Matiari,2022-23,0.45,2.1,0.40,2.0
+Gram,Sindh,Tando Allahyar,2021-22,0.00,0.0,0.00,0.0
+Gram,Sindh,Tando Allahyar,2022-23,0.00,0.0,0.00,0.0
+Gram,Sindh,T.M.Khan,2021-22,0.01,0.0,0.01,0.0
+Gram,Sindh,T.M.Khan,2022-23,0.01,0.0,0.01,0.0
+Gram,Sindh,Badin,2021-22,0.00,0.0,0.00,0.0
+Gram,Sindh,Badin,2022-23,0.00,0.0,0.00,0.0
+Gram,Sindh,Thatta,2021-22,0.00,0.0,0.00,0.0
+Gram,Sindh,Thatta,2022-23,0.00,0.0,0.00,0.0
+Gram,Sindh,Karachi,2021-22,0.00,0.0,0.00,0.0
+Gram,Sindh,Karachi,2022-23,0.00,0.0,0.00,0.0
+Gram,Sindh,Total,2021-22,23.87,,22.88,
+Gram,Sindh,Total,2022-23,20.80,,20.37,
+Gram,Kpk,Bannu,2021-22,0.39,2.2,0.25,2.9
+Gram,Kpk,Bannu,2022-23,0.32,1.2,0.20,1.5
+Gram,Kpk,Lakki Marwat,2021-22,7.87,43.9,3.21,37.5
+Gram,Kpk,Lakki Marwat,2022-23,8.14,32.1,3.34,25.9
+Gram,Kpk,D.Ikhan,2021-22,3.67,20.5,2.90,33.9
+Gram,Kpk,D.Ikhan,2022-23,8.41,33.1,6.43,49.8
+Gram,Kpk,Tank,2021-22,1.30,7.2,0.36,4.2
+Gram,Kpk,Tank,2022-23,4.21,16.6,1.22,9.5
+Gram,Kpk,Abbottabad,2021-22,0.00,0.0,0.00,0.0
+Gram,Kpk,Abbottabad,2022-23,0.00,0.0,0.00,0.0
+Gram,Kpk,Battagram,2021-22,0.00,0.0,0.00,0.0
+Gram,Kpk,Battagram,2022-23,0.00,0.0,0.00,0.0
+Gram,Kpk,Haripur,2021-22,0.00,0.0,0.00,0.0
+Gram,Kpk,Haripur,2022-23,0.00,0.0,0.00,0.0
+Gram,Kpk,Kohistan,2021-22,0.00,0.0,0.00,0.0
+Gram,Kpk,Kohistan,2022-23,0.00,0.0,0.00,0.0
+Gram,Kpk,Mansehra,2021-22,0.00,0.0,0.00,0.0
+Gram,Kpk,Mansehra,2022-23,0.00,0.0,0.00,0.0
+Gram,Kpk,Kohat,2021-22,0.00,0.0,0.00,0.0
+Gram,Kpk,Kohat,2022-23,0.00,0.0,0.00,0.0
+Gram,Kpk,Karak,2021-22,1.74,9.7,0.52,6.0
+Gram,Kpk,Karak,2022-23,1.39,5.5,0.42,3.2
+Gram,Kpk,Hangu,2021-22,0.00,0.0,0.00,0.0
+Gram,Kpk,Hangu,2022-23,0.00,0.0,0.00,0.0
+Gram,Kpk,Mardan,2021-22,0.00,0.0,0.00,0.0
+Gram,Kpk,Mardan,2022-23,0.00,0.0,0.00,0.0
+Gram,Kpk,Sawabi,2021-22,0.01,0.0,0.01,0.1
+Gram,Kpk,Sawabi,2022-23,0.01,0.0,0.00,0.0
+Gram,Kpk,Bunir,2021-22,0.00,0.0,0.00,0.0
+Gram,Kpk,Bunir,2022-23,0.00,0.0,0.00,0.0
+Gram,Kpk,Chitral,2021-22,0.00,0.0,0.00,0.0
+Gram,Kpk,Chitral,2022-23,0.00,0.0,0.00,0.0
+Gram,Kpk,Malakand,2021-22,0.00,0.0,0.00,0.0
+Gram,Kpk,Malakand,2022-23,0.00,0.0,0.00,0.0
+Gram,Kpk,Dir Lower,2021-22,0.00,0.0,0.00,0.0
+Gram,Kpk,Dir Lower,2022-23,0.00,0.0,0.00,0.0
+Gram,Kpk,Dir Upper,2021-22,0.00,0.0,0.00,0.0
+Gram,Kpk,Dir Upper,2022-23,0.00,0.0,0.00,0.0
+Gram,Kpk,Shangla,2021-22,0.00,0.0,0.00,0.0
+Gram,Kpk,Shangla,2022-23,0.00,0.0,0.00,0.0
+Gram,Kpk,Swat,2021-22,0.00,0.0,0.00,0.0
+Gram,Kpk,Swat,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,Peshawar,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,Peshawar,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,Charsada,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,Charsada,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,Nowshera,2021-22,0.01,0.0,0.01,0.1
+Gram,Unknown,Nowshera,2022-23,0.01,0.0,0.01,0.0
+Gram,Unknown,Bajour,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,Bajour,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,Khyber,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,Khyber,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,Kurram,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,Kurram,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,Muhmand,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,Muhmand,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,N. Waziristan,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,N. Waziristan,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,S. Waziristan,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,S. Waziristan,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,Oriakzai,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,Oriakzai,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,SD Bannu,2021-22,2.94,16.4,1.31,15.3
+Gram,Unknown,SD Bannu,2022-23,2.90,11.4,1.30,10.0
+Gram,Unknown,SD D.I. Khan,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,SD D.I. Khan,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,SD Hassan Khel,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,SD Hassan Khel,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,SD Kohat,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,SD Kohat,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,Total,2021-22,17.93,,8.57,
+Gram,Unknown,Total,2022-23,25.39,,12.92,
+Gram,Unknown,Quetta,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,Quetta,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,Pishin,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,Pishin,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,K. Abdullah,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,K. Abdullah,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,Chagai,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,Chagai,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,Nushki,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,Nushki,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,Loralai,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,Loralai,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,Musa Khail,2021-22,0.02,0.1,0.01,0.0
+Gram,Unknown,Musa Khail,2022-23,0.03,0.1,0.01,0.0
+Gram,Unknown,Barkhan,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,Barkhan,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,Zhob,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,Zhob,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,Sherani,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,Sherani,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,Killa Saifullah,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,Killa Saifullah,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,Sibi,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,Sibi,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,Harnai,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,Harnai,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,Ziarat,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,Ziarat,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,Kohlu,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,Kohlu,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,Dera Bughti,2021-22,1.09,2.6,0.65,1.9
+Gram,Unknown,Dera Bughti,2022-23,2.72,5.3,1.35,3.5
+Gram,Unknown,Nasirabad,2021-22,16.62,40.5,14.13,41.1
+Gram,Unknown,Nasirabad,2022-23,16.70,32.5,13.81,36.0
+Gram,Unknown,Jaffarabad,2021-22,23.21,56.6,19.58,56.9
+Gram,Unknown,Jaffarabad,2022-23,23.25,45.2,19.22,50.1
+Gram,Unknown,Kachhi,2021-22,0.04,0.1,0.03,0.1
+Gram,Unknown,Kachhi,2022-23,0.53,1.0,0.26,0.7
+Gram,Unknown,Bolan,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,Bolan,2022-23,0.00,0.0,3.66,9.6
+Gram,Unknown,Jhal Magsi,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,Jhal Magsi,2022-23,8.20,15.9,0.00,0.0
+Gram,Unknown,Kalat,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,Kalat,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,Mastung,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,Mastung,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,Khuzdar,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,Khuzdar,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,Awaran,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,Awaran,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,Kharan,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,Kharan,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,Washuk,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,Washuk,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,Lasbela,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,Lasbela,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,Turbat,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,Turbat,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,Panjgoor,2021-22,0.03,0.1,0.02,0.1
+Gram,Unknown,Panjgoor,2022-23,0.02,0.0,0.02,0.0
+Gram,Unknown,Gwadar,2021-22,0.00,0.0,0.00,0.0
+Gram,Unknown,Gwadar,2022-23,0.00,0.0,0.00,0.0
+Gram,Unknown,Total,2021-22,41.00,,34.41,
+Gram,Unknown,Total,2022-23,51.45,,38.33,
+Masoor,Punjab,Attock,2021-22,2.09,0.9,1.63,0.4
+Masoor,Punjab,Attock,2022-23,4.14,1.0,2.05,0.3
+Masoor,Punjab,Rawalpindi,2021-22,0.49,0.2,0.23,0.1
+Masoor,Punjab,Rawalpindi,2022-23,0.62,0.1,0.50,0.1
+Masoor,Punjab,Muree,2021-22,0.00,0.0,0.00,0.0
+Masoor,Punjab,Muree,2022-23,0.00,0.0,0.00,0.0
+Masoor,Punjab,Islamabad,2021-22,0.00,0.0,0.00,0.0
+Masoor,Punjab,Islamabad,2022-23,0.00,0.0,0.00,0.0
+Masoor,Punjab,Jhelum,2021-22,0.24,0.1,0.17,0.0
+Masoor,Punjab,Jhelum,2022-23,0.52,0.1,0.38,0.1
+Masoor,Punjab,Chakwal,2021-22,13.48,5.7,19.14,4.7
+Masoor,Punjab,Chakwal,2022-23,11.94,2.8,14.20,2.1
+Masoor,Punjab,Talagang,2021-22,0.00,0.0,0.00,0.0
+Masoor,Punjab,Talagang,2022-23,3.84,0.9,2.95,0.4
+Masoor,Punjab,Sargodha,2021-22,2.83,1.2,5.07,1.3
+Masoor,Punjab,Sargodha,2022-23,6.63,1.6,9.68,1.5
+Masoor,Punjab,Khushab,2021-22,4.30,1.8,4.61,1.1
+Masoor,Punjab,Khushab,2022-23,8.16,1.9,10.55,1.6
+Masoor,Punjab,Mianwali,2021-22,22.81,9.6,31.52,7.8
+Masoor,Punjab,Mianwali,2022-23,35.15,8.2,65.13,9.8
+Masoor,Punjab,Bhakkar,2021-22,21.98,9.3,30.93,7.7
+Masoor,Punjab,Bhakkar,2022-23,38.19,8.9,40.58,6.1
+Masoor,Punjab,Faisalabad,2021-22,23.23,9.8,40.82,10.1
+Masoor,Punjab,Faisalabad,2022-23,34.50,8.1,64.87,9.7
+Masoor,Punjab,Toba Tek Singh,2021-22,17.25,7.3,32.32,8.0
+Masoor,Punjab,Toba Tek Singh,2022-23,24.72,5.8,34.77,5.2
+Masoor,Punjab,Jhang,2021-22,5.04,2.1,11.69,2.9
+Masoor,Punjab,Jhang,2022-23,11.25,2.6,17.14,2.6
+Masoor,Punjab,Chiniot,2021-22,1.60,0.7,2.65,0.7
+Masoor,Punjab,Chiniot,2022-23,0.92,0.2,1.38,0.2
+Masoor,Punjab,Gujrat,2021-22,2.35,1.0,1.77,0.4
+Masoor,Punjab,Gujrat,2022-23,2.53,0.6,1.66,0.2
+Masoor,Punjab,M.B. Din,2021-22,0.00,0.0,0.00,0.0
+Masoor,Punjab,M.B. Din,2022-23,0.00,0.0,0.00,0.0
+Masoor,Punjab,Sialkot,2021-22,0.08,0.0,0.13,0.0
+Masoor,Punjab,Sialkot,2022-23,0.29,0.1,0.39,0.1
+Masoor,Punjab,Narowal,2021-22,0.07,0.0,0.05,0.0
+Masoor,Punjab,Narowal,2022-23,0.10,0.0,0.11,0.0
+Masoor,Punjab,Gujranwala,2021-22,0.00,0.0,0.00,0.0
+Masoor,Punjab,Gujranwala,2022-23,0.24,0.1,0.25,0.0
+Masoor,Punjab,Hafizabad,2021-22,0.00,0.0,0.00,0.0
+Masoor,Punjab,Hafizabad,2022-23,0.00,0.0,0.00,0.0
+Masoor,Punjab,Sheikhupura,2021-22,0.26,0.1,0.42,0.1
+Masoor,Punjab,Sheikhupura,2022-23,0.75,0.2,1.37,0.2
+Masoor,Punjab,Nankana Sahib,2021-22,1.93,0.8,2.83,0.7
+Masoor,Punjab,Nankana Sahib,2022-23,3.35,0.8,4.85,0.7
+Masoor,Punjab,Lahore,2021-22,0.20,0.1,0.35,0.1
+Masoor,Punjab,Lahore,2022-23,0.81,0.2,1.50,0.2
+Masoor,Punjab,Kasur,2021-22,5.70,2.4,10.62,2.6
+Masoor,Punjab,Kasur,2022-23,12.62,3.0,16.41,2.5
+Masoor,Punjab,Okara,2021-22,7.89,3.3,15.19,3.8
+Masoor,Punjab,Okara,2022-23,15.08,3.5,27.07,4.1
+Masoor,Punjab,Sahiwal,2021-22,4.45,1.9,8.02,2.0
+Masoor,Punjab,Sahiwal,2022-23,11.44,2.7,17.05,2.6
+Masoor,Punjab,Pakpattan,2021-22,0.87,0.4,1.23,0.3
+Masoor,Punjab,Pakpattan,2022-23,5.27,1.2,7.80,1.2
+Masoor,Punjab,Multan,2021-22,0.14,0.1,0.26,0.1
+Masoor,Punjab,Multan,2022-23,1.08,0.3,2.27,0.3
+Masoor,Punjab,Lodhran,2021-22,1.25,0.5,1.99,0.5
+Masoor,Punjab,Lodhran,2022-23,3.45,0.8,5.44,0.8
+Masoor,Punjab,Khanewal,2021-22,6.48,2.7,12.65,3.1
+Masoor,Punjab,Khanewal,2022-23,22.39,5.2,35.46,5.3
+Masoor,Punjab,Vehari,2021-22,7.53,3.2,13.06,3.2
+Masoor,Punjab,Vehari,2022-23,17.60,4.1,27.68,4.2
+Masoor,Punjab,M. Garh,2021-22,5.43,2.3,11.44,2.8
+Masoor,Punjab,M. Garh,2022-23,8.26,1.9,14.03,2.1
+Masoor,Punjab,Kot Addu,2021-22,0.00,0.0,0.00,0.0
+Masoor,Punjab,Kot Addu,2022-23,1.90,0.4,2.90,0.4
+Masoor,Punjab,Layyah,2021-22,1.75,0.7,1.96,0.5
+Masoor,Punjab,Layyah,2022-23,4.95,1.2,6.98,1.0
+Masoor,Punjab,D.G. Khan,2021-22,1.17,0.5,1.43,0.4
+Masoor,Punjab,D.G. Khan,2022-23,2.74,0.6,3.48,0.5
+Masoor,Punjab,Rajanpur,2021-22,13.18,5.6,21.77,5.4
+Masoor,Punjab,Rajanpur,2022-23,35.67,8.4,56.29,8.5
+Masoor,Punjab,Bahawalpur,2021-22,20.02,8.4,38.91,9.7
+Masoor,Punjab,Bahawalpur,2022-23,30.48,7.1,59.56,8.9
+Masoor,Punjab,Rahimyar Khan,2021-22,6.81,2.9,12.99,3.2
+Masoor,Punjab,Rahimyar Khan,2022-23,14.80,3.5,26.80,4.0
+Masoor,Punjab,Bahawalnagar,2021-22,34.02,14.4,65.15,16.2
+Masoor,Punjab,Bahawalnagar,2022-23,50.61,11.9,82.16,12.3
+Masoor,Punjab,Total,2021-22,236.94,,403.00,
+Masoor,Punjab,Total,2022-23,426.98,,665.71,
+Masoor,Unknown,District,2021-22,2021-22,,2021-22,
+Masoor,Unknown,District,2022-23,2022-23,,2022-23,
+Masoor,Sindh,Khairpur,2021-22,2.06,3.8,2.24,3.9
+Masoor,Sindh,Khairpur,2022-23,1.86,2.9,2.06,3.0
+Masoor,Sindh,Ghotki,2021-22,0.24,0.4,0.28,0.5
+Masoor,Sindh,Ghotki,2022-23,0.24,0.4,0.28,0.4
+Masoor,Sindh,Sukkur,2021-22,0.36,0.7,0.41,0.7
+Masoor,Sindh,Sukkur,2022-23,0.35,0.5,0.39,0.6
+Masoor,Sindh,N. Feroze,2021-22,1.24,2.3,1.22,2.1
+Masoor,Sindh,N. Feroze,2022-23,1.69,2.6,1.71,2.5
+Masoor,Sindh,Shaheed Benazir Abad,2021-22,6.10,11.2,6.44,11.1
+Masoor,Sindh,Shaheed Benazir Abad,2022-23,6.60,10.4,7.60,11.2
+Masoor,Sindh,Jacobabad,2021-22,4.21,7.7,5.20,9.0
+Masoor,Sindh,Jacobabad,2022-23,7.84,12.3,9.35,13.7
+Masoor,Sindh,Kashmore,2021-22,8.49,15.6,8.82,15.3
+Masoor,Sindh,Kashmore,2022-23,11.84,18.6,12.34,18.1
+Masoor,Sindh,Shikarpur,2021-22,0.43,0.8,0.46,0.8
+Masoor,Sindh,Shikarpur,2022-23,0.09,0.1,0.09,0.1
+Masoor,Sindh,Larkana,2021-22,3.33,6.1,3.92,6.8
+Masoor,Sindh,Larkana,2022-23,3.33,5.2,3.93,5.8
+Masoor,Sindh,Kambar Shahdat Kot,2021-22,1.18,2.2,1.15,2.0
+Masoor,Sindh,Kambar Shahdat Kot,2022-23,0.85,1.3,0.98,1.4
+Masoor,Sindh,Sanghar,2021-22,10.11,18.6,10.01,17.3
+Masoor,Sindh,Sanghar,2022-23,10.21,16.0,10.13,14.9
+Masoor,Sindh,Tharparkar,2021-22,1.28,2.4,1.63,2.8
+Masoor,Sindh,Tharparkar,2022-23,1.20,1.9,1.26,1.8
+Masoor,Sindh,Mirpurkhas,2021-22,6.95,12.8,6.86,11.9
+Masoor,Sindh,Mirpurkhas,2022-23,7.13,11.2,6.92,10.2
+Masoor,Sindh,Umarkot,2021-22,0.77,1.4,1.41,2.4
+Masoor,Sindh,Umarkot,2022-23,2.70,4.2,3.13,4.6
+Masoor,Sindh,Dadu,2021-22,1.22,2.2,1.13,2.0
+Masoor,Sindh,Dadu,2022-23,1.27,2.0,1.24,1.8
+Masoor,Sindh,Jamshoro,2021-22,0.34,0.6,0.42,0.7
+Masoor,Sindh,Jamshoro,2022-23,0.32,0.5,0.40,0.6
+Masoor,Sindh,Hyderabad,2021-22,0.10,0.2,0.14,0.2
+Masoor,Sindh,Hyderabad,2022-23,0.16,0.3,0.21,0.3
+Masoor,Sindh,Matiari,2021-22,1.49,2.7,1.47,2.5
+Masoor,Sindh,Matiari,2022-23,1.55,2.4,1.58,2.3
+Masoor,Sindh,Tando Allahyar,2021-22,0.23,0.4,0.29,0.5
+Masoor,Sindh,Tando Allahyar,2022-23,0.18,0.3,0.18,0.3
+Masoor,Sindh,T.M.Khan,2021-22,0.09,0.2,0.20,0.3
+Masoor,Sindh,T.M.Khan,2022-23,0.10,0.2,0.12,0.2
+Masoor,Sindh,Badin,2021-22,0.85,1.6,0.91,1.6
+Masoor,Sindh,Badin,2022-23,0.86,1.3,0.95,1.4
+Masoor,Sindh,Thatta,2021-22,3.41,6.3,3.22,5.6
+Masoor,Sindh,Thatta,2022-23,3.32,5.2,3.21,4.7
+Masoor,Sindh,Karachi,2021-22,0.00,0.0,0.00,0.0
+Masoor,Sindh,Karachi,2022-23,0.00,0.0,0.00,0.0
+Masoor,Sindh,Total,2021-22,54.46,,57.79,
+Masoor,Sindh,Total,2022-23,63.67,,68.05,
+Masoor,Kpk,Bannu,2021-22,0.02,0.2,0.01,0.2
+Masoor,Kpk,Bannu,2022-23,0.02,0.1,0.01,0.1
+Masoor,Kpk,Lakki Marwat,2021-22,0.06,0.5,0.04,0.8
+Masoor,Kpk,Lakki Marwat,2022-23,0.06,0.4,0.05,0.6
+Masoor,Kpk,D.Ikhan,2021-22,1.48,14.1,0.62,11.5
+Masoor,Kpk,D.Ikhan,2022-23,4.29,32.1,1.80,24.0
+Masoor,Kpk,Tank,2021-22,0.39,3.7,0.46,8.5
+Masoor,Kpk,Tank,2022-23,1.15,8.6,1.37,18.3
+Masoor,Kpk,Abbottabad,2021-22,0.03,0.3,0.01,0.2
+Masoor,Kpk,Abbottabad,2022-23,0.02,0.1,0.01,0.1
+Masoor,Kpk,Battagram,2021-22,0.02,0.2,0.01,0.2
+Masoor,Kpk,Battagram,2022-23,0.00,0.0,0.00,0.0
+Masoor,Kpk,Haripur,2021-22,0.34,3.2,0.13,2.5
+Masoor,Kpk,Haripur,2022-23,0.32,2.4,0.13,1.7
+Masoor,Kpk,Kohistan,2021-22,0.00,0.0,0.00,0.0
+Masoor,Kpk,Kohistan,2022-23,0.00,0.0,0.00,0.0
+Masoor,Kpk,Mansehra,2021-22,0.12,1.1,0.08,1.5
+Masoor,Kpk,Mansehra,2022-23,0.12,0.9,0.10,1.3
+Masoor,Kpk,Kohat,2021-22,0.21,2.0,0.15,2.7
+Masoor,Kpk,Kohat,2022-23,0.26,1.9,0.19,2.5
+Masoor,Kpk,Karak,2021-22,0.10,0.9,0.04,0.7
+Masoor,Kpk,Karak,2022-23,0.08,0.6,0.03,0.4
+Masoor,Kpk,Hangu,2021-22,0.23,2.2,0.14,2.6
+Masoor,Kpk,Hangu,2022-23,0.17,1.3,0.13,1.7
+Masoor,Kpk,Mardan,2021-22,0.40,3.8,0.21,4.0
+Masoor,Kpk,Mardan,2022-23,0.35,2.6,0.34,4.5
+Masoor,Kpk,Sawabi,2021-22,1.26,12.0,1.05,19.4
+Masoor,Kpk,Sawabi,2022-23,0.99,7.4,0.83,11.1
+Masoor,Kpk,Bunir,2021-22,0.22,2.1,0.11,2.1
+Masoor,Kpk,Bunir,2022-23,0.28,2.1,0.16,2.1
+Masoor,Kpk,Chitral,2021-22,0.00,0.0,0.00,0.0
+Masoor,Kpk,Chitral,2022-23,0.00,0.0,0.00,0.0
+Masoor,Kpk,Malakand,2021-22,0.46,4.4,0.24,4.5
+Masoor,Kpk,Malakand,2022-23,0.48,3.6,0.41,5.5
+Masoor,Kpk,Dir Lower,2021-22,0.76,7.2,0.43,8.1
+Masoor,Kpk,Dir Lower,2022-23,0.56,4.1,0.32,4.2
+Masoor,Kpk,Dir Upper,2021-22,0.57,5.4,0.25,4.6
+Masoor,Kpk,Dir Upper,2022-23,0.48,3.6,0.21,2.8
+Masoor,Unknown,Shangla,2021-22,0.00,0.0,0.00,0.0
+Masoor,Unknown,Shangla,2022-23,0.00,0.0,0.00,0.0
+Masoor,Unknown,Swat,2021-22,0.03,0.3,0.02,0.4
+Masoor,Unknown,Swat,2022-23,0.02,0.1,0.02,0.2
+Masoor,Unknown,Peshawar,2021-22,0.01,0.1,0.01,0.3
+Masoor,Unknown,Peshawar,2022-23,0.01,0.1,0.01,0.1
+Masoor,Unknown,Charsada,2021-22,0.00,0.0,0.00,0.0
+Masoor,Unknown,Charsada,2022-23,0.00,0.0,0.00,0.0
+Masoor,Unknown,Nowshera,2021-22,0.03,0.3,0.03,0.5
+Masoor,Unknown,Nowshera,2022-23,0.02,0.2,0.01,0.2
+Masoor,Unknown,Bajour,2021-22,2.98,28.2,0.98,18.3
+Masoor,Unknown,Bajour,2022-23,2.89,21.6,1.01,13.5
+Masoor,Unknown,Khyber,2021-22,0.19,1.8,0.10,1.8
+Masoor,Unknown,Khyber,2022-23,0.18,1.3,0.10,1.4
+Masoor,Unknown,Kurram,2021-22,0.00,0.0,0.00,0.0
+Masoor,Unknown,Kurram,2022-23,0.00,0.0,0.00,0.0
+Masoor,Unknown,Muhmand,2021-22,0.27,2.6,0.09,1.6
+Masoor,Unknown,Muhmand,2022-23,0.26,2.0,0.09,1.3
+Masoor,Unknown,N. Waziristan,2021-22,0.00,0.0,0.00,0.0
+Masoor,Unknown,N. Waziristan,2022-23,0.00,0.0,0.00,0.0
+Masoor,Unknown,S. Waziristan,2021-22,0.00,0.0,0.00,0.0
+Masoor,Unknown,S. Waziristan,2022-23,0.00,0.0,0.00,0.0
+Masoor,Unknown,Oriakzai,2021-22,0.30,2.9,0.14,2.6
+Masoor,Unknown,Oriakzai,2022-23,0.30,2.2,0.14,1.9
+Masoor,Unknown,SD Bannu,2021-22,0.00,0.0,0.00,0.0
+Masoor,Unknown,SD Bannu,2022-23,0.00,0.0,0.00,0.0
+Masoor,Unknown,SD D.I. Khan,2021-22,0.00,0.0,0.00,0.0
+Masoor,Unknown,SD D.I. Khan,2022-23,0.00,0.0,0.00,0.0
+Masoor,Unknown,SD Hassan Khel,2021-22,0.01,0.1,0.01,0.1
+Masoor,Unknown,SD Hassan Khel,2022-23,0.05,0.4,0.03,0.3
+Masoor,Unknown,SD Kohat,2021-22,0.05,0.5,0.03,0.5
+Masoor,Unknown,SD Kohat,2022-23,0.01,0.1,0.01,0.1
+Masoor,Unknown,Total,2021-22,10.550,,5.38,
+Masoor,Unknown,Total,2022-23,13.37,,7.50,
+Masoor,Balochistan,Quetta,2021-22,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Quetta,2022-23,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Pishin,2021-22,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Pishin,2022-23,0.00,0.0,0.00,0.0
+Masoor,Balochistan,K. Abdullah,2021-22,0.00,0.0,0.00,0.0
+Masoor,Balochistan,K. Abdullah,2022-23,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Chagai,2021-22,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Chagai,2022-23,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Nushki,2021-22,0.05,0.2,0.03,0.2
+Masoor,Balochistan,Nushki,2022-23,0.05,0.0,0.03,0.0
+Masoor,Balochistan,Loralai,2021-22,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Loralai,2022-23,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Musa Khail,2021-22,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Musa Khail,2022-23,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Barkhan,2021-22,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Barkhan,2022-23,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Zhob,2021-22,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Zhob,2022-23,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Sherani,2021-22,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Sherani,2022-23,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Killa Saifullah,2021-22,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Killa Saifullah,2022-23,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Sibi,2021-22,0.29,1.3,0.13,0.8
+Masoor,Balochistan,Sibi,2022-23,6.81,5.8,3.07,4.2
+Masoor,Balochistan,Harnai,2021-22,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Harnai,2022-23,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Ziarat,2021-22,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Ziarat,2022-23,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Kohlu,2021-22,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Kohlu,2022-23,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Dera Bughti,2021-22,1.39,6.1,0.82,5.1
+Masoor,Balochistan,Dera Bughti,2022-23,3.87,3.3,2.44,3.4
+Masoor,Balochistan,Nasirabad,2021-22,9.16,39.9,6.79,42.5
+Masoor,Balochistan,Nasirabad,2022-23,57.62,48.7,41.06,56.8
+Masoor,Balochistan,Jaffarabad,2021-22,6.85,29.9,5.27,33.0
+Masoor,Balochistan,Jaffarabad,2022-23,11.41,9.6,8.79,12.2
+Masoor,Balochistan,Kachhi,2021-22,2.15,9.4,1.10,6.9
+Masoor,Balochistan,Kachhi,2022-23,24.45,20.7,10.45,14.4
+Masoor,Balochistan,Bolan,2021-22,0.09,0.4,0.06,0.4
+Masoor,Balochistan,Bolan,2022-23,0.09,0.1,0.06,0.1
+Masoor,Balochistan,Jhal Magsi,2021-22,0.81,3.5,0.43,2.7
+Masoor,Balochistan,Jhal Magsi,2022-23,11.81,10.0,5.05,7.0
+Masoor,Balochistan,Kalat,2021-22,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Kalat,2022-23,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Mastung,2021-22,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Mastung,2022-23,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Khuzdar,2021-22,0.11,0.5,0.07,0.4
+Masoor,Balochistan,Khuzdar,2022-23,0.11,0.1,0.06,0.1
+Masoor,Balochistan,Awaran,2021-22,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Awaran,2022-23,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Kharan,2021-22,0.02,0.1,0.01,0.1
+Masoor,Balochistan,Kharan,2022-23,0.02,0.0,0.01,0.0
+Masoor,Balochistan,Washuk,2021-22,0.01,0.0,0.01,0.0
+Masoor,Balochistan,Washuk,2022-23,0.01,0.0,0.01,0.0
+Masoor,Balochistan,Lasbela,2021-22,2.02,8.8,1.27,8.0
+Masoor,Balochistan,Lasbela,2022-23,2.08,1.8,1.31,1.8
+Masoor,Balochistan,Turbat,2021-22,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Turbat,2022-23,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Panjgoor,2021-22,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Panjgoor,2022-23,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Gwadar,2021-22,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Gwadar,2022-23,0.00,0.0,0.00,0.0
+Masoor,Balochistan,Total,2021-22,22.93,,16.00,
+Masoor,Balochistan,Total,2022-23,118.32,,72.32,
+Masoor,Punjab,Attock,2021-22,587,0,219,0
+Masoor,Punjab,Attock,2022-23,610,0,566,0
+Masoor,Punjab,Rawalpindi,2021-22,24,0,5,0
+Masoor,Punjab,Rawalpindi,2022-23,26,0,18,0
+Masoor,Punjab,Islamabad,2021-22,0,0,0,0
+Masoor,Punjab,Islamabad,2022-23,0,0,0,0
+Masoor,Punjab,Jhelum,2021-22,1052,1,255,0
+Masoor,Punjab,Jhelum,2022-23,1097,0,612,0
+Masoor,Punjab,Chakwal,2021-22,182,0,80,0
+Masoor,Punjab,Chakwal,2022-23,162,0,112,0
+Masoor,Punjab,Sargodha,2021-22,2413,1,1054,1
+Masoor,Punjab,Sargodha,2022-23,1700,1,1008,1
+Masoor,Punjab,Khushab,2021-22,72,0,21,0
+Masoor,Punjab,Khushab,2022-23,81,0,48,0
+Masoor,Punjab,Mianwali,2021-22,133,0,81,0
+Masoor,Punjab,Mianwali,2022-23,252,0,197,0
+Masoor,Punjab,Bhakkar,2021-22,630,0,380,0
+Masoor,Punjab,Bhakkar,2022-23,1450,1,851,1
+Masoor,Punjab,Faisalabad,2021-22,14085,8,8743,8
+Masoor,Punjab,Faisalabad,2022-23,17959,7,11929,8
+Masoor,Punjab,Toba Tek Singh,2021-22,6189,3,3909,3
+Masoor,Punjab,Toba Tek Singh,2022-23,6326,3,3889,3
+Masoor,Punjab,Jhang,2021-22,1062,1,569,0
+Masoor,Punjab,Jhang,2022-23,2039,1,1024,1
+Masoor,Punjab,Chiniot,2021-22,1372,1,792,1
+Masoor,Punjab,Chiniot,2022-23,104,0,81,0
+Masoor,Punjab,Gujrat,2021-22,37,0,15,0
+Masoor,Punjab,Gujrat,2022-23,229,0,96,0
+Masoor,Punjab,M.B. Din,2021-22,323,0,155,0
+Masoor,Punjab,M.B. Din,2022-23,1570,1,512,0
+Masoor,Punjab,Sialkot,2021-22,0,0,0,0
+Masoor,Punjab,Sialkot,2022-23,148,0,78,0
+Masoor,Punjab,Narowal,2021-22,70,0,29,0
+Masoor,Punjab,Narowal,2022-23,52,0,21,0
+Masoor,Punjab,Gujranwala,2021-22,0,0,0,0
+Masoor,Punjab,Gujranwala,2022-23,0,0,0,0
+Masoor,Punjab,Hafizabad,2021-22,389,0,233,0
+Masoor,Punjab,Hafizabad,2022-23,70,0,23,0
+Masoor,Punjab,Sheikhupura,2021-22,19,0,10,0
+Masoor,Punjab,Sheikhupura,2022-23,20,0,10,0
+Masoor,Punjab,Nankana Sahib,2021-22,221,0,112,0
+Masoor,Punjab,Nankana Sahib,2022-23,320,0,166,0
+Masoor,Punjab,Lahore,2021-22,6,0,3,0
+Masoor,Punjab,Lahore,2022-23,58,0,28,0
+Masoor,Punjab,Kasur,2021-22,4536,3,3183,3
+Masoor,Punjab,Kasur,2022-23,7741,3,6542,4
+Masoor,Punjab,Okara,2021-22,11325,6,10287,9
+Masoor,Punjab,Okara,2022-23,16356,7,13791,9
+Masoor,Punjab,Sahiwal,2021-22,9313,5,7272,6
+Masoor,Punjab,Sahiwal,2022-23,18987,8,13944,9
+Masoor,Punjab,Pakpattan,2021-22,8648,5,9727,8
+Masoor,Punjab,Pakpattan,2022-23,19534,8,15543,10
+Masoor,Punjab,Multan,2021-22,146,0,75,0
+Masoor,Punjab,Multan,2022-23,412,0,147,0
+Masoor,Punjab,Lodhran,2021-22,689,0,426,0
+Masoor,Punjab,Lodhran,2022-23,1045,0,744,1
+Masoor,Punjab,Khanewal,2021-22,16865,10,8768,8
+Masoor,Punjab,Khanewal,2022-23,26086,11,15290,10
+Masoor,Punjab,Vehari,2021-22,5256,3,4323,4
+Masoor,Punjab,Vehari,2022-23,14414,6,13920,9
+Masoor,Punjab,M. Garh,2021-22,12901,7,8352,7
+Masoor,Punjab,M. Garh,2022-23,9619,4,5372,4
+Masoor,Punjab,Layyah,2021-22,56704,32,33517,29
+Masoor,Punjab,Layyah,2022-23,65878,27,21684,15
+Masoor,Punjab,D.G. Khan,2021-22,12320,7,5541,5
+Masoor,Punjab,D.G. Khan,2022-23,13494,5,8990,6
+Masoor,Punjab,Rajanpur,2021-22,904,1,548,0
+Masoor,Punjab,Rajanpur,2022-23,754,0,405,0
+Masoor,Punjab,Bahawalpur,2021-22,508,0,229,0
+Masoor,Punjab,Bahawalpur,2022-23,705,0,328,0
+Masoor,Punjab,Rahimyar Khan,2021-22,355,0,258,0
+Masoor,Punjab,Rahimyar Khan,2022-23,597,0,291,0
+Masoor,Punjab,Bahawalnagar,2021-22,7510,4,6629,6
+Masoor,Punjab,Bahawalnagar,2022-23,15796,6,9962,7
+Masoor,Punjab,Total,2021-22,176846,,115800,
+Masoor,Punjab,Total,2022-23,245689,,148220,
+Masoor,Sindh,Khairpur,2021-22,142,1,65,1
+Masoor,Sindh,Khairpur,2022-23,134,2,62,2
+Masoor,Sindh,Ghotki,2021-22,67,0,45,1
+Masoor,Sindh,Ghotki,2022-23,57,1,38,1
+Masoor,Sindh,Sukkur,2021-22,75,1,45,1
+Masoor,Sindh,Sukkur,2022-23,77,1,46,2
+Masoor,Sindh,N. Feroze,2021-22,4804,34,2161,34
+Masoor,Sindh,N. Feroze,2022-23,0,0,0,0
+Masoor,Sindh,Shaheed Benazir Abad,2021-22,329,2,177,3
+Masoor,Sindh,Shaheed Benazir Abad,2022-23,0,0,0,0
+Masoor,Sindh,Jacobabad,2021-22,0,0,0,0
+Masoor,Sindh,Jacobabad,2022-23,0,0,0,0
+Masoor,Sindh,Kashmore,2021-22,9,0,6,0
+Masoor,Sindh,Kashmore,2022-23,10,0,6,0
+Masoor,Sindh,Shikarpur,2021-22,58,0,29,0
+Masoor,Sindh,Shikarpur,2022-23,58,1,29,1
+Masoor,Sindh,Larkana,2021-22,118,1,58,1
+Masoor,Sindh,Larkana,2022-23,142,3,69,3
+Masoor,Sindh,Kambar Shahdat Kot,2021-22,0,0,0,0
+Masoor,Sindh,Kambar Shahdat Kot,2022-23,0,0,0,0
+Masoor,Sindh,Sanghar,2021-22,96,1,57,1
+Masoor,Sindh,Sanghar,2022-23,103,2,62,2
+Masoor,Sindh,Tharparkar,2021-22,4046,29,1608,25
+Masoor,Sindh,Tharparkar,2022-23,4475,80,1946,76
+Masoor,Sindh,Mirpurkhas,2021-22,169,1,95,2
+Masoor,Sindh,Mirpurkhas,2022-23,87,2,49,2
+Masoor,Sindh,Umarkot,2021-22,0,0,0,0
+Masoor,Sindh,Umarkot,2022-23,150,3,73,3
+Masoor,Sindh,Dadu,2021-22,3212,23,1508,24
+Masoor,Sindh,Dadu,2022-23,0,0,0,0
+Masoor,Sindh,Jamshoro,2021-22,753,5,435,7
+Masoor,Sindh,Jamshoro,2022-23,331,6,191,7
+Masoor,Sindh,Hyderabad,2021-22,0,0,0,0
+Masoor,Sindh,Hyderabad,2022-23,0,0,0,0
+Masoor,Sindh,Matiari,2021-22,0,0,0,0
+Masoor,Sindh,Matiari,2022-23,0,0,0,0
+Masoor,Sindh,Tando Allahyar,2021-22,51,0,24,0
+Masoor,Sindh,Tando Allahyar,2022-23,0,0,0,0
+Masoor,Sindh,T.M.Khan,2021-22,0,0,0,0
+Masoor,Sindh,T.M.Khan,2022-23,0,0,0,0
+Masoor,Sindh,Badin,2021-22,0,0,0,0
+Masoor,Sindh,Badin,2022-23,0,0,0,0
+Masoor,Sindh,Thatta,2021-22,0,0,0,0
+Masoor,Sindh,Thatta,2022-23,0,0,0,0
+Masoor,Sindh,Karachi,2021-22,0,0,0,0
+Masoor,Sindh,Karachi,2022-23,0,0,0,0
+Masoor,Sindh,Total,2021-22,13929,,6313,
+Masoor,Sindh,Total,2022-23,5624,,2571,
+Masoor,Kpk,Bannu,2021-22,0,0,0,0
+Masoor,Kpk,Bannu,2022-23,0,0,0 0,
+Masoor,Kpk,Lakki Marwat,2021-22,0,0,0,0
+Masoor,Kpk,Lakki Marwat,2022-23,0,0,0 0 6 2,
+Masoor,Kpk,D.Ikhan,2021-22,96,23,63,27
+Masoor,Kpk,D.Ikhan,2022-23,8,2,,
+Masoor,Kpk,Tank,2021-22,0,0,0,0
+Masoor,Kpk,Tank,2022-23,0,0,0 0,
+Masoor,Kpk,Abbottabad,2021-22,0,0,0,0
+Masoor,Kpk,Abbottabad,2022-23,0,0,0 0,
+Masoor,Kpk,Battagram,2021-22,0,0,0,0
+Masoor,Kpk,Battagram,2022-23,0,0,0 0,
+Masoor,Kpk,Haripur,2021-22,51,12,34,14
+Masoor,Kpk,Haripur,2022-23,54,12,37 12,
+Masoor,Kpk,Kohistan,2021-22,0,0,0,0
+Masoor,Kpk,Kohistan,2022-23,0,0,0 0,
+Masoor,Kpk,Mansehra,2021-22,0,0,0,0
+Masoor,Kpk,Mansehra,2022-23,0,0,0 0,
+Masoor,Kpk,Kohat,2021-22,168,40,73,31
+Masoor,Kpk,Kohat,2022-23,172,38,75 25,
+Masoor,Kpk,Karak,2021-22,1,0,0,0
+Masoor,Kpk,Karak,2022-23,0,0,0 0,
+Masoor,Kpk,Hangu,2021-22,1,0,1,0
+Masoor,Kpk,Hangu,2022-23,0,0,0 0,
+Masoor,Kpk,Mardan,2021-22,34,8,9,4
+Masoor,Kpk,Mardan,2022-23,34,8,9 3,
+Masoor,Kpk,Sawabi,2021-22,0,0,0,0
+Masoor,Kpk,Sawabi,2022-23,0,0,0 0,
+Masoor,Kpk,Bunir,2021-22,0,0,0,0
+Masoor,Kpk,Bunir,2022-23,0,0,0 0,
+Masoor,Kpk,Chitral,2021-22,0,0,0,0
+Masoor,Kpk,Chitral,2022-23,0,0,0 0,
+Masoor,Kpk,Malakand,2021-22,55,13,34,14
+Masoor,Kpk,Malakand,2022-23,84,19,57 19,
+Masoor,Unknown,Peshawar,2021-22,0,0,0,0
+Masoor,Unknown,Peshawar,2022-23,0,0,0,0
+Masoor,Unknown,Charsada,2021-22,4,1,5,2
+Masoor,Unknown,Charsada,2022-23,81,18,101,33
+Masoor,Unknown,Nowshera,2021-22,14,3,18,8
+Masoor,Unknown,Nowshera,2022-23,14,3,18,6
+Masoor,Unknown,Bajour,2021-22,0,0,0,0
+Masoor,Unknown,Bajour,2022-23,0,0,0,0
+Masoor,Unknown,Khyber,2021-22,0,0,0,0
+Masoor,Unknown,Khyber,2022-23,0,0,0,0
+Masoor,Unknown,Kurram,2021-22,0,0,0,0
+Masoor,Unknown,Kurram,2022-23,0,0,0,0
+Masoor,Unknown,Muhmand,2021-22,0,0,0,0
+Masoor,Unknown,Muhmand,2022-23,0,0,0,0
+Masoor,Unknown,N. Waziristan,2021-22,0,0,0,0
+Masoor,Unknown,N. Waziristan,2022-23,0,0,0,0
+Masoor,Unknown,S. Waziristan,2021-22,0,0,0,0
+Masoor,Unknown,S. Waziristan,2022-23,0,0,0,0
+Masoor,Unknown,Oriakzai,2021-22,0,0,0,0
+Masoor,Unknown,Oriakzai,2022-23,0,0,0,0
+Masoor,Unknown,SD Bannu,2021-22,0,0,0,0
+Masoor,Unknown,SD Bannu,2022-23,0,0,0,0
+Masoor,Unknown,SD D.I. Khan,2021-22,0,0,0,0
+Masoor,Unknown,SD D.I. Khan,2022-23,0,0,0,0
+Masoor,Unknown,SD Hassan Khel,2021-22,0,0,0,0
+Masoor,Unknown,SD Hassan Khel,2022-23,0,0,0,0
+Masoor,Unknown,SD Kohat,2021-22,0,0,0,0
+Masoor,Unknown,SD Kohat,2022-23,0,0,0,0
+Masoor,Unknown,Total,2021-22,424,,237,
+Masoor,Unknown,Total,2022-23,447,,303,
+Masoor,Balochistan,Quetta,2021-22,0,0,0,0
+Masoor,Balochistan,Quetta,2022-23,0,0,0,0
+Masoor,Balochistan,Pishin,2021-22,0,0,0,0
+Masoor,Balochistan,Pishin,2022-23,0,0,0,0
+Masoor,Balochistan,K. Abdullah,2021-22,0,0,0,0
+Masoor,Balochistan,K. Abdullah,2022-23,0,0,0,0
+Masoor,Balochistan,Chagai,2021-22,0,0,0,0
+Masoor,Balochistan,Chagai,2022-23,0,0,0,0
+Masoor,Balochistan,Nushki,2021-22,0,0,0,0
+Masoor,Balochistan,Nushki,2022-23,0,0,0,0
+Masoor,Balochistan,Loralai,2021-22,0,0,0,0
+Masoor,Balochistan,Loralai,2022-23,0,0,0,0
+Masoor,Balochistan,Musa Khail,2021-22,0,0,0,0
+Masoor,Balochistan,Musa Khail,2022-23,0,0,0,0
+Masoor,Balochistan,Barkhan,2021-22,396,5,219,4
+Masoor,Balochistan,Barkhan,2022-23,134,2,74,6
+Masoor,Balochistan,Zhob,2021-22,0,0,0,0
+Masoor,Balochistan,Zhob,2022-23,0,0,0,0
+Masoor,Balochistan,Sherani,2021-22,0,0,0,0
+Masoor,Balochistan,Sherani,2022-23,0,0,0,0
+Masoor,Balochistan,Killa Saifullah,2021-22,0,0,0,0
+Masoor,Balochistan,Killa Saifullah,2022-23,0,0,0,0
+Masoor,Balochistan,Sibi,2021-22,189,2,175,3
+Masoor,Balochistan,Sibi,2022-23,223,3,107,9
+Masoor,Balochistan,Harnai,2021-22,39,0,37,1
+Masoor,Balochistan,Harnai,2022-23,40,0,36,3
+Masoor,Balochistan,Ziarat,2021-22,0,0,0,0
+Masoor,Balochistan,Ziarat,2022-23,0,0,0,0
+Masoor,Balochistan,Kohlu,2021-22,7,0,5,0
+Masoor,Balochistan,Kohlu,2022-23,5,0,4,0
+Masoor,Balochistan,Dera Bughti,2021-22,581,7,359,6
+Masoor,Balochistan,Dera Bughti,2022-23,583,7,322,26
+Masoor,Balochistan,Nasirabad,2021-22,580,7,375,7
+Masoor,Balochistan,Nasirabad,2022-23,585,7,23,2
+Masoor,Balochistan,Jaffarabad,2021-22,8,0,7,0
+Masoor,Balochistan,Jaffarabad,2022-23,145,2,131,11
+Masoor,Balochistan,Kachhi,2021-22,97,1,71,1
+Masoor,Balochistan,Kachhi,2022-23,100,1,73,6
+Masoor,Balochistan,Bolan,2021-22,0,0,0,0
+Masoor,Balochistan,Bolan,2022-23,5785,71,398,32
+Masoor,Balochistan,Jhal Magsi,2021-22,6285,72,4208,74
+Masoor,Balochistan,Jhal Magsi,2022-23,0,0,0,0
+Masoor,Balochistan,Kalat,2021-22,0,0,0,0
+Masoor,Balochistan,Kalat,2022-23,0,0,0,0
+Masoor,Balochistan,Mastung,2021-22,0,0,0,0
+Masoor,Balochistan,Mastung,2022-23,0,0,0,0
+Masoor,Balochistan,Khuzdar,2021-22,0,0,0,0
+Masoor,Balochistan,Khuzdar,2022-23,0,0,0,0
+Masoor,Balochistan,Awaran,2021-22,0,0,0,0
+Masoor,Balochistan,Awaran,2022-23,0,0,0,0
+Masoor,Balochistan,Kharan,2021-22,0,0,0,0
+Masoor,Balochistan,Kharan,2022-23,0,0,0,0
+Masoor,Balochistan,Washuk,2021-22,5,0,4,0
+Masoor,Balochistan,Washuk,2022-23,7,0,6,0
+Masoor,Balochistan,Lasbela,2021-22,505,6,265,5
+Masoor,Balochistan,Lasbela,2022-23,550,7,73,6
+Masoor,Balochistan,Turbat,2021-22,0,0,0,0
+Masoor,Balochistan,Turbat,2022-23,0,0,0,0
+Masoor,Balochistan,Panjgoor,2021-22,0,0,0,0
+Masoor,Balochistan,Panjgoor,2022-23,0,0,0,0
+Masoor,Balochistan,Gwadar,2021-22,0,0,0,0
+Masoor,Balochistan,Gwadar,2022-23,0,0,0,0
+Masoor,Balochistan,Total,2021-22,8692,,5725,
+Masoor,Balochistan,Total,2022-23,8157,,1247,
+Gram,Balochistan,Quetta,2021-22,0,,0,
+Gram,Balochistan,Quetta,2022-23,,0,,0
+Gram,Balochistan,Pishin,2021-22,174,,460,
+Gram,Balochistan,Pishin,2022-23,,174,,602
+Gram,Balochistan,K. Abdullah,2021-22,28,,48,
+Gram,Balochistan,K. Abdullah,2022-23,,28,,48
+Gram,Balochistan,Chagai,2021-22,0,,0,
+Gram,Balochistan,Chagai,2022-23,,0,,0
+Gram,Balochistan,Loralai,2021-22,3681,,8313,
+Gram,Balochistan,Loralai,2022-23,,3074,,6747
+Gram,Balochistan,Musa Khail,2021-22,65,,38,
+Gram,Balochistan,Musa Khail,2022-23,,60,,30
+Gram,Balochistan,Barkhan,2021-22,534,,883,
+Gram,Balochistan,Barkhan,2022-23,,586,,1509
+Gram,Balochistan,Zhob,2021-22,2201,,4699,
+Gram,Balochistan,Zhob,2022-23,,2196,,4684
+Gram,Balochistan,Killa Saifullah,2021-22,746,,1200,
+Gram,Balochistan,Killa Saifullah,2022-23,,750,,1757
+Gram,Balochistan,Sibi,2021-22,0,,0,
+Gram,Balochistan,Sibi,2022-23,,0,,0
+Gram,Balochistan,Ziarat,2021-22,265,,287,
+Gram,Balochistan,Ziarat,2022-23,,266,,304
+Gram,Balochistan,Kohlu,2021-22,82,,129,
+Gram,Balochistan,Kohlu,2022-23,,84,,173
+Gram,Balochistan,Dera Bughti,2021-22,0,,0,
+Gram,Balochistan,Dera Bughti,2022-23,,0,,0
+Gram,Balochistan,Nasirabad,2021-22,0,,0,
+Gram,Balochistan,Nasirabad,2022-23,,0,,0
+Gram,Balochistan,Jaffarabad,2021-22,0,,0,
+Gram,Balochistan,Jaffarabad,2022-23,,0,,0
+Gram,Balochistan,Bolan,2021-22,0,,0,
+Gram,Balochistan,Bolan,2022-23,,0,,0
+Gram,Balochistan,Jhal Magsi,2021-22,0,,0,
+Gram,Balochistan,Jhal Magsi,2022-23,,0,,0
+Gram,Balochistan,Kalat,2021-22,0,,0,
+Gram,Balochistan,Kalat,2022-23,,0,,0
+Gram,Balochistan,Mastung,2021-22,27,,83,
+Gram,Balochistan,Mastung,2022-23,,26,,79
+Gram,Balochistan,Khuzdar,2021-22,303,,923,
+Gram,Balochistan,Khuzdar,2022-23,,307,,682
+Gram,Balochistan,Awaran,2021-22,0,,0,
+Gram,Balochistan,Awaran,2022-23,,0,,0
+Gram,Balochistan,Kharan,2021-22,0,,0,
+Gram,Balochistan,Kharan,2022-23,,0,,0
+Gram,Balochistan,Lasbela,2021-22,0,,0,
+Gram,Balochistan,Lasbela,2022-23,,0,,0
+Gram,Balochistan,Turbat,2021-22,0,,0,
+Gram,Balochistan,Turbat,2022-23,,0,,0
+Gram,Balochistan,Panjgoor,2021-22,9,,12,
+Gram,Balochistan,Panjgoor,2022-23,,10,,11
+Gram,Balochistan,Gwadar,2021-22,0,,0,
+Gram,Balochistan,Gwadar,2022-23,,0,,0
+Gram,Balochistan,Naushki,2021-22,0,,0,
+Gram,Balochistan,Naushki,2022-23,,0,,0
+Gram,Balochistan,Harnai,2021-22,0,,0,
+Gram,Balochistan,Harnai,2022-23,,0,,0
+Gram,Balochistan,Kachhi,2021-22,0,,0,
+Gram,Balochistan,Kachhi,2022-23,,0,,0
+Gram,Balochistan,Washuk,2021-22,0,,0,
+Gram,Balochistan,Washuk,2022-23,,0,,0
+Gram,Balochistan,Total,2021-22,8169,,17225,
+Gram,Balochistan,Total,2022-23,,7612,,16770
